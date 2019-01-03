@@ -1,0 +1,738 @@
+   #alternate
+
+   112.ua 112.ua
+   ____________________ (BUTTON)
+   (BUTTON)
+     * ukr
+     * rus
+     * eng
+
+   ____________________ (BUTTON)
+
+novini
+
+     * Golovnii novini
+     * ATO
+     * Poliitika
+     * Ekonomiika
+     * Suspiil'stvo
+     * NP
+     * Kiyiv
+     * Afiisha
+     * Kul'tura
+     * Kurjozi
+     * Sport
+
+analiitika
+
+     * Poliitika
+     * Ekonomiika
+     * Suspiil'stvo
+     * Sviit
+     * NP
+     * Armiiya
+     * Siloviki
+     * Donbas
+     * Dos'ie
+
+viideo
+
+     * Viideo za s'ogodnii
+     * Aktual'no
+     * Poliitika
+     * Tok-shou "Pul's". Kraschii momenti
+     * Tok-shou "Pul's". Povnii vipuski
+
+     * Arhiiv
+     * telekanal
+     * hroniiki 112
+     * Dos'ie
+     * Kandidat
+     * Pul's
+
+   12.11.2018
+   Ponediilok
+   27.9 31.43
+     * RU
+     * UA
+     * ENG
+
+   12.11.2018
+   27.9 31.43
+
+     * novini
+     * analiitika
+     * viideo
+
+     * Novini
+          + Golovnii novini
+          + ATO
+          + Poliitika
+          + Ekonomiika
+          + Suspiil'stvo
+          + NP
+          + Kiyiv
+          + Afiisha
+          + Kul'tura
+          + Kurjozi
+          + Sport
+     * Analiitika
+          + Stattii
+          + Dumki
+          + IInterv'yu
+          + Poliitika
+          + Ekonomiika
+          + Suspiil'stvo
+          + Sviit
+          + NP
+          + Armiiya
+          + Siloviki
+          + Donbas
+     * Viideo
+          + Viideo za s'ogodnii
+          + Aktual'no
+          + Poliitika
+          + Tok-shou "Pul's". Kraschii momenti
+          + Tok-shou "Pul's". Povnii vipuski
+     * Arhiiv
+     * Dos'ie
+     * hroniiki 112
+     * telekanal
+          + Novini kanalu
+          + Vechiirniij prajm
+          + BACMAN
+          + Novini 112
+          + Golos narodu
+          + Voiennij schodennik
+          + V oblozii
+          + Gozman
+          + CHista poliitika
+          + Bliz'kij shiid
+          + 112 hvilin
+          + Ochevidec' 112
+          + LIVE
+          + Donbas. Realiiyi
+          + Hto komu Rabiinovich
+          + GORDON
+          + Kesh test
+          + Top-Syuzheti
+          + ZAVTRA
+     * kandidat
+     * Pul's
+
+     * Pro nas
+     * Kontakti
+     * Reklama
+     * Vakansiiyi
+     * Zvorotniij zvyazok
+     * Poliitika konfiidenciijnostii
+     * Logo
+     * PR
+
+   (BUTTON) Zakriti
+     * Novini
+     * Analiitika
+     * Telekanal
+     * Viideo
+     * Arhiiv
+     * Kandidat
+     * Pul's
+
+   Live
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Golovnii novini
+     * ATO
+     * Poliitika
+     * Ekonomiika
+     * Suspiil'stvo
+     * NP
+     * Kiyiv
+     * Afiisha
+     * Kul'tura
+     * Kurjozi
+     * Sport
+
+   [counter.png]
+
+     * Golovna
+     * IInterv'yu
+
+U svoyij masii ukrayincii ne viidpoviidayut' bagat'om standartam IES
+
+   ZHurnaliist Roman Skripiin v iinterv'yu programii "Gordon" na
+   telekanalii "112 Ukrayina" rozpoviiv, chi nakrilisya "tazom" obidvii
+   ukrayins'kii revolyuciiyi, chi gotova Ukrayina jti v IEvropu ii chi ne
+   bili jogo piislya efiiriiv
+   10:2207.06.2017
+   Tvitnut'
+
+   [299308.jpg?timestamp=1496403996]
+   U svoyij masii ukrayincii ne viidpoviidayut' bagat'om standartam IES
+   ZHurnaliist Roman Skripiin v efiirii "112 Ukrayina" 112.ua
+
+Dmitro Gordon
+
+   ZHurnaliist, pis'mennik, televeduchij, spiivak
+   10:2207.06.2017
+   Tvitnut'
+
+Dmitro Gordon
+
+   ZHurnaliist, pis'mennik, televeduchij, spiivak
+
+   [INS: :INS]
+
+   ZHurnaliist Roman Skripiin v iinterv'yu programii "Gordon" na
+   telekanalii "112 Ukrayina" rozpoviiv, chi nakrilisya "tazom" obidvii
+   ukrayins'kii revolyuciiyi, chi gotova Ukrayina jti v IEvropu ii chi ne
+   bili jogo piislya efiiriiv
+
+   Gordon: V efiirii programa "Gordon",  ii nash giist' - Roman Skripiin.
+
+   Vi buli oblichchyam "5-go kanalu" chasiiv Pomaranchevoyi revolyuciiyi
+   ii schodnya z'yavlyalisya u efiirii.  YAke viidchuttya zalishila u vas
+   Pomarancheva revolyuciiya? Vi zgaduiete toj chas zaraz?
+
+   Skripiin: YA poriivnyuyu. Mi todii stvoryuvali "5-j kanal". YA buv
+   odnim z avtoriiv iideyi. Koncepciiyu rozroblyalo desyatero lyudej.
+   Piislya sebe mi yiyi lishili v spadschinu tomu menedzhmentu, yakij
+   lishivsya, ii vlasniku, yakij jogo trimaie do s'ogodnii. SCHo voni z
+   nim zrobili - vi mozhete podivitisya, uviimknuvshi "5-j kanal". A
+   revolyuciiya bula neobhiidna. Prosto todii nami real'no skoristalisya,
+   tomu scho zovsiim ne hotiilosya stavati ruporom revolyuciiyi. Postiijno
+   dratuvalo piislya c'ogo, po-pershe, vpiiznavaniist' na vulicii, a
+   po-druge, postiijno kazali: "Vi - rupor revolyuciiyi". Ne najmalisya mi
+   buti ruporom revolyuciiyi, mi prosto, yak ii u 2014-mu, vipadkovo
+   diistali v ruki zolotu akciiyu, koli mi govorimo te, pro scho iinshii
+   ne govoryat'.
+
+   - CHas sviitlij buv - 2004 riik?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Nayivnij. YA viiriv v yakiis' sviitlii iideali, viiriv u
+   soliidarniist' zhurnaliists'koyi spiil'noti, viiriv, scho zhurnaliistam
+   treba dati svobodu, a dalii voni rozberut'sya samii. Viiriv, scho voni
+   mozhut' buti samovryadnimi ii ne svaritisya pomiizh soboyu. Viiriv u
+   te, scho voni mozhut' buti poryadnimi lyud'mi ii ne oblivati tebe
+   brudom za pershoyi-liipshoyi mozhlivostiicherez elementarnu lyuds'ku
+   zazdriist'.
+
+   - U 2004-mu rocii vi lyubili YUschenka, Timoshenko, Poroshenka?
+
+   - Niikoli. YUschenko viklikav yakiis' emociiyi, ce zrozumiilo. Te, scho
+   mi bachili, - ce te, scho potraplyaie v publiichne pole. YUschenko mene
+   nepriiemno vraziv piislya Donec'ka, koli voni priyihali na "5-j kanal".
+
+   - Ale vi buli viil'noyu lyudinoyu todii?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - YA gotuvavsya do efiiru, ii v grimerku zajshla II. Geraschenko ii
+   pochala menii rozkazuvati, yaka skladna situaciiya v Donec'ku. YA ne
+   bez matu govoryu, scho menii, v principii, po cimbalah, ta situaciiya,
+   yaka viidbulasya v Donec'ku, tomu scho ya gotuyusya do iinterv'yu. Tut
+   zahodit' YUschenko ii kazhe: "Ti, oblako v shtanah". II na mene
+   pal'cem. YA jomu skazav, scho mi budemo svaritisya piislya efiiru, ale
+   ne do efiiru. Davajte viidpracyuiemo, tomu scho ya vam nii v chomu ii
+   niichim ne vinen. YA vikonuyu svoyu robotu. Ot vi priyihali z Donec'ka,
+   ii vi rozkazhete, scho tam bulo. Taka tendenciiya zavzhdi tam bula.
+   Geraschenko dozvolyala sobii svogo chasu telefonuvati ii vimagati,
+   schob mi pritrimuvalisya takoyi abo iinshoyi redakciijnoyi poliitiki,
+   piislya chogo yiyi posilali, yak kazhut' v narodii, "pasti gusej". Mi
+   todii sebe ubezpechili viid tisku, nami ne smikali. SCHopravda,
+   namagannya postiijno buli. Ce takij prekrasnij dosviid, koli ti
+   rozumiiiesh, scho u vlasnika ii u menedzhmentu zavzhdi smikaiet'sya
+   ruka potyagnuti na sebe vazhiil', schob mi zrobili tak, vlasne, yak
+   voni hochut'. Tobto ti rozumiiiesh, scho do tebe stavilisya same tak:
+   ya yim plachu zarplatu - nehaj voni pracyuyut', yak skazano.
+
+   - Vi rozumiili todii, scho kozhne vashe slovo, iintonaciiya mozhut'
+   vplivati na podiiyi, na iistoriiyu?
+
+   - Prekrasno. Ce viidchuvalosya, ce bulo vidno. Ale dlya c'ogo treba
+   bulo viidchuvati lyudej. Treba ne zabuvati, scho todii buv Kuchma, z
+   zhorstkim diktatom bula cenzura v krayinii, ii koli des' viklyuchali
+   "5-j kanal", to perekazuvali, scho lyudi zbiralisya,u dvorii stavili
+   televiizor ii divilisya "5-j kanal". II todii ti rozumiiv, scho u
+   lyudej ie defiicit, vlasne, na visviitlennya podiij, yak voni
+   viidbuvayut'sya.
+
+   - Vi viidchuvali sebe iistorichnoyu postattyu, lyudinoyu, yaka zaraz, v
+   efiirii, tvorit' iistoriiyu svoieyi krayini?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Nii. Piislya togo yak ogolosili YAnukovicha prezidentom,  u mene bulo
+   tri dnii depresiiyi. U mene bulo bezsillya: vsii, scho b mi ne robili,
+   nehtuyut' viborom lyudej. Koli ya piishov z "5-go kanalu" , to menii
+   navzdogiin lunalo, scho ya zhurnaliist, a ne menedzher, ii ce
+   prikleyilosya na 10 rokiiv do mene. CHerez 10 rokiiv dovelosya na
+   prakticii dovoditi, scho ya menedzher, ii scho voni gliboko
+   pomilyalisya.
+
+   - Ukrayina v 2005 rocii mogla zrobiti potuzhnij stribok v IEvropu?
+
+   - Nii. Ce ya zaraz rozumiiyu, scho ne mogla, ii rozumiiyu, scho ne
+   duzhe mozhe. Todii nam vdalosya uniknuti silovogo vtruchannya Rosiiyi,
+   ale ciinoyu c'ogo stala kupiivlya togo prezidenta, V. YUschenka,
+   Rosiijs'koyu federaciiieyu. Ce treba rozumiiti.
+
+   - Revolyuciiya giidnostii nakrilasya tim zhe "tazom", scho ii
+   Pomarancheva?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - ZHodna revolyuciiya niichim ne nakrilasya apriiorii. Lyudi ne
+   nakrilisya. Nakrilisya tii, hto vskochiv na bron'ovik ii prosto
+   spiiksya na elementarnih spokusah ii rechah. YA niichogo ne
+   iidealiizuyu, ale v svoyij masii ukrayincii ne viidpoviidayut' bagat'om
+   standartam IES. U nas ie dvii shtuki: korupciiya j oliigarhi. Ale
+   proces ruhaiet'sya. U nas ie bagato rechej, yakii proces niivelyuyut',
+   ii viikno mozhlivostej zakrivaiet'sya. Ale vono zakrivaiet'sya ne
+   tiil'ki rukami poliitikiiv, a j tak samo rukami gromads'kogo sektoru.
+   Na zhal'.
+
+   112.ua
+
+   - Piid chas Revolyuciiyi giidnostii buli takii potuzhnii momenti, yakii
+   sponukali vihoditi lyudej. Napriklad, pobittya T. CHornovol. YIyi
+   diijsno pobili?
+
+   - Vi mene pitaiete, niibi ya yiyi biv. YA ne znayu. YA tochno
+   pam'yatayu, scho koli viidbuvalisya takii podiiyi (mi niibi
+   zbiraiemosya dodomu, vzhe efiir zakiinchili), ii prihodit' novina. Mi
+   viidrazu pochali poviidomlyati pro te, scho stalosya. Ce elementarna
+   robota piid chas nadzvichajnih situaciij - ti ne mozhesh zakriti
+   studiiyu na zamok ii skazati, scho robochij den' zakiincheno ii ti
+   jdesh dodomu. Duzhe vazhko z c'ogo stanu vihoditi.
+
+   - Vi todii na Gromads'komu telebachennii buli v centrii podiij.
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Ce hvilya, yaka vinosit' bud'-yake mediia, yake pravil'no vibiraie
+   rakurs. A potiim padiinnya viidbuvaiet'sya.
+
+   - Skazhiit', Bulatovu spravdii viidriizali vuho?
+
+   - YA viiryu v grechanu kashu, bo ya yiyi zvariv ii ya yiyi bachu. Mi
+   znajomii z Bulatovim, ii ce, scho viin pro ce rozkazuie, - ce jogo
+   iispit ii podiiyi, yakii z nim viidbuvalisya. CHi ya viiryu v ce, chi
+   ne viiryu - ya vzagalii takimi kategoriiyami ne lyublyu operuvati.
+
+   - Te, scho minulo 3,5 roki, a j dosii nema vinnih, nema vzagalii
+   kartini, scho viidbuvalosya, koli rozstriilyali Nebesnu sotnyu, ce
+   scho?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Te, scho ne pokarano vinnih, ce odin aspekt. Ale sliidstvo,
+   zdaiet'sya, retel'no rozbiraiet'sya v tomu, scho viidbuvalosya. IInodii
+   buvaie, scho j 10 rokiiv rozbirayut'sya zaradi vstanovlennya iistini.
+   Tam kupa viideomateriialu obroblyaiet'sya, ii ie viideo, yake dovodit',
+   scho te, scho namagalisya vkinuti, scho Majdan sam sebe rozstriilyav,
+   ne viidpoviidaie diijsnostii. Tobto striilyali ii z togo,ii z togo
+   boku, ale te, scho Majdan sam sebe rozstriilyav, - absurd, yakij htos'
+   nav'yazuie. CHomu ne pokarano vinnih? Tomu scho v nashiij krayinii
+   niihto z visokoposadovciiv zhodnogo razu ne poniis niiyakogo pokarannya
+   za zdiijsnennya zlochinu. U nas iedina lyudina, yaka viidsidiila za
+   g3ratami, - P. Lazarenko. II to ce viidbulosya v SSHA.
+
+   112.ua
+
+   - Hoch htos' z ukrayins'kih poliitikiiv vam podobaiet'sya?
+
+   - Nii. YA ne zbirayusya v poliitiku, ii v mene nemaie potrebi pered
+   kimos' plazuvati. YA z usiima nimi oberezhnij ii namagayusya trimatisya
+   na viidstanii vityagnutoyi ruki. YA prosto hochu lishatisya
+   zhurnaliistom. A ce znachit', scho ti maiesh mozhliviist' v odin
+   prekrasnij den', zaprosivshi yih u studiiyu, troshki naphati. Mene
+   zvinuvachuyut', scho ya ham tramvajnij, scho ya sobii takii rechii
+   dozvolyayu, ale menii piislya deyakih podiij bajduzhe, tomu scho teper
+   ya roblyu riivno te, scho menii podobaiet'sya.
+
+   - Hto rozumniishij, na vashu dumku: V. Oliijnik, O. Bondarenko chi O.
+   Car'ov, yakii buli u vas v efiirii?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Gru "Hto hoche stati miil'jonerom" prograv Car'ov. Najrozumniishij -
+   V. Oliijnik, bo viin yurist. O. Bondarenko - prosto pres-sekretar. Do
+   neyi mozhna stavitisya, yak do O. Bondarenko, yaka pracyuvala
+   pres-sekretarem Kolesniikova.
+
+   - Hto z vashih gostej buv najogidniishim?
+
+   - O. Bondarenko vijshla na drugiij hvilinii efiiru. Ce viidbuvalosya v
+   toj moment, koli buli pershii smertii, na tlii yakih O. Bondarenko
+   mogla sidiiti v studiiyi ii ciniichno posmiihatisya. Vlasne, ce stalo
+   prichinoyu, chomu vona piishla. Ne mozhna bulo v cej moment gratisya v
+   poliitiku ii proponuvati Klichku na toj moment posadu gumaniitarnogo
+   viice-prem'iera. Z moieyi tochki zoru, ce nazivaiet'sya prosto
+   piidliist'. Ce nepripustimii rechii. YA dumayu, scho iistoriiya vse
+   rozstavit' na svoyi miiscya.
+
+   - V. Oliijniku vi pokazali seredniij palec'. CHomu?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Tomu scho ya ce planuvav zrobiti. Ce ne vipadkoviist'. YAkscho vi
+   mozhete nazvati ce yakos' po-iinshomu, scho ya jomu pokazav... Niihto
+   ne navazhuiet'sya nazvati. YAkscho ne navazhuietes' - nascho vi pro ce
+   govorite?
+
+   112.ua
+
+   - Vas rozdratuvala v neschodavn'omu efiirii T. CHornovol.
+
+   - Vona mene zdivuvala, koli skazala, scho ya pracyuvav proti Majdanu ii
+   na zberezhennya vladi YAnukovicha. Ce absurd yakijs', htos' yij ce v
+   golovu vklav, bo ne dumayu, scho vona sama dodumalasya.
+
+   - Vona rozumna zhiinka, na vashu dumku?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Vona ie tim, kim vona ie. Vona pokazala, hto vona, svoyimi
+   viidpoviidyami, svoieyu reakciiieyu, a dalii vzhe sprava liikariiv
+   viznachati. Tii, hto zbiraie avtobusi "Etalon", ie psihiichno
+   nevriivnovazhenimi lyud'mi, tomu scho v nih ne vse garazd z gal'mami.
+
+   - Spiilkuyuchis' z T. CHornovol, vi layalis' matom. CHi ie pripustimim,
+   na vashu dumku, mat v efiirii?
+
+   - IE pripustimim, ale zvazhayuchi na situaciiyu. Mi zh vihodimo z
+   formatu. U nas ie format "16+", yakij peredbachaie, scho htos' (u nas
+   bula zadumka, scho gostii) mozhe govoriti vsii slova, yakii hoche. A
+   tut bula moya emociijna reakciiya, ii do neyi ce bulo vzhito.
+
+   - CHogo vi zavzhdi takij pohmurij? Vi ii v zhittii takij?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Ce v mene viraz oblichchya.
+
+   - Vi ciniik?
+
+   - Tak. Malo togo, sentimental'nij. IE te, scho mene rozchulyuie, ii
+   sliiz tih niihto ne bachit'. YA - riizkij, sliiv ne dobirayu. Osoblivo
+   ce stosuiet'sya tih, hto prihodit' na praktiku abo namagaiet'sya znajti
+   miisce dlya roboti. Buli hlopchiki ii diivchatka, yakii pracyuvali ii
+   sl'ozami vmivalisya. CHastina z tih, hto vmivavsya, teper dosit' vdalii
+   j uspiishnii zhurnaliisti ii viidomii lyudi.
+
+   - Vi nervuiete tiil'ki v efiirii chi v zhittii tezh?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - YA ne viidriiznyayusya viid togo, scho ie v efiirii ii v zhittii. YA
+   odnakovij. II dlya sebe cyu mezhu ya ster.
+
+   - Bagato lyudej kazhut' pro vas, scho vi zuhvalij. CHomu?
+
+   - YA skazav, scho ya zavzhdi vv'yazuyusya v yakiis' prigodi. U mene
+   bulo bazhannya poyihati z Ukrayini ii zhiti spokiijno des' v IEvropii.
+   Ale znovu zh tut: glyan', yaka prigoda, Romchiku, sprobuj-no sche raz.
+   YAkscho vi hochete chogos' dosyagti, yakscho vi jdete, to ne mozhna
+   zupinyatisya. YAkscho vi vhodite v rezhim peregovoriiv, vi prosto vse
+   absolyutno niivelyuiete. Pogodzhuyuchis' na nepripustimii kompromiisi,
+   vi viidrazu gubite spravu. Vi, schonajmenshe, maiete diktuvati svoyi
+   pravila.
+
+   - Vas koli-nebud' namagalisya pobiti piislya efiiriiv?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - YA kolis' diistav u fejs viid lugancya v odnomu barii, yakij,
+   diiznavshis', scho ya - Skripiin, skazav, scho ya vinen u viijnii. A
+   poliitiki piislya efiiriiv vse spuskayut' na gal'ma, voni zh aktori.
+
+   - YAkim maie buti ukrayins'ke telebachennya?
+
+   - Ukrayins'kim, schonajmenshe. U nas maie buti mediijnij rinok, a ne
+   prosto telebachennya za viidsutnostii rinku. Spravedliva, zdorova
+   konkurenciiya z umovami dokapiitaliizaciiyi mediijnogo produktu.
+
+   - Najblizhchim chasom c'ogo ne bude?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Bude. Ce moya ambiiciiya, chergova prigoda, yaku ya sobii pridumav, -
+   stvoriti mediiarinok abo zaklasti jogo v Ukrayinii.
+
+   - Hto dlya vas ie oriiientirom u profesiiyi?
+
+   - Nema. Oriiientiriiv nema ii buti ne mozhe. SCHos' mozhe podobatisya,
+   ale schob ya namagavsya mavpuvati kogos'...
+
+   - Kogo z ukrayins'kih zhurnaliistiiv vi povazhaiete?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - YIh ie biil'she, niizh vi dumaiete. Tih, z kim ya zaraz pracyuyu, -
+   ya yih povazhayu. A takih navkolo mene azh semero.
+
+   - YAk vi stavitesya do Leschenka ii Najiema?
+
+   - YAk do poliitikiiv.
+
+   - ZHurnaliisti voni horoshii?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Voni vzhe ne zhurnaliisti. II zhurnaliistami vzhe niikoli ne budut'.
+   Vsii lyublyat' zgaduvati standarti BBC, a za cimi standartami, yakscho
+   zhurnaliist piishov u poliitiku, povernutisya v poliitichnu
+   zhurnaliistiku viin vzhe ne mozhe. YAkscho mi zapustimo prognoz pogodi
+   z Najiemom abo Leschenkom - na zdorov'yachko! Abo vechiirnyu kazochku.
+
+   - Vi buli spiivavtorom iideyi "5-go kanalu". YAk vam pracyuvalosya z
+   vlasnikom, Poroshenkom?
+
+   - U nas buli zustriichii chas viid chasu, prichomu na moie prohannya.
+   YA namagavsya dovesti do jogo viidoma, scho "5-j kanal" ce resurs,
+   yakij piislya Pomaranchevoyi revolyuciiyi treba zrobiti
+   biiznes-proektom, vklavshi tudi neobhiidnii koshti, proviivshi
+   tehniichnij ii fiinansovij audit, priznachivshi pritomnij menedzhment.
+   Prichomu ya ne pretenduvav  na miisce menedzhmentu.
+
+   - Viin vas pochuv?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Nii. IInakshe chogo b ya zviidti piishov? Tam ne bulo sensu
+   lishatisya. Dumka, z yakoyu rahuvalisya piid chas revolyuciiyi ii do
+   revolyuciiyi, piislya revolyuciiyi dali zrozumiiti, scho vona niikomu
+   tut ne potriibna: "Revolyuciiya viidbulasya - vsii viil'nii".
+
+   - Vi buli zasnovnikom Gromads'kogo telebachennya. CHerez scho vinik
+   konfliikt? Vam ce bolit'?
+
+   -  Konfliikt stavsya ne z moieyi iiniiciiativi. Vzhe ne bolit', ale
+   boliilo. Viidbulosya te, scho viidbulosya. Ciila operaciiya bula z
+   metoyu znischiti reputaciiyu, schob golovu ne piidnyav.
+
+   112.ua
+
+   - Gromads'ke telebachennya ie grantovim?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Absolyutno grantovim.
+
+   - V Ukrayinii bagato takih grantovih TB, telekanaliiv?
+
+   - Granti - ce nepogano. Grantovih mediia bagato. YA b piidtrimav,
+   napevno, regiional'nii, a tii, scho central'nii, z tochki zoru
+   grantodavciiv, ne piidtrimuvav bi. Treba rozvivati ii piidniimati
+   regiioni. Za umov viidsutnostii rinku ce iedinij vihiid dlya dekogo
+   stvoriti schos' nove. Ale yakscho b cii lyudi stavilisya do grantiiv,
+   yak do shvidkogo startu, a dalii b dumali, yak ce perestaviti na
+   rinkovii rejki, pochati zaroblyati, to ce buv bi nezvorotniij proces.
+   Na zhal',u nas c'ogo ne viidbuvaiet'sya - rinku nemaie. Viidpoviidno,
+   ie oliigarhiichnii ZMII ii grantovii. II tii, ii tii ie dotaciijnimi.
+
+   - SCHo treba zrobiti, schob v Ukrayinii, nareshtii, buv mir?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - SCHonajmenshe, treba prosto nazvati rechii svoyimi iimenami. YAkscho
+   ce viijna, to ce viijna. Ce tyagne za soboyu pevnii zahodi bezpeki dlya
+   derzhavi, dlya gromadyan. Poki scho nam kazhut', scho ce giibridna, ale
+   vi tak samo vse giibridno robite. Ce takij ukrayins'kij harakter, chi
+   ya ne znayu, - vse robiti napolovinu. Reformi napolovinu, napolovinu
+   viijna - napolovinu mir. Dlya togo schob dosyagti miru, treba,
+   po-pershe, nazvati rechii svoyimi iimenami, pripiniti bavitisya v oce
+   vse. YAkscho tak zrobiti, to keriivnictvo derzhavi bude zmusheno dati
+   viidpoviid', scho robiti v ciij situaciiyi. U nas nemaie osoblivogo
+   viboru, scho robiti z Donbasom abo z Krimom.
+
+   112.ua
+
+   -U vas nemaie takoyi dumki, scho v nas ne lishe poliitiki poganii, a j
+   narod ne duzhe?
+
+   - Ukrayincii ne gotovii do IES. YAkbi ya buv A. Merkel' abo iinshim
+   ievropejs'kim keriivnikom, to ya b duzhe kritichno stavivsya do vs'ogo,
+   scho tut viidbuvaiet'sya. Ne mozhe 25 rokiiv u normal'niij krayinii ne
+   iisnuvati, schonajmenshe, normal'nih doriig. Po chomu ti yidesh - taka
+   krayina ii ie. Ukrayina krasiva, velika, ale taka durna...
+
+   112.ua
+
+   - YAka vona, omriiyana vami Ukrayina (chi krayina)?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Niimechchina. Prinajmnii poki scho niihto niichogo biil'sh
+   uspiishnogo ne prodemonstruvav na ievropejs'komu kontinentii. SCHe
+   mozhna vzyati Niiderlandi. YA SHveciiyu ne beru, bo ce bozheviil'nij
+   sociialiizm. YA ne sociialiist, ne liivij za poglyadami. Ne rozumiiyu,
+   yak to rozpodiiliti pomiizh vsiima. YAkscho hochesh pracyuvati - zarobi
+   sobii na zhittya, ale ne zabiraj v iinshogo. U nas ie biida: u nas
+   dosii suspiil'stvo yakos' sociialiistichnim lishaiet'sya. Vono
+   spozhivac'ke duzhe. U nas malo takih, hto usviidomlyuie, scho schob
+   dobre zhiti, treba bagato pracyuvati ii stvoryuvati svoyu spravu.
+   S'ogodnii nemaie fondovoyi biirzhii, tomu niihto ne mozhe na neyi
+   vijti. Rinku nemaie. A yakbi buv, to mi bi ne prosto zamiiryali
+   televiiziijniirejtingi, a mi b rozumiili, scho yakbi mi vijshli na
+   biirzhu, to za skiil'ki bi nas kupili. Ot taka konkurenciiya mene
+   zadovol'nyaie, tobto koli mi konkuruiemo ne mozhlivostyami ii
+   zv'yazkami, a tim, scho v golovii, ii tim, scho ti mozhesh zrobiti
+   rukami.
+
+   - YAkscho zavtra vam zaproponuyut' stati golovnoyu lyudinoyu na
+   golovnomu ukrayins'komu kanalii, scho vi budete robiti?
+
+   - U mene takij kanal vzhe ie. Menii ne treba niiyakih propoziciij. Vse,
+   scho mozhna bulo stvoriti, ya stvoriv, ii tii iideyi, yakii v mene
+   vinikayut' u golovii, ya budu vtiilyuvati riivno tak, yak ya vvazhayu
+   za neobhiidne, bez "na tobii". U mene ie.
+
+   - Vi schasliva lyudina?
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   - Ne gniiviv bi Boga prosto. Ne mozhu skazati, scho schasliva.
+
+   - YA vam zichu buti schaslivoyu lyudinoyu. Dyakuyu vam za iinterv`yu.
+
+   - Dyakuyu j vam.
+
+   112.ua
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   #Skripiin #IES #Majdan
+   Dzherelo: 112.ua
+
+   Piidpishiit'sya na 112.ua u vashomu Telegram ii Facebook Operativno ta
+   lakoniichno pro najvazhliviishe
+
+   YAkscho vi pomiitili pomilku, vidiiliit' neobhiidnij tekst ta
+   natisniit' Ctrl+Enter, schob poviidomiti pro ce redakciiyu
+
+   YAkscho vi pomiitili pomilku, vidiiliit' neobhiidnij tekst ii
+   natisniit' knopku "poviidomiti pro pomilku", schob poviidomiti pro ce
+   redakciiyu
+   (BUTTON) Poviidomiti pro pomilku
+
+   [INS: :INS]
+
+viideo po temii
+
+     * IErmek Narimbaj, poliitolog, - giist' IErmek Narimbaj, poliitolog,
+       - giist' "112 Ukrayina", 31.07.2018 10:0631.07.2018
+     * [INS: :INS]
+     * Gordon pro Majdan
+       Gordon pro Majdan 20:4928.08.2018
+     * Andriij Lesik, deputat Harkiivs'koyi miis'kradi VI ii VII sklikan',
+       - giist' Andriij Lesik, deputat Harkiivs'koyi miis'kradi VI ii VII
+       sklikan', - giist' "112 Ukrayina", 24.10.2018 10:2024.10.2018
+     * IES piidtrimuie diiyal'niist' miisiiyi OBSIE na Donbasii, - Ogrizko
+       IES piidtrimuie diiyal'niist' miisiiyi OBSIE na Donbasii, - Ogrizko
+       15:4109.07.2018
+     * Koli lyudi ne viiryat' u pravosuddya, pochinayut'sya majdani, -
+       Bereza
+       Koli lyudi ne viiryat' u pravosuddya, pochinayut'sya majdani, -
+       Bereza 20:1510.08.2018
+
+Novini za temoyu
+
+   [INS: :INS]
+
+Novini za temoyu
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+Novini partneriiv
+
+   Zagruzka...
+
+Viidzhet partneriiv
+
+   112.ua
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Pro nas
+     * Kontakti
+     * Zvorotniij zvyazok
+     * Reklama
+     * Vakansiiyi
+     * Poliitika konfiidenciijnostii
+     * PR
+     * Logo
+     * Mapa sajtu
+
+   Lyuboe ispol'zovanie materialov c sajta ili programm telekanala 112
+   Ukraina razreshaetsya pri uslovii giperssylki na www.112.ua u pershomu
+   abzacii tekstu. Keriivnictvo sajtu ne nese viidpoviidal'nostii za
+   dostoviirniist' materiialiiv, scho nadiijshli viid nashih chitachiiv.
+   Admiiniistraciiya sajtu, publiikuyuchi stattii nashih chitachiiv,
+   poperedzhuie, scho yih poglyadi mozhut' ne zbiigatisya z poglyadom
+   redakciiyi. Peredruk, kopiiyuvannya abo viidtvorennya iinformaciiyi,
+   yaka miistit' posilannya na agentstvo "IInterfaks-Ukrayina" ta
+   "Ukrayins'kii Novini", v bud'-yakomu viglyadii suvoro zaboroneno.
+
+   IInformaciiya v rubricii PR rozmiischuiet'sya na pravah reklami.
+   Viidpoviidal'niist' za iinformaciiyu nese reklamodavec' .
+
+   Naverh [tr?id=144068539635741&ev=PageView&noscript=1]

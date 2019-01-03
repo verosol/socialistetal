@@ -1,0 +1,608 @@
+   REFRESH(900 sec):
+   https://www.abc.es/opinion/abci-socialistas-201705220417_noticia.html
+   #Últimas noticias ABC Portada ABC publisher
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TMXBMF
+
+   [p?c1=2&c2=7715761&cv=2.0&cj=1&ns_site=abc-es&voc_site=abc-es&amp;voc_s
+   e=&amp;voc_s1=&amp;voc_s2=&amp;voc_s3=&amp;voc_s4=&amp;voc_tn=&amp;voc_
+   ho=&amp;voc_tc=&amp;voc_tcnew=&amp;voc_ed=&amp;voc_au=&amp;voc_fep=&amp
+   ;voc_fem=&amp;voc_or=&amp;voc_pr=&amp;voc_pl=&amp;voc_pu=&amp;voc_usrid
+   =&amp;voc_tusr=&amp;voc_ate=&amp;voc_usrag=&amp;voc_usrcp=&amp;voc_usrg
+   en=&amp;]
+
+   [1111111?pageName=&g=] [ABCES] Es Noticia
+     * Ana Botella
+     * Violación cada dos días
+     * Grasa abdominal
+     * Nadal
+     * Demetrio guardia civil
+     * Carmen Sevilla
+     * Series 2018
+     * Inocentadas
+     * Horóscopo hoy viernes
+
+   NacionalSevilla Síguenos en
+   Mi cuenta []
+   Inicio sesión | Registro
+
+     * Inicio
+     * Concursos y eventos
+     * Newsletters y alertas
+     * Noticias guardadas
+     * Autores seguidos
+     * Mis intereses
+     * Mi perfil
+     * Contacto
+     * Cerrar sesión
+
+   ____________________ (BUTTON)
+
+     * Inicio
+     * Concursos y eventos
+     * Newsletters y alertas
+     * Noticias guardadas
+     * Autores seguidos
+     * Mis intereses
+     * Mi perfil
+     * Contacto
+     * Cerrar sesión
+
+   Opinión ____________________ (BUTTON)
+
+   Mi cuenta []
+
+   Inicio sesión | Registro
+
+   Menú
+
+    España
+
+     * Casa Real
+     * Especial Constitución: 40 años de éxito
+     * Madrid
+     * Sevilla
+     * C. Valenciana
+     * Cataluña
+     * Aragón
+     * País Vasco
+     * Castilla y León
+     * Toledo
+     * Canarias
+     * Galicia
+
+    Internacional
+
+    Economía
+
+     * Inmobiliario
+     * Declaración de la renta 2017-2018
+
+    Sociedad
+
+    Madrid
+
+     * Distritos
+     * Municipios
+     * Videos
+     * Plan B
+
+    Familia
+
+     * Padres e hijos
+     * Parejas
+     * Educación
+     * Mayores
+     * Bienestar
+     * Planes con niños
+     * Mujeres
+     * Bebés
+     * Reto Gympass
+
+    Opinión
+
+     * El Astrolabio
+     * Blogs
+
+    Deportes
+
+     * Real Madrid
+     * Atlético de Madrid
+     * Fútbol
+     * Tenis
+     * Motos
+     * Ciclismo
+     * Baloncesto
+     * Fórmula 1
+     * Náutica
+
+    Gente
+
+     * Moda
+     * Belleza
+     * Fashion Week Madrid
+
+    Cultura
+
+     * Libros
+     * Música
+     * Teatro
+     * Arte
+     * Toros
+     * ABC Cultural
+
+    Ciencia
+
+    Historia
+
+    Viajar
+
+     * Destinos
+     * Hoteles
+     * Gastronomía
+     * Nieve
+     * Playas
+     * Madrid Fusión
+
+    Play
+
+     * Cine
+     * Series
+     * Televisión
+     * Programación TV
+     * Cartelera
+     * Películas
+     * Personajes
+
+    Summum
+
+    Tecnología
+
+     * Móviles
+     * Electrónica
+     * Redes
+     * Videojuegos
+
+    Salud
+
+     * Guía Médica
+     * Salud Bucodental
+     * Vídeos
+     * Salud al día
+
+    Motor
+
+     * Novedades
+     * Pruebas
+     * Reportajes
+     * Coche del Año
+
+    Natural
+
+     * Garantes de la biodiversidad
+
+    El Recreo
+
+    Servicios
+
+     * Traductor
+     * Juegos
+     * Gasolineras
+     * Lotería
+     * Horóscopo
+     * Concursos
+     * El tiempo
+     * Esquelas
+     * Oferplan
+     * Cupones Descuento
+     * Ocio Madrid
+     * Ofertas
+     * Top Comparativas
+
+    ABC FOTO
+
+    Hemeroteca
+
+    Viñetas
+
+     * Fe de ratas
+     * El sacapuntas
+
+    Premios
+
+    Master ABC
+
+    Museo ABC
+
+    ABC en Kiosko y Más
+
+     * Vocento
+     * Sobre nosotros
+     * Contacto
+     * Política de privacidad
+     * Política de cookies
+     * Condiciones de uso
+     * Aviso legal
+
+   Copyright © DIARIO ABC, S.L.
+
+     * España
+          + Casa Real
+          + Especial Constitución: 40 años de éxito
+          + Madrid
+          + Sevilla
+          + C. Valenciana
+          + Cataluña
+          + Aragón
+          + País Vasco
+          + Castilla y León
+          + Toledo
+          + Canarias
+          + Galicia
+     * Internacional
+     * Economía
+          + Inmobiliario
+          + Declaración de la renta 2017-2018
+     * Sociedad
+     * Madrid
+          + Distritos
+          + Municipios
+          + Videos
+          + Plan B
+     * Familia
+          + Padres e hijos
+          + Parejas
+          + Educación
+          + Mayores
+          + Bienestar
+          + Planes con niños
+          + Mujeres
+          + Bebés
+          + Reto Gympass
+     * Opinión
+          + El Astrolabio
+          + Blogs
+     * Deportes
+          + Real Madrid
+          + Atlético de Madrid
+          + Fútbol
+          + Tenis
+          + Motos
+          + Ciclismo
+          + Baloncesto
+          + Fórmula 1
+          + Náutica
+     * Gente
+          + Moda
+          + Belleza
+          + Fashion Week Madrid
+     * Cultura
+          + Libros
+          + Música
+          + Teatro
+          + Arte
+          + Toros
+          + ABC Cultural
+     * Ciencia
+     * Historia
+     * Viajar
+          + Destinos
+          + Hoteles
+          + Gastronomía
+          + Nieve
+          + Playas
+          + Madrid Fusión
+     * Play
+          + Cine
+          + Series
+          + Televisión
+          + Programación TV
+          + Cartelera
+          + Películas
+          + Personajes
+     * Summum
+     * Más
+
+    Tecnología
+          + Móviles
+          + Electrónica
+          + Redes
+          + Videojuegos
+
+    Salud
+          + Guía Médica
+          + Salud Bucodental
+          + Vídeos
+          + Salud al día
+
+    Motor
+          + Novedades
+          + Pruebas
+          + Reportajes
+          + Coche del Año
+
+    Natural
+          + Garantes de la biodiversidad
+
+    El Recreo
+
+    Servicios
+          + Traductor
+          + Juegos
+          + Gasolineras
+          + Lotería
+          + Horóscopo
+          + Concursos
+          + El tiempo
+          + Esquelas
+          + Oferplan
+          + Cupones Descuento
+          + Ocio Madrid
+          + Ofertas
+          + Top Comparativas
+
+    ABC FOTO
+
+    Hemeroteca
+
+    Viñetas
+          + Fe de ratas
+          + El sacapuntas
+
+    Premios
+
+    Master ABC
+
+    Museo ABC
+
+    ABC en Kiosko y Más
+          + Vocento
+          + Sobre nosotros
+          + Contacto
+          + Política de privacidad
+          + Política de cookies
+          + Condiciones de uso
+          + Aviso legal
+       Copyright © DIARIO ABC, S.L.
+
+     * ABC
+     * Opinión
+     * El Astrolabio
+     * Blogs
+
+   Opinión
+
+   Gabriel Albiac - Cambio de guardia
+
+                                 ¿Socialistas?
+
+El PSOE es hoy una estructura funcionarial y un fantástico proveedor de empleos
+
+   Gabriel Albiac
+
+   Gabriel Albiac
+   SeguirMADRIDActualizado:22/05/2017 04:17h
+
+   [ ]
+
+   Enviar noticia por correo electrónico
+
+   Tu nombre * ____________________
+
+   Tu correo electrónico * ____________________
+
+   Su correo electrónico * ____________________
+
+   [BUTTON Input] (not implemented)______
+
+    Opiniones relacionadas
+
+     * ABC PremiumContenido exclusivo para usuarios registrados en ABCEl
+       último
+     * ABC PremiumContenido exclusivo para usuarios registrados en
+       ABCDoctor y racista
+     * ABC PremiumContenido exclusivo para usuarios registrados en
+       ABCMúnich-Barcelona
+
+   Más allá de la lógica pelea por poder y sueldo entre tres personajes
+   zafiamente mediocres, ¿hay algo en lo cual hallar una pizca de grandeza
+   en esta guerra del PSOE? Los más sentimentales dirán que sí, que ese
+   algo se llama «socialismo», que es herencia mayor de los movimientos
+   liberadores europeos. Y se equivocarán -pero ellos no lo saben-, al
+   soñar que «socialismo» sea un término en cuyo contenido unívoco
+   culminen los ideales ilustrados. «Socialismo» arrastra resonancias más
+   complejas.
+
+   Acuñado, en la primera mitad del siglo XIX, para designar cierta visión
+   crítica de la realidad social, socialismo acabó por tomar, en 1848, el
+   sentido técnico de una doctrina de partido: un modo transitorio de
+   organización social que, mediante apropiación colectiva de los medios
+   de producción, ya sea estatal o cooperativamente, abriría el camino
+   hacia la supresión de las clases sociales definitoria del comunismo.
+
+   La experiencia de entreguerras fue letal para esa mitología socialista
+   que, en 1932, el Diccionario de la Academia Francesa definía como
+   «doctrina que preconiza un plan de organización social y económica que
+   subordine los intereses del individuo a los del Estado». Tal
+   estatalismo atraviesa ideologías diversas. «Socialistas» se dirán todas
+   las variedades de la izquierda europea, incluida la Unión de Repúblicas
+   Socialistas Soviéticas de Stalin. Pero igual de socialistas se dirán
+   los movimientos fascistas desde su nacimiento. En la Italia en la cual
+   Mussolini funda el Partido Fascista por escisión del Socialista. En la
+   Alemania en donde «nacional-socialista» -o, quizá mejor traducido,
+   «socialista nacional»- es el nombre del «partido de los trabajadores
+   alemanes», sobre el cual alzaría Hitler su poder y, con él, el mayor
+   exterminio de la historia moderna. «Socialista» es también, claro está,
+   el reformismo que, a partir del Congreso de Bad-Godesberg, en 1959,
+   tomará nombre, menos envilecido, de «socialdemocracia».
+
+   Los tres, no demasiado ilustrados, personajes que se enfrentaban ayer
+   tenían ante sí una tarea a cuya complejidad no parecen dotados para dar
+   respuesta. ¿Qué es el PSOE? Responder que es el partido que fundara
+   Pablo Iglesias hace 138 años, daría sólo risa. Ese partido desapareció
+   durante los cuatro decenios de la dictadura. Sus siglas fueron luego
+   arrebatadas a sus legítimos -y ancianos- propietarios. Y entregadas a
+   aquellos a quienes el Departamento de Estado juzgó los más fiables en
+   una transición que coincidía con el principio del fin de la guerra
+   fría. El encargo se cumplió admirablemente. Pero aquella cosa,
+   inventada para pilotar el trasvase del franquismo a Europa, una vez
+   cumplida su función, quedó sin objetivo. Y el PSOE es hoy -ni más ni
+   menos que todos los partidos- una estructura funcionarial y un
+   fantástico proveedor de empleos en una sociedad donde el empleo ha
+   pasado a ser un lujo. A eso se reduce todo.
+
+   Tres aspiraban ayer al puesto mejor pagado. Ninguno sabría ganarse la
+   vida de otro modo. Compadézcalos quien pueda. Yo no.
+
+   Gabriel Albiac Gabriel AlbiacArticulista de Opinión Gabriel Albiac
+
+    Temas
+
+     * Susana Díaz
+     * Primarias PSOE
+     * Pedro Sánchez
+     * Pablo Iglesias
+
+   Comentarios
+
+      Firmas relacionadas
+
+     * Arash Arjomandi Arash Arjomandi
+     * Juan José Primo Jurado Juan José Primo Jurado
+     * Marisol Navarro Marisol Navarro
+
+      Lo más leído en ABC
+
+   (*) ( ) OpiniónABC
+    1. El recambio andaluz El recambio andaluz
+    2. Habló Hernández Habló Hernández
+    3. El trauma andaluz El trauma andaluz
+    4. Silencio cómplice del Gobierno Silencio cómplice del Gobierno
+    5. Sin gobierno frente al separatismo Sin gobierno frente al
+       separatismo
+
+    1. Un padre compra seis billetes de avión diferentes para poder estar
+       en Navidad con su hija azafata Un padre compra seis billetes de
+       avión diferentes para poder estar en Navidad con su hija azafata
+    2. Las tres paradojas de Vox Las tres paradojas de Vox
+    3. PP, Ciudadanos y Vox superan por cuatro puntos a la izquierda en
+       las elecciones municipales PP, Ciudadanos y Vox superan por cuatro
+       puntos a la izquierda en las elecciones municipales
+    4. Nochevieja: Menús de Nochevieja para preparar una cena casera
+       Nochevieja: Menús de Nochevieja para preparar una cena casera
+    5. Lo mejor para perder la grasa abdominal sigue siendo el ejercicio
+       físico Lo mejor para perder la grasa abdominal sigue siendo el
+       ejercicio físico
+
+   El cruel secreto que se oculta tras la verdadera y retorcida Mary
+   Poppins abc play
+
+        El cruel secreto que se oculta tras la verdadera y retorcida Mary
+        Poppins
+
+      Lotería de Navidad 2018 Lotería de Navidad 2018
+
+     * Lotería de Navidad 2018
+     * Comprobar Lotería de Navidad
+     * 21015, segundo premio de la Lotería de Navidad 2018
+     * Comprobar número Lotería de Navidad 2018
+     * 04211, tercer premio de la Lotería de Navidad
+     * 03347, Gordo Lotería de Navidad 2018
+     * Todos los premios de la Lotería de Navidad 2018
+
+   Entradas Muerte en el Nilo Madrid -30%20EUR14EUR
+
+        Entradas Muerte en el Nilo Madrid
+
+   Teatro Amaya
+
+      Llévatelo con Oferplan Oferplan ABC
+
+   Bono Botemania
+
+        Código promocional Botemania
+
+   Bono BotemaniaVer Descuentos ABCAntes de continuar
+
+   ¡Hola, !
+
+   Queremos conocerte para poder ofrecerte los contenidos según tus
+   preferencias ¿Podrías respondernos unas breves preguntas?
+
+   No te llevará más de un minuto.
+   ¡Gracias por adelantado!
+   AceptarAhora noQueremos conocerte12
+
+   Por favor ¿Nos puedes facilitar tu fecha de nacimiento y genero?
+   Fecha de nacimiento[Día][Mes_______][Año_]Género[Selecciona tu género]
+   (BUTTON) Aceptar (BUTTON) AceptarOmitir este paso
+   Queremos conocerte12
+
+   Por favor, marca uno o varios temas que sean de tu interés.
+   (BUTTON) AceptarOmitir este pasoQueremos conocerte
+
+   (BUTTON) Aceptar
+
+     * Vocento
+     * Sobre nosotros
+     * Contacto
+     * Política de privacidad
+     * Política de cookies
+     * Condiciones de uso
+     * Aviso legal
+
+     * Horóscopo
+     * Horóscopo chino
+     * Programación TV
+     * Black Friday 2018
+     * Comprobar Lotería de Navidad
+     * Lotería del Niño 2019
+     * Calendario laboral 2019
+     * Escuchar noticias del día
+     * Elecciones Andalucía 2018
+     * Resultados elecciones Andalucía 2018
+     * Cazando chollos
+     * Descuentos
+
+   Copyright © DIARIO ABC, S.L.
+
+   [ ]
+
+      Enlaces Vocento
+
+     * ABC
+     * ABC Sevilla
+     * Cope
+     * Hoy
+     * El Correo
+     * La Rioja
+     * El Norte de Castilla
+     * Diario Vasco
+     * El Comercio
+     * Ideal
+     * Sur
+     * Las Provincias
+     * El Diario Montañés
+     * La Voz Digital
+     * La Verdad
+     * Leonoticias.com
+     * Burgosconecta
+     * Unoauto.com
+     * Infoempleo
+     * Guapabox
+     * Finanzas
+     * Autocasión
+     * Oferplan
+     * Pisos.com
+     * Mujerhoy
+     * XL Semanal
+     * Código Único
+     * Eslang
+     * Pidecita
+     * Museo ABC
+     * ABC en Kiosko y Más
+     * TopComparativas
+
+   Este sitio web utiliza cookies propias y de terceros para optimizar su
+   navegación, adaptarse a sus preferencias y realizar labores analíticas.
+   Al continuar navegando acepta nuestra Política de Cookies.

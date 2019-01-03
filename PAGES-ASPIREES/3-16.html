@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="twitter:image" content="http://www.illustre.ch/sites/default/files/styles/share/public/media/2018/09/14/file71uildf5ytt1nfqpno24.jpg?itok=9JxntdYU" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@lillustre" />
+<meta name="twitter:title" content="Portrait d&#039;Alexis Favre, un journaliste aussi beau gosse que torturé" />
+<meta name="twitter:description" content="Il brille de mille feux sur le plateau d’«Infrarouge», au risque de faire de l’ombre à ses invités. La lumière, il en a besoin pour vivre, mais ce n’est pas celle des projecteurs. Portrait d’un journaliste nostalgique qui a toujours un peu peur d’être un imposteur." />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="article:published_time" content="2018-09-12T14:45:00" />
+<meta name="article:section" content="Portrait" />
+<meta name="article:tag" content="Suisse" />
+<meta name="article:tag" content="People" />
+<meta name="article:tag" content="Télévision" />
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"http:\/\/www.illustre.ch\/node\/860","publisher":{"@type":"Organization","name":"Illustr\u00e9","logo":{"@type":"ImageObject","url":"https:\/\/www.illustre.ch\/themes\/custom\/illustre\/assets\/img\/logo-illustre.png","width":360,"height":95}},"articleSection":"Portrait","keywords":["Suisse","People","T\u00e9l\u00e9vision"],"headline":"Portrait d\u0027Alexis Favre, un journaliste aussi beau gosse que tortur\u00e9","dateCreated":"2018-09-11T10:10:51+02:00","datePublished":"2018-09-12T16:45:00+02:00","dateModified":"2018-09-12T16:45:00+02:00","description":"Il brille de mille feux sur le plateau d\u2019\u00abInfrarouge\u00bb, au risque de faire de l\u2019ombre \u00e0 ses invit\u00e9s. La lumi\u00e8re, il en a besoin pour vivre, mais ce n\u2019est pas celle des projecteurs. Portrait d\u2019un journaliste nostalgique qui a toujours un peu peur d\u2019\u00eatre un imposteur.","author":{"@type":"Person","name":"Patrick Baumann"},"image":{"@type":"ImageObject","url":"http:\/\/www.illustre.ch\/sites\/default\/files\/styles\/share\/public\/media\/2018\/09\/14\/file71uildf5ytt1nfqpno24.jpg?itok=9JxntdYU","height":931,"width":1280}}</script>
+<script>ltx8="Disabled";</script>
+<script>dataLayer = [{'ad': 'Disabled','articleID': '860','articleType': 'np8_news','primaryCategory': 'Portrait','tags': 'suisse,people,télévision','length': '6001-12000','year': '2018','article_publication_date': '2018-09-12T14:45:00'}];</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TDPSVW');</script>
+<script>var admAd = {}; admAd.config = {}; admAd.config.params = "articleid=860;pagetype=details"; admAd.config.adserv = { protocol: 'https', server: 'adserver.adtech.de', network: '780.2', siteid: '825073', enableMultiAd: true, params: { loc: '100' }};</script>
+<meta name="description" content="Il brille de mille feux sur le plateau d’«Infrarouge», au risque de faire de l’ombre à ses invités." />
+<meta property="og:title" content="Portrait d&#039;Alexis Favre, un journaliste aussi beau gosse que torturé" />
+<meta property="og:image" content="http://www.illustre.ch/sites/default/files/media/2018/09/14/file71uildf5ytt1nfqpno24.jpg" />
+<meta property="og:url" content="http://www.illustre.ch/magazine/portrait-dalexis-favre-un-journaliste-beau-gosse-torture" />
+<meta property="og:description" content="Il arrive de noir vêtu dans le restaurant. Avec sa très haute taille et sa gueule de jeune Al Pacino, il ne laisse pas indifférentes les deux clientes qui le suivent du regard jusqu’à notre table. On lui fait remarquer son impact sur les femmes, il botte en touche: «Mais non, c’est parce que je suis grand, je mesure 1 m 98. Comme Michael Jordan et Oussama ben Laden. Quoique Ben Laden, il faut vérifier, certains disent qu’il mesurait 1 m 96.»Vérifier, c’est normal, il est journaliste. Alexis Favre est le meneur de débats de l’émission Infrarouge sur la RTS. Seul en piste désormais depuis le départ d’Esther Mamarbachi à Mise au point. Il jure qu’il ne l’a pas poussée dehors. «Honnêtement, j’étais un peu surpris qu’elle parte après un an. Je n’en avais pas envie, je lui dois beaucoup, j’avais trouvé quelqu’un avec qui je rigolais beaucoup et qui me faisait confiance.»Chercher la failleIl commande du canard. C’est drôle d’animer une émission dont le titre évoque des ondes invisibles au regard, parce que s’il y a une chose qui caractérise le Genevois, c’est sa visibilité. L’homme irradie sur un plateau TV. Aisance verbale, œil de velours tout en osant recadrer, ce côté beau gosse qui le sait et doit certainement agacer ceux qui se situent dans la moyenne. En plus il est cultivé. L’autre soir, sur l’affaire Maudet, il a cité Camus en écho aux propos de Slobodan Despot qui disait qu’il faut appeler un chat un chat, soit un menteur, un menteur: «Mal nommer les choses, c’est ajouter au malheur du monde», a ajouté Alexis et il le pense sincèrement.
+
+    
+      
+        
+          
+      
+            Manuel Braun                   
+          
+         Avec son mètre 98, il ne passe pas inaperçu dans les rues des Pâquis.
+Le voilà gêné qu’on lui fasse remarquer que les fées, si prodigues avec lui, n’ont pas dû laisser grand-chose au-dessus du berceau de ceux qui sont nés juste après lui ce 10 mars 1978. Assure que dans certains domaines «je suis poussif et je rame» sans pouvoir franchement en nommer un. «Je sais que je dégage un truc super sûr de moi, je souris, je virevolte, je suis sympathique, j’arrive, je prends de la place, mais je me rends compte que c’est toujours un peu la panique à l’intérieur, dans tout ce que je fais. J’ai toujours l’impression d’être un imposteur, je souffre de ça parce que j’ai longtemps fait l’imposteur quand j’étais jeune, là j’ai vraiment besoin de faire les choses pour savoir que je n’en suis pas un.»Il a joué Shakespeare au Collège Sismondi. Son héros d’enfance, c’est Jean-Paul Belmondo, il admire la présence magnétique des monstres sacrés comme Delon ou Depardieu. «Cela me fascine, c’est donné à peu de personnes, moi, je sais que je ne l’ai pas.» Cela explique peut-être qu’il ait choisi de faire HEI et de devenir journaliste, avec déjà une solide expérience professionnelle acquise au Matin Dimanche, à la Télé, au Temps, où il a dirigé la rubrique genevoise.A la ville, il est marié avec Jennifer Covo, qui présente le JT du week-end. «On essaie de ne pas parler tout le temps boulot à la maison», confie-t-il. Il n’y a pas de rivalité entre eux, à l’entendre. «Elle fait autre chose. On essaie d’avoir un regard critique mais constructif l’un sur l’autre.» N’empêche, Elie, leur fils de 3 ans, est déjà fan de Macron. «Pas de Macron, mais du président de la Marseillaise. Il adore l’hymne national français. Il m’a demandé l’autre jour ce que voulaient dire tyrannie et étendard.» Et de décrire la tête des passants quand il se promène avec fiston qui entonne à tue-tête «qu’un sang impur abreuve nos sillons...» On rit. Lui-même est un enfant de parents divorcés.  
+
+    
+      
+        
+          
+      
+            Manuel Braun                   
+          
+         Il aime le soleil et surtout celui de Grèce où il passe ses vacances d’été. 
+Deux beaux-pères qui étaient des figures du landerneau genevois. Michel Barde, ex-patron des patrons romands, Roger Pfund, le graphiste à l’origine de nos passeports et billets de banque. De quoi marquer son esprit. Michel Favre, son père, a cofondé la défunte compagnie d’aviation SATA. Il lui a mis le manche à balai de son avion privé entre les mains à l’âge de 7 ans et lui a appris à cuisiner. «On a une jolie relation. J’ai appelé papa deux hommes dans ma vie, c’est un peu bizarre, non? Bon, on s’arrête avant de tomber dans la psychiatrie.»Porteur d’imageA la maison, c’était souvent Infrarouge avant l’heure. «Ma mère était socialiste. Il y avait des débats animés tous les soirs autour de la table!» Aujourd’hui, seul maître à bord de son émission, il a envie de casser les codes, souhaite encore plus de réactivité vis-à-vis de l’actualité, n’hésite pas à programmer la mort de Johnny, veut rendre son émission encore «plus flexible, plus sexy». Il n’astique pas encore son bouclier mais sait que la pose mannequin affichée dans ce magazine va lui valoir quelques moqueries. «Je vais me faire démolir», prédit-il. Tant pis, il assume. «Les Français n’ont pas peur de le faire. On est des porteurs d’image.»«Alexis n’est pas dans une quête de pouvoir, mais dans celle de la lumière», assure un ami proche. Pas la lumière artificielle des projecteurs, celle plus dionysiaque de la Méditerranée, de cette Grèce où il s’est marié et retourne chaque année, celle magnifiée par Camus dans Noces, relu des dizaines de fois, «quand il décrit la sensation du plongeon dans la mer à Tipaza. On est là dans la pure ivresse du moment, l’essence de la vie. La lumière, ce n’est pas juste un truc de jouisseur, c’est photosynthétique; je suis beaucoup plus heureux quand j’ai la peau hâlée, pas parce que je me trouve plus beau mais je me sens gonflé d’une énergie pure. Un «juice» qui me porte. En fait, je marche aux photons!»
+
+    
+      
+        
+          
+      
+            Manuel Braun                   
+          
+         Il nage régulièrement dans le lac Léman. Même quand celui-ci fait 10 degrés.
+Son besoin de séduire est à mettre aussi du côté de cette lumière. «Le regard des autres, ça compte pour moi, autant celui des femmes que des hommes. Mais où mettre le curseur entre l’empathie et la séduction? Peut-être que dans la séduction il y a une recherche malicieuse qu’il n’y a pas dans l’empathie...»Le temps passe, il évoque sa détestation de tout ce qui se finit. Même un simple repas. «Dès qu’une chose se termine, je ressens un sentiment de tristesse, j’ai la nostalgie du moment présent, je déteste le lendemain d’un mariage ou d’une belle fête, je suis triste dans ces moments-là. Je cherche à toujours maximiser le moment, alors évidemment cela pousse à faire un peu la fête. Tout ce que j’entreprends, je le fais de manière totale. Je ne conçois pas de vivre autrement.»Vivre à ses côtés ne doit pas être de tout repos. Sa femme le ramène souvent sur terre, admet-il. Il admire chez elle «sa liberté de dire simplement les choses, sans trop de précaution, faux-semblants, culpabilité». Reconnaît que c’est une qualité dont il est dépourvu." />
+<meta property="og:type" content="article" />
+<meta property="og:image:width" content="2000" />
+<meta property="og:image:height" content="1454" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/png" />
+<link rel="canonical" href="/magazine/portrait-dalexis-favre-un-journaliste-beau-gosse-torture" />
+<link rel="shortlink" href="/node/860" />
+<link rel="revision" href="/magazine/portrait-dalexis-favre-un-journaliste-beau-gosse-torture" />
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/illustre/assets/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/illustre/assets/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/illustre/assets/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/themes/custom/illustre/assets/img/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/themes/custom/illustre/assets/img/favicons/safari-pinned-tab.svg" color="#e3012b">
+    <link rel="shortcut icon" href="/themes/custom/illustre/assets/img/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#e3012b">
+    <meta name="msapplication-config" content="/themes/custom/illustre/assets/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#e3012b">
+
+    <title>Portrait d&#039;Alexis Favre, un journaliste aussi beau gosse que torturé | Illustré</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_aXk87tpHz1AtlA1A_Jhr-_KY9XOFGMWMn6A39g1qGaA.css?pjxg8k" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_qxGxkKtvax-Ae73Wrkv3LgIPylSo1v5dWrSqokRIRLY.css?pjxg8k" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_EmZeXJHpdU4he7YNt0-FW7Pn-0kXZ-t8foo5nFjyFQk.js"></script>
+<script src="https://da.admeira.ch/DAC.js" defer></script>
+<script src="https://aka-cdn-ns.adtech.de/dac/780.2/w1199644.js" defer></script>
+<script src="https://da.admeira.ch/adm_signaturscript.js" defer></script>
+
+
+  </head>
+
+  <body class="ads">
+        <a href="#main-content" class="visually-hidden focusable">
+      Aller au contenu principal
+    </a>
+
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDPSVW&nojs=true" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div  class="page page--article">
+    <div>
+      <div class="a-ad-zone a-ad-zone--top">
+  <div class="a-ad-zone__inner">
+    <div class="a-ad-zone__content">
+      <script>
+        (function(){
+          var placements = {"mobile":{"placement_id":"","placement_alias":""},"tablet":{"placement_id":"6024457","placement_alias":"home_leaderboard_tablet"},"desktop":{"placement_id":"6018358","placement_alias":"home_leaderboard_desktop"}};
+          var breakpoint = breakpoint || {};
+          var placement_id = 0, placement_alias = '';
+          if (typeof breakpoint.value === "undefined") {
+            breakpoint.refreshValue = function () {
+              this.value = window.getComputedStyle(document.querySelector('body'), ':before').getPropertyValue('content').replace(/\"/g, '');
+            };
+            jQuery(window).resize(function () {
+              breakpoint.refreshValue();
+            }).resize();
+          }
+          placement_id = placements[breakpoint.value]['placement_id'];
+          placement_alias = placements[breakpoint.value]['placement_alias'];
+
+          if (placement_id>0) {
+            document.write('<div class="modAd" id="' + placement_id + '"></div>');
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(placement_id, "", placement_alias);
+            } else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(placement_id, "", placement_alias);
+              });
+            }
+          }
+        })();
+      </script>
+    </div>
+    <div class="a-ad-zone__caption">Publicité</div>
+  </div>
+</div>
+
+
+  </div>
+
+
+  <div class="page__content">
+    <header class="o-header">
+      
+  
+  <div class="o-header__side-element">
+    <a href="/"><img src="/themes/custom/illustre/assets/img/logo.svg" alt="L'illustré logo" class="o-header__logo"></a>
+  </div>
+
+<nav role="navigation" aria-labelledby="block-illustre-main-menu-menu" id="block-illustre-main-menu" class="m-nav">
+                        
+    <h2 class="visually-hidden" id="block-illustre-main-menu-menu">Rubriques</h2>
+    
+
+                <ul class="m-nav__menu menu menu-level-0">
+       
+    <li class="menu-item m-nav__item">
+      <a class="m-nav__link" href="/">
+                    <svg class="a-icon" role="img" title="Accueil">
+              <use xlink:href="#home" />
+          </svg>
+                  <p class="m-nav__item-title">Accueil</p>
+      </a>
+    </li>
+      
+    <li class="menu-item m-nav__item">
+      <a class="m-nav__link" href="/photos">
+                    <svg class="a-icon" role="img" title="Photos">
+              <use xlink:href="#photo" />
+          </svg>
+                  <p class="m-nav__item-title">Photos</p>
+      </a>
+    </li>
+      
+    <li class="menu-item m-nav__item">
+      <a class="m-nav__link" href="/videos">
+                    <svg class="a-icon" role="img" title="Vidéos">
+              <use xlink:href="#video" />
+          </svg>
+                  <p class="m-nav__item-title">Vidéos</p>
+      </a>
+    </li>
+      
+    <li class="menu-item m-nav__item">
+      <a class="m-nav__link" href="/magazine">
+                    <svg class="a-icon" role="img" title="Magazine">
+              <use xlink:href="#portrait" />
+          </svg>
+                  <p class="m-nav__item-title">Magazine</p>
+      </a>
+    </li>
+    </ul>
+
+    </nav>
+<div role="navigation" aria-labelledby="block-illustre-servicesmenu-menu" id="block-illustre-servicesmenu">
+                        
+    <h2 class="visually-hidden" id="block-illustre-servicesmenu-menu">Services Menu</h2>
+    
+
+                
+<div class="o-header__side-element o-header__side-element--right">
+  <div class="o-header__side-element_content">
+                        <a href="https://boutique.illustre.ch"  class="menu-item o-header__subscribe">
+            S&#039;abonner
+                      </a>
+                        <a href="/search"  class="menu-item o-header__search" rel="search">
+            Recherche
+                        <svg class="a-icon" role="img" title="Recherche">
+              <use xlink:href="#search" />
+            </svg>
+                                        <svg class="a-icon" role="img" title="Close">
+              <use xlink:href="#close" />
+            </svg>
+                                  </a>
+        </div>
+</div>
+
+    </div>
+
+
+
+            <div class="o-search-bar " data-search>
+        <div class="o-search-bar__wrapper">
+          <div class="grid-wrapper">
+            <div class="grid-container">
+              <div class="row">
+                <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+                  <form action="/search" class="o-search-bar__form">
+                    <p class="o-search-bar__form-label">Rechercher sur L’illustré</p>
+                    <div class="o-search-bar__input-wrapper">
+                      <input class="o-search-bar__input" id="input--search" type="text" required name="keywords">
+                      <label for="input--search" class="o-search-bar__input-label">Entrer un mot clé</label>
+                      <label for="input--search" class="o-search-bar__input-label o-search-bar__input-label--mobile">Entrer un mot clé</label>
+                      <svg class="a-icon a-icon--primary" role="img" title="search">
+                        <use xlink:href="#search" />
+                      </svg>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="o-search-bar__backdrop"></div>
+      </div>
+          </header>
+    
+      <div>
+    
+<div id="block-illustre-content">
+  
+    
+      
+<article  role="article" class="np8-priority-2 t-article pswp-gallery" data-article-progress>
+  <div class="o-banner-detail ">
+    <div class="o-banner-detail__content">
+
+      
+    <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/sites/default/files/styles/teaser_huge_desktop/public/media/2018/09/14/file71uildf5ytt1nfqpno24.jpg?h=fba73d32&amp;itok=3QaA6Mcc 1x" media="all and (min-width: 993px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/teaser_huge_tablet/public/media/2018/09/14/file71uildf5ytt1nfqpno24.jpg?h=fba73d32&amp;itok=ztzVhz3D 1x" media="all and (min-width: 769px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/teaser_huge_mobile/public/media/2018/09/14/file71uildf5ytt1nfqpno24.jpg?h=fba73d32&amp;itok=4BbpasK6 1x" media="(min-width: 0px)" type="image/jpeg"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img class="o-banner-detail__image o-banner__image" src="/sites/default/files/styles/teaser_huge_desktop/public/media/2018/09/14/file71uildf5ytt1nfqpno24.jpg?h=fba73d32&amp;itok=3QaA6Mcc" alt="" title="Dans une suite d&#039;hôtel à Genève. D’habitude Alexis Favre ne porte pas de pyjama. " />
+
+  </picture>
+
+
+  <figcaption itemprop="description" class="o-banner__photo-credit">
+              <span class="picture-copyright" itemprop="copyrightHolder">©&nbsp;Manuel Braun</span>
+      </figcaption>
+
+
+      <div class="o-banner-detail__content-inner">
+        <div class="o-banner-detail__wrapper">
+          <div class="o-banner-detail__container">
+            <div class="o-banner-detail__title-row">
+              <div class="o-banner-detail__title-wrap">
+                <h1 class="u-t-title-article"><span>Portrait d&#039;Alexis Favre, un journaliste aussi beau gosse que torturé</span>
+</h1>
+              </div>
+            </div>
+            <div class="row o-banner__meta">
+              <div class="o-banner-detail__meta-inner">
+
+                <div class="o-banner-detail__tag-wrap">
+                                      <a href="/theme/suisse" class="o-banner-detail__tag">Suisse</a>
+                </div>
+
+                <div class="o-banner-detail__date-wrap">
+                  <meta itemprop="datePublished" content="2018-09-12T16:45:00+02:00">
+                  <meta itemprop="dateModified" content="2018-09-14T09:20:50+02:00">
+                                      <div class="o-banner-detail__date">Publié mercredi 12 septembre 2018 à 16:45</div>.
+                                  </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="o-banner-detail__footer">
+        <div class="o-banner-detail__wrapper">
+          <div class="o-banner-detail__container">
+            <div class="o-banner-detail__footer-row">
+              <div class="o-banner-detail__footer-inner">
+                                  <p class="o-banner-detail__footer-data --readtime">
+                    <svg class="a-icon a-icon--primary" role="img" title="Temps de lecture">
+                      <use xlink:href="#timing" />
+                    </svg>
+                    <span class="o-banner-detail__footer-data-text"><strong class="o-banner-detail__footer-data-label">Lecture</strong>
+                    6 minutes
+                    </span>
+                  </p>
+                
+                
+          
+          <a href="/auteur/426456" class="o-banner-detail__footer-data --author no-photo">
+          
+      <span class="o-banner-detail__footer-data-text">
+                <span class="o-banner-detail__author-name">Patrick Baumann</span>
+      </span>
+    </a>
+
+
+
+  
+
+              </div>
+            </div>
+          </div>
+        </div>
+              </div>
+    </div>
+
+    
+    <div class="o-banner-detail__under">
+              <div class="o-banner-detail__under-date">Publié mercredi 12 septembre 2018 à 16:45&nbsp;</div>.
+          </div>
+  </div>
+
+  <section class="t-article__content">
+
+    <div class="t-article__share-wrapper">
+  <div class="m-share" data-share="">
+    <div class="m-share__title-wrap  m-share__mobile m-share__mobile--closed">
+      <svg class="a-icon" role="img" title="Partager">
+        <use xlink:href="/themes/custom/illustre/assets/icons.svg#share"></use>
+      </svg>
+      <p class="m-share__title">Partager</p>
+    </div>
+    <div class="m-share__list-wrap">
+      <ul class="m-share__list">
+        <li class="m-share__item">
+          <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.illustre.ch/magazine/portrait-dalexis-favre-un-journaliste-beau-gosse-torture%3Futm_source%3Dfacebook%26utm_medium%3Dshare%26utm_campaign%3Darticle&display=popup&ref=plugin&src=share_button"
+            class="m-share__item-link" target="_blank">
+            <svg class="a-icon" role="img" title="">
+              <use xlink:href="/themes/custom/illustre/assets/icons.svg#facebook"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="m-share__item">
+          <a href="https://twitter.com/intent/tweet?text=Portrait%20d%27Alexis%20Favre%2C%20un%20journaliste%20aussi%20beau%20gosse%20que%20tortur%C3%A9%0D%0Ahttp://www.illustre.ch/magazine/portrait-dalexis-favre-un-journaliste-beau-gosse-torture%3Futm_source%3Dtwitter%26utm_medium%3Dshare%26utm_campaign%3Darticle%20&via=Lillustre" class="m-share__item-link" target="_blank">
+            <svg class="a-icon" role="img" title="">
+              <use xlink:href="/themes/custom/illustre/assets/icons.svg#twitter"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="m-share__item m-share__item_whatsapp">
+          <a href="https://api.whatsapp.com/send?text=#" class="m-share__item-link" target="_blank">
+            <svg class="a-icon" role="img" title="">
+              <use xlink:href="/themes/custom/illustre/assets/icons.svg#whatsapp"></use>
+            </svg>
+          </a>
+        </li>
+        <li class="m-share__item">
+          <a href="mailto:?subject=illustre.ch : Portrait%20d%27Alexis%20Favre%2C%20un%20journaliste%20aussi%20beau%20gosse%20que%20tortur%C3%A9&body=Portrait%20d%27Alexis%20Favre%2C%20un%20journaliste%20aussi%20beau%20gosse%20que%20tortur%C3%A9%0D%0A%0D%0AIl%20brille%20de%20mille%20feux%20sur%20le%20plateau%20d%E2%80%99%C2%ABInfrarouge%C2%BB%2C%20au%20risque%20de%20faire%20de%20l%E2%80%99ombre%20%C3%A0%20ses%20invit%C3%A9s.%20La%20lumi%C3%A8re%2C%20il%20en%20a%20besoin%20pour%20vivre%2C%20mais%20ce%20n%E2%80%99est%20pas%20celle%20des%20projecteurs.%20Portrait%20d%E2%80%99un%20journaliste%20nostalgique%20qui%20a%20toujours%20un%20peu%20peur%20d%E2%80%99%C3%AAtre%20un%20imposteur.%0D%0A%0D%0Ahttp://www.illustre.ch/magazine/portrait-dalexis-favre-un-journaliste-beau-gosse-torture%3Futm_source%3Dmail%26utm_medium%3Dshare%26utm_campaign%3Darticle" class="m-share__item-link" target="_blank">
+            <svg class="a-icon" role="img" title="">
+              <use xlink:href="/themes/custom/illustre/assets/icons.svg#mail"></use>
+            </svg>
+          </a>
+        </li>
+      </ul>
+      <div class="m-share__close">
+        <svg class="a-icon" role="img" title="close">
+          <use xlink:href="/themes/custom/illustre/assets/icons.svg#close"></use>
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="t-article__grid u-typography">
+              <div class="t-article__intro">Il brille de mille feux sur le plateau d’«Infrarouge», au risque de faire de l’ombre à ses invités. La lumière, il en a besoin pour vivre, mais ce n’est pas celle des projecteurs. Portrait d’un journaliste nostalgique qui a toujours un peu peur d’être un imposteur.</div>
+            <div class="t-article__text">
+          <div class="a-ad-zone ">
+  <div class="a-ad-zone__inner">
+    <div class="a-ad-zone__content">
+      <script>
+        (function(){
+          var placements = {"mobile":{"placement_id":"6018370","placement_alias":"home_mobile_rectangle"},"tablet":{"placement_id":"6024467","placement_alias":"home_rectangle_tablet"},"desktop":{"placement_id":"6018362","placement_alias":"home_rectangle_desktop"}};
+          var breakpoint = breakpoint || {};
+          var placement_id = 0, placement_alias = '';
+          if (typeof breakpoint.value === "undefined") {
+            breakpoint.refreshValue = function () {
+              this.value = window.getComputedStyle(document.querySelector('body'), ':before').getPropertyValue('content').replace(/\"/g, '');
+            };
+            jQuery(window).resize(function () {
+              breakpoint.refreshValue();
+            }).resize();
+          }
+          placement_id = placements[breakpoint.value]['placement_id'];
+          placement_alias = placements[breakpoint.value]['placement_alias'];
+
+          if (placement_id>0) {
+            document.write('<div class="modAd" id="' + placement_id + '"></div>');
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(placement_id, "", placement_alias);
+            } else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(placement_id, "", placement_alias);
+              });
+            }
+          }
+        })();
+      </script>
+    </div>
+    <div class="a-ad-zone__caption">Publicité</div>
+  </div>
+</div>
+
+
+        
+            <p>Il arrive de noir vêtu dans le restaurant. Avec sa très haute taille et sa gueule de jeune Al Pacino, il ne laisse pas indifférentes les deux clientes qui le suivent du regard jusqu’à notre table. On lui fait remarquer son impact sur les femmes, il botte en touche: «Mais non, c’est parce que je suis grand, je mesure 1 m 98. Comme Michael Jordan et Oussama ben Laden. Quoique Ben Laden, il faut vérifier, certains disent qu’il mesurait 1 m 96.»</p><p>Vérifier, c’est normal, il est journaliste. Alexis Favre est le meneur de débats de l’émission Infrarouge sur la RTS. Seul en piste désormais depuis le départ d’Esther Mamarbachi à Mise au point. Il jure qu’il ne l’a pas poussée dehors. «Honnêtement, j’étais un peu surpris qu’elle parte après un an. Je n’en avais pas envie, je lui dois beaucoup, j’avais trouvé quelqu’un avec qui je rigolais beaucoup et qui me faisait confiance.»</p><p><strong>Chercher la faille</strong><br />Il commande du canard. C’est drôle d’animer une émission dont le titre évoque des ondes invisibles au regard, parce que s’il y a une chose qui caractérise le Genevois, c’est sa visibilité. L’homme irradie sur un plateau TV. Aisance verbale, œil de velours tout en osant recadrer, ce côté beau gosse qui le sait et doit certainement agacer ceux qui se situent dans la moyenne. En plus il est cultivé. L’autre soir, sur l’affaire Maudet, il a cité Camus en écho aux propos de Slobodan Despot qui disait qu’il faut appeler un chat un chat, soit un menteur, un menteur: «Mal nommer les choses, c’est ajouter au malheur du monde», a ajouté Alexis et il le pense sincèrement.</p>
+<figure class="m-photo-block m-photo-block--left"><a class="m-photo-block__link pswp-item" href="/sites/default/files/media/2018/09/14/file71uimdq9a431lsnxyjz5.jpg" itemprop="contentUrl" data-size="2000x2997" data-author="Manuel Braun                   ">
+    <div class="m-photo-block__inner">
+      <div class="m-photo-block__image-wrap">
+        <img class="img-responsive m-photo-block__image" src="/sites/default/files/styles/lt_inline_left/public/media/2018/09/14/file71uimdq9a431lsnxyjz5.jpg.png?itok=7vN7fQq7" width="470" height="704" alt="" title="Avec son mètre 98, il ne passe pas inaperçu dans les rues des Pâquis." /><div class="m-photo-block__cta">
+          <svg class="a-icon a-icon--negative" role="img"><use xlink:href="#fullscreen"></use></svg></div>
+      </div>
+            <div class="m-photo-block__credit">Manuel Braun                   </div>
+          </div>
+         <figcaption class="m-photo-block__caption">Avec son mètre 98, il ne passe pas inaperçu dans les rues des Pâquis.</figcaption></a>
+</figure><p>Le voilà gêné qu’on lui fasse remarquer que les fées, si prodigues avec lui, n’ont pas dû laisser grand-chose au-dessus du berceau de ceux qui sont nés juste après lui ce 10 mars 1978. Assure que dans certains domaines «je suis poussif et je rame» sans pouvoir franchement en nommer un. «Je sais que je dégage un truc super sûr de moi, je souris, je virevolte, je suis sympathique, j’arrive, je prends de la place, mais je me rends compte que c’est toujours un peu la panique à l’intérieur, dans tout ce que je fais. J’ai toujours l’impression d’être un imposteur, je souffre de ça parce que j’ai longtemps fait l’imposteur quand j’étais jeune, là j’ai vraiment besoin de faire les choses pour savoir que je n’en suis pas un.»</p><p>Il a joué Shakespeare au Collège Sismondi. Son héros d’enfance, c’est Jean-Paul Belmondo, il admire la présence magnétique des monstres sacrés comme Delon ou Depardieu. «Cela me fascine, c’est donné à peu de personnes, moi, je sais que je ne l’ai pas.» Cela explique peut-être qu’il ait choisi de faire HEI et de devenir journaliste, avec déjà une solide expérience professionnelle acquise au Matin Dimanche, à la Télé, au Temps, où il a dirigé la rubrique genevoise.</p><p>A la ville, il est marié avec Jennifer Covo, qui présente le JT du week-end. «On essaie de ne pas parler tout le temps boulot à la maison», confie-t-il. Il n’y a pas de rivalité entre eux, à l’entendre. «Elle fait autre chose. On essaie d’avoir un regard critique mais constructif l’un sur l’autre.» N’empêche, Elie, leur fils de 3 ans, est déjà fan de Macron. «Pas de Macron, mais du président de la Marseillaise. Il adore l’hymne national français. Il m’a demandé l’autre jour ce que voulaient dire tyrannie et étendard.» Et de décrire la tête des passants quand il se promène avec fiston qui entonne à tue-tête «qu’un sang impur abreuve nos sillons...» On rit. Lui-même est un enfant de parents divorcés.</p>  
+<figure class="m-photo-block"><a class="m-photo-block__link pswp-item" href="/sites/default/files/media/2018/09/14/file71uimdfitk42809x533.jpg" itemprop="contentUrl" data-size="2000x1503" data-author="Manuel Braun                   ">
+    <div class="m-photo-block__inner">
+      <div class="m-photo-block__image-wrap">
+        <img class="img-responsive m-photo-block__image" src="/sites/default/files/styles/lt_inline_center/public/media/2018/09/14/file71uimdfitk42809x533.jpg.jpeg?itok=O259hvhO" width="726" height="546" alt="" title="Il aime le soleil et surtout celui de Grèce où il passe ses vacances d’été. " /><div class="m-photo-block__cta">
+          <svg class="a-icon a-icon--negative" role="img"><use xlink:href="#fullscreen"></use></svg></div>
+      </div>
+            <div class="m-photo-block__credit">Manuel Braun                   </div>
+          </div>
+         <figcaption class="m-photo-block__caption">Il aime le soleil et surtout celui de Grèce où il passe ses vacances d’été. </figcaption></a>
+</figure><p>Deux beaux-pères qui étaient des figures du landerneau genevois. Michel Barde, ex-patron des patrons romands, Roger Pfund, le graphiste à l’origine de nos passeports et billets de banque. De quoi marquer son esprit. Michel Favre, son père, a cofondé la défunte compagnie d’aviation SATA. Il lui a mis le manche à balai de son avion privé entre les mains à l’âge de 7 ans et lui a appris à cuisiner. «On a une jolie relation. J’ai appelé papa deux hommes dans ma vie, c’est un peu bizarre, non? Bon, on s’arrête avant de tomber dans la psychiatrie.»</p><p><strong>Porteur d’image</strong><br />A la maison, c’était souvent Infrarouge avant l’heure. «Ma mère était socialiste. Il y avait des débats animés tous les soirs autour de la table!» Aujourd’hui, seul maître à bord de son émission, il a envie de casser les codes, souhaite encore plus de réactivité vis-à-vis de l’actualité, n’hésite pas à programmer la mort de Johnny, veut rendre son émission encore «plus flexible, plus sexy». Il n’astique pas encore son bouclier mais sait que la pose mannequin affichée dans ce magazine va lui valoir quelques moqueries. «Je vais me faire démolir», prédit-il. Tant pis, il assume. «Les Français n’ont pas peur de le faire. On est des porteurs d’image.»</p><p>«Alexis n’est pas dans une quête de pouvoir, mais dans celle de la lumière», assure un ami proche. Pas la lumière artificielle des projecteurs, celle plus dionysiaque de la Méditerranée, de cette Grèce où il s’est marié et retourne chaque année, celle magnifiée par Camus dans Noces, relu des dizaines de fois, «quand il décrit la sensation du plongeon dans la mer à Tipaza. On est là dans la pure ivresse du moment, l’essence de la vie. La lumière, ce n’est pas juste un truc de jouisseur, c’est photosynthétique; je suis beaucoup plus heureux quand j’ai la peau hâlée, pas parce que je me trouve plus beau mais je me sens gonflé d’une énergie pure. Un «juice» qui me porte. En fait, je marche aux photons!»</p>
+<figure class="m-photo-block m-photo-block--left"><a class="m-photo-block__link pswp-item" href="/sites/default/files/media/2018/09/14/file71uimdq8ttu115odwmkm.jpg" itemprop="contentUrl" data-size="2000x2662" data-author="Manuel Braun                   ">
+    <div class="m-photo-block__inner">
+      <div class="m-photo-block__image-wrap">
+        <img class="img-responsive m-photo-block__image" src="/sites/default/files/styles/lt_inline_left/public/media/2018/09/14/file71uimdq8ttu115odwmkm.jpg.png?itok=l7XrbBEt" width="470" height="626" alt="" title="Il nage régulièrement dans le lac Léman. Même quand celui-ci fait 10 degrés." /><div class="m-photo-block__cta">
+          <svg class="a-icon a-icon--negative" role="img"><use xlink:href="#fullscreen"></use></svg></div>
+      </div>
+            <div class="m-photo-block__credit">Manuel Braun                   </div>
+          </div>
+         <figcaption class="m-photo-block__caption">Il nage régulièrement dans le lac Léman. Même quand celui-ci fait 10 degrés.</figcaption></a>
+</figure><p>Son besoin de séduire est à mettre aussi du côté de cette lumière. «Le regard des autres, ça compte pour moi, autant celui des femmes que des hommes. Mais où mettre le curseur entre l’empathie et la séduction? Peut-être que dans la séduction il y a une recherche malicieuse qu’il n’y a pas dans l’empathie...»</p><p>Le temps passe, il évoque sa détestation de tout ce qui se finit. Même un simple repas. «Dès qu’une chose se termine, je ressens un sentiment de tristesse, j’ai la nostalgie du moment présent, je déteste le lendemain d’un mariage ou d’une belle fête, je suis triste dans ces moments-là. Je cherche à toujours maximiser le moment, alors évidemment cela pousse à faire un peu la fête. Tout ce que j’entreprends, je le fais de manière totale. Je ne conçois pas de vivre autrement.»<br />Vivre à ses côtés ne doit pas être de tout repos. Sa femme le ramène souvent sur terre, admet-il. Il admire chez elle «sa liberté de dire simplement les choses, sans trop de précaution, faux-semblants, culpabilité». Reconnaît que c’est une qualité dont il est dépourvu.</p>
+      
+      </div>
+
+    </div>
+    <!-- grid -->
+  </section>
+
+  <a href="http://www.illustre.ch/" class="a-progress-button" data-progress-button>
+    <svg class="a-progress-button__svg">
+      <circle class="a-progress-button__indicator" r="15" cx="16" cy="16" />
+    </svg>
+    <svg class="a-icon" role="img" title="">
+      <use xlink:href="/themes/custom/illustre/assets/icons.svg#close" />
+    </svg>
+  </a>
+</article>
+
+
+
+
+<div id="gallery" class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+  <div class="pswp__bg"></div>
+  <div class="pswp__scroll-wrap">
+
+    <div class="pswp__container">
+        <div class="pswp__item"></div>
+        <div class="pswp__item"></div>
+        <div class="pswp__item"></div>
+    </div>
+
+    <div class="pswp__ui pswp__ui--hidden">
+
+      <button class="o-modal__close pswp__button pswp__button--close">
+        <svg class="a-icon" role="img" title="">
+          <use xlink:href="#close"></use>
+        </svg>
+      </button>
+
+      <div class="pswp__top-bar o-modal__footer"> 
+                  <button class="o-modal__control pswp__button pswp__button--arrow--left" rel="prev" title="Previous (arrow left)">
+            <svg class="a-icon" role="img" title="">
+              <use xlink:href="#gallery-previous"></use>
+            </svg>
+          </button><button class="o-modal__control pswp__button pswp__button--arrow--right" rel="next" title="Next (arrow right)">
+            <svg class="a-icon" role="img" title="">
+              <use xlink:href="#gallery-next"></use>
+            </svg>
+          </button>
+
+          <div class="pswp__counter o-modal__counter"></div>
+        
+
+          <div class="pswp__preloader">
+            <div class="pswp__preloader__icn">
+                <div class="pswp__preloader__cut">
+                    <div class="pswp__preloader__donut"></div>
+                </div>
+            </div>
+          </div>
+
+      </div> 
+      <!-- <div class="pswp__loading-indicator"><div class="pswp__loading-indicator__line"></div></div> -->
+      <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+          <div class="pswp__share-tooltip">
+              <!-- <a href="#" class="pswp__share--facebook"></a>
+              <a href="#" class="pswp__share--twitter"></a>
+              <a href="#" class="pswp__share--pinterest"></a>
+              <a href="#" download class="pswp__share--download"></a> -->
+          </div>
+      </div>
+
+
+      <div class="pswp__caption ">
+        <div class="pswp__caption__center"></div>
+      </div>
+
+    </div>   </div> </div> 
+
+  </div>
+
+  </div>
+
+  </div>
+
+      <section class="o-newsletter">
+    <h2 class="o-newsletter__title">
+      <span class="o-newsletter__title--short">Newsletter L'Illustré</span>
+      <span class="o-newsletter__title--full">Recevoir la newsletter L'Illustré</span>
+    </h2>
+      <div class="nl-subscription-container"></div>
+
+  </section>
+  
+  <footer class="o-footer">
+    <div class="o-footer__top">
+      <div class="o-footer__wrapper">
+        <div class="o-footer__container">
+          <div class="o-footer__top_wrap">
+            <img src="/themes/custom/illustre/assets/img/logo.svg" alt="L'illustré logo" class="o-footer__logo">
+            
+  <nav  class="o-footer__menu footer-nav" >
+    <a class="o-footer__menu_item" href="https://boutique.illustre.ch" tabindex="-1"target="_blank" rel="noreferrer noopener" >
+    <span>Abonnement</span>
+  </a>
+  <a class="o-footer__menu_item" href="/contact" tabindex="-1">
+    <span>Contact</span>
+  </a>
+  <a class="o-footer__menu_item" href="/services" tabindex="-1">
+    <span>Services</span>
+  </a>
+  <a class="o-footer__menu_item" href="/publicite" tabindex="-1">
+    <span>Publicité</span>
+  </a>
+  <a class="o-footer__menu_item" href="/propos" tabindex="-1">
+    <span>à propos</span>
+  </a>
+
+</nav>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="o-footer__bottom">
+      <div class="o-footer__wrapper">
+        <div class="o-footer__container">
+          <div class="o-footer__bottom_wrap">
+                        <nav class="o-footer__social">
+              <div class="o-footer__social_wrap">
+                    <a target="blank" href="https://www.facebook.com/Magazine.Illustre" class="o-footer__social_item">
+                      <svg class="a-icon" role="img" title="Facebook">
+                        <use xlink:href="/themes/custom/illustre/assets/icons.svg#facebook"></use>
+                      </svg>
+                    </a>
+                    <a target="blank" href="https://twitter.com/Lillustre" class="o-footer__social_item">
+                      <svg class="a-icon" role="img" title="Twitter">
+                        <use xlink:href="/themes/custom/illustre/assets/icons.svg#twitter"></use>
+                      </svg>
+                    </a>
+                    <a target="blank" href="https://www.instagram.com/lillustre/" class="o-footer__social_item">
+                      <svg class="a-icon" role="img" title="instagram">
+                        <use xlink:href="/themes/custom/illustre/assets/icons.svg#instagram"></use>
+                      </svg>
+                    </a>
+                    <a target="blank" href="https://www.youtube.com/channel/UCqW56UFSLYUCGYDcrtYqqeQ" class="o-footer__social_item">
+                      <svg class="a-icon" role="img" title="YouTube">
+                        <use xlink:href="/themes/custom/illustre/assets/icons.svg#youtube"></use>
+                      </svg>
+                    </a>
+              </div>
+            </nav>
+            <nav class="o-footer__legal">
+                <a href="/protection-donnees" class="o-footer__legal_item">Protection des données</a>
+                <a href="/impressum" class="o-footer__legal_item">Impressum</a>
+            </nav>
+            <div class="o-footer__copyright">© 2018 Ringier Axel Springer Suisse SA</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</div>
+
+  </div>
+
+    
+    <div style="display:none"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="0 0 12 6" id="arrow-full"><path d="M11.143.429L6 5.57.857.43z" fill-rule="evenodd"/></symbol><symbol viewBox="0 0 18 8" id="arrow-left"><g fill-rule="nonzero"><path d="M0 4.5v-1h17v1z"/><path d="M16.85 4L13.5.65l.65-.65 4 4-4 4-.65-.65z"/></g></symbol><symbol viewBox="0 0 20 20" id="article"><g fill-rule="nonzero"><path d="M15.5 17.5V6.207L11.793 2.5H4.5v15h11zm-12 1v-17h8.707L16.5 5.793V18.5h-13z"/><path d="M12.5 5.5H16v1h-4.5V2h1zM7 10.5v-1h6v1zM7 13.5v-1h6v1z"/></g></symbol><symbol viewBox="0 0 14 14" id="caret"><path d="M13 4l-6 6-6-6z" fill-rule="evenodd"/></symbol><symbol viewBox="0 0 24 24" id="chevron-left"><path fill-rule="nonzero" d="M18.351 22.327l-1.48 1.346L6.262 12 16.87.327l1.48 1.346L8.963 12z"/></symbol><symbol viewBox="0 0 24 24" id="chevron-right"><path fill-rule="nonzero" d="M6.26 1.673L7.74.327 18.35 12 7.74 23.673l-1.48-1.346L15.65 12z"/></symbol><symbol viewBox="0 0 34 34" id="close"><g fill-rule="nonzero"><path d="M2.293 3.707l1.414-1.414 28 28-1.414 1.414z"/><path d="M30.293 2.293l1.414 1.414-28 28-1.414-1.414z"/></g></symbol><symbol viewBox="0 0 38 38" id="email"><g fill-rule="nonzero"><path d="M0 33V5h38v28H0zm2-2h34V7H2v24z"/><path d="M19 19.705L35.364 6.228l1.272 1.544L19 22.295 1.364 7.772l1.272-1.544z"/></g></symbol><symbol viewBox="0 0 30 30" id="facebook"><path d="M19.916 15.95h-3.453v8.8h-3.518v-8.8H10.5v-3.166h2.445V10.08C12.945 7.952 14.387 6 17.714 6c1.346 0 2.342.124 2.342.124l-.078 2.956s-1.015-.01-2.123-.01c-1.2 0-1.392.527-1.392 1.4v2.314h3.61l-.157 3.167z" fill-rule="evenodd"/></symbol><symbol viewBox="0 0 10 10" id="first"><g fill-rule="nonzero"><path d="M6.06 5l3.397 3.396-.707.708L4.646 5 8.75.896l.707.708z"/><path d="M2.686 5l3.396 3.396-.707.708L1.271 5 5.375.896l.707.708z"/></g></symbol><symbol viewBox="0 0 55 55" id="fullscreen"><g fill-rule="nonzero"><path d="M25 42.887V45H10V30h2.113v12.887zM30 12.113V10h15v15h-2.113V12.113z"/><path d="M11.707 44.941l-1.414-1.414 33.234-33.234 1.414 1.414z"/></g></symbol><symbol viewBox="0 0 55 55" id="gallery"><g fill-rule="evenodd"><path d="M38.25 22L25 32.989h8.37z"/><path d="M26 41.989L39.25 31h-8.37z"/><path fill-rule="nonzero" d="M11.124 36v2H5V8h36v6.074h-2V10H7v26z"/><path d="M14 47V17h36v30H14zm2-2h32V19H16v26z" fill-rule="nonzero"/></g></symbol><symbol viewBox="0 0 68 68" id="gallery-next"><path d="M23.9 16.7l1.5-1.4L44.1 34 25.4 52.7l-1.5-1.4L41.2 34z"/></symbol><symbol viewBox="0 0 68 68" id="gallery-previous"><path d="M26.8 34l17.3 17.3-1.5 1.4L23.9 34l18.7-18.7 1.5 1.4z"/></symbol><symbol viewBox="0 0 21 18" id="heart"><path d="M17.362.714A5.716 5.716 0 0 0 14.59 0c-1.78 0-3.368.809-4.419 2.082A5.742 5.742 0 0 0 2.97.714 5.744 5.744 0 0 0 0 5.748c0 .619.101 1.213.284 1.768.985 4.433 9.886 10.019 9.886 10.019s8.89-5.586 9.878-10.02a5.665 5.665 0 0 0 .285-1.767 5.75 5.75 0 0 0-2.97-5.034" fill-rule="evenodd"/></symbol><symbol viewBox="0 0 20 20" id="home"><g fill-rule="nonzero"><path d="M16.5 8.23L10 2.659 3.5 8.23v9.27h13V8.23zM2.5 18.5V7.77L10 1.341l7.5 6.429V18.5h-15z"/><path d="M9 13h2v5h1v-6H8v6h1z"/></g></symbol><symbol viewBox="0 0 14 14" id="info"><g fill-rule="evenodd"><path d="M7 13.5a6.5 6.5 0 1 1 0-13 6.5 6.5 0 0 1 0 13zm0-1a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11z" fill-rule="nonzero"/><path d="M6.2 5.559L5 5.549C5.018 4.26 5.786 3.5 7.059 3.5 8.259 3.5 9 4.06 9 5.071 9 6.444 7.619 6.606 7.619 7.69H6.454c0-1.4 1.11-1.472 1.11-2.366 0-.406-.243-.587-.65-.587-.451 0-.704.262-.713.822zm.814 2.853c.442 0 .758.307.758.75 0 .45-.316.758-.758.758-.443 0-.75-.307-.75-.759 0-.442.307-.749.75-.749z"/></g></symbol><symbol viewBox="0 0 30 30" id="instagram"><g fill-rule="evenodd"><path d="M11.724 7.41c-1.903 0-3.45 1.523-3.45 3.395v7.77c0 1.873 1.547 3.396 3.45 3.396h7.4c1.903 0 3.45-1.523 3.45-3.395v-7.771c0-1.872-1.547-3.396-3.45-3.396h-7.4zm7.4 16.798h-7.4C8.568 24.208 6 21.682 6 18.576v-7.771c0-3.106 2.568-5.633 5.724-5.633h7.4c3.156 0 5.724 2.527 5.724 5.633v7.77c0 3.107-2.568 5.633-5.724 5.633z"/><path d="M15.312 11.777c-.711 0-1.389.275-1.915.778a2.934 2.934 0 0 0-.905 2.11c0 1.591 1.315 2.886 2.932 2.886 1.608 0 2.896-1.279 2.933-2.91.039-1.764-1.042-2.807-2.966-2.862l-.08-.002m.113 8.011c-2.87 0-5.206-2.298-5.206-5.123 0-1.392.581-2.746 1.595-3.715a5.018 5.018 0 0 1 3.644-1.408c3.16.091 5.24 2.16 5.173 5.147a5.178 5.178 0 0 1-5.206 5.099M21.577 9.713c0 .62-.51 1.124-1.14 1.124-.631 0-1.142-.503-1.142-1.124 0-.62.51-1.123 1.141-1.123.63 0 1.141.503 1.141 1.123"/></g></symbol><symbol viewBox="0 0 10 10" id="last"><g fill-rule="nonzero"><path d="M8.043 5L4.646 1.604l.708-.708L9.457 5 5.354 9.104l-.708-.708z"/><path d="M4.668 5L1.27 1.604 1.98.896 6.082 5 1.98 9.104l-.708-.708z"/></g></symbol><symbol viewBox="0 0 30 30" id="mail"><path d="M4.5 8.69v12.473l6.95-6.41L4.5 8.69zm20.004-1.056H5.711l9.396 8.197 9.397-8.197zm-9.397 10.309l-2.45-2.139-6.983 6.441H24.54l-6.983-6.44-2.45 2.138zm10.608 3.22V8.69l-6.95 6.062 6.95 6.41z" fill-rule="evenodd"/></symbol><symbol viewBox="0 0 10 10" id="next"><path fill-rule="nonzero" d="M2.771 1.604L3.48.896 7.582 5 3.48 9.104l-.708-.708L6.168 5z"/></symbol><symbol viewBox="0 0 20 20" id="photo"><g fill-rule="nonzero"><path d="M5.333 13.5v1H1.5v-12h14v3.8h-1V3.5h-12v10z"/><path d="M4.5 17.5v-12h14v12h-14zm1-1h12v-10h-12v10z"/></g></symbol><symbol viewBox="0 0 20 20" id="portrait"><g fill-rule="nonzero"><path d="M4.5 18h-1v-.643C3.5 14.11 6.422 11.5 10 11.5s6.5 2.609 6.5 5.857V18h-1v-.643c0-2.669-2.45-4.857-5.5-4.857s-5.5 2.188-5.5 4.857V18zM13.5 6a3.5 3.5 0 1 0-7 0 3.5 3.5 0 0 0 7 0zm1 0a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0z"/></g></symbol><symbol viewBox="0 0 10 10" id="previous"><path fill-rule="nonzero" d="M7.582 8.396l-.707.708L2.771 5 6.875.896l.707.708L4.186 5z"/></symbol><symbol viewBox="0 0 34 34" id="search"><g fill-rule="nonzero"><path d="M21 15a9 9 0 1 0-18 0 9 9 0 0 0 18 0zm2 0c0 6.075-4.925 11-11 11S1 21.075 1 15 5.925 4 12 4s11 4.925 11 11z"/><path d="M19.4 20.8l1.2-1.6 12 9-1.2 1.6z"/></g></symbol><symbol viewBox="0 0 12 12" id="share"><path d="M9.758.976a.977.977 0 0 1 0 1.952.977.977 0 0 1 0-1.952m-4.11 3.721l2.678-1.429a1.94 1.94 0 0 0 1.432.635 1.952 1.952 0 1 0-1.951-1.951c0 .158.023.31.06.456L5.187 3.836c.193.262.348.55.46.861M2.44 7.32A1.465 1.465 0 0 1 .976 5.855c0-.807.657-1.464 1.463-1.464.808 0 1.464.657 1.464 1.464 0 .807-.656 1.464-1.464 1.464m0-3.903a2.44 2.44 0 1 0 0 4.878 2.44 2.44 0 0 0 0-4.878m7.32 7.318a.977.977 0 0 1 0-1.952.977.977 0 0 1 0 1.952m0-2.927c-.57 0-1.076.247-1.433.634L5.65 7.013c-.113.31-.268.6-.46.86l2.677 1.429c-.036.147-.06.3-.06.456a1.951 1.951 0 1 0 1.952-1.95" fill-rule="evenodd"/></symbol><symbol viewBox="0 0 22 22" id="timing"><g fill-rule="evenodd"><path d="M11 22a9 9 0 1 1 0-18 9 9 0 0 1 0 18zm0-2a7 7 0 1 0 0-14 7 7 0 0 0 0 14z" fill-rule="nonzero"/><circle cx="11" cy="13" r="1"/><path fill-rule="nonzero" d="M12 5h-2V1h2zM11.5 13h-1V7h1zM16.707 8.707l-1.414-1.414 2.828-2.829 1.415 1.415z"/><path fill-rule="nonzero" d="M15 1v2H7V1zM6.707 7.293L5.293 8.707 2.464 5.88 3.88 4.464z"/></g></symbol><symbol viewBox="0 0 30 30" id="twitter"><path d="M23.023 9.447a4.318 4.318 0 0 0 1.894-2.382A8.6 8.6 0 0 1 22.18 8.11a4.307 4.307 0 0 0-7.34 3.929 12.228 12.228 0 0 1-8.88-4.501 4.293 4.293 0 0 0-.583 2.166c0 1.494.76 2.813 1.917 3.585a4.29 4.29 0 0 1-1.951-.538c0 2.142 1.484 3.882 3.455 4.278-.361.1-.742.151-1.135.151-.278 0-.547-.025-.81-.077a4.308 4.308 0 0 0 4.023 2.991 8.641 8.641 0 0 1-5.35 1.844c-.348 0-.69-.02-1.027-.06a12.197 12.197 0 0 0 6.604 1.934c7.924 0 12.255-6.563 12.255-12.255 0-.188-.004-.374-.012-.557a8.748 8.748 0 0 0 2.15-2.23 8.583 8.583 0 0 1-2.474.677z" fill-rule="evenodd"/></symbol><symbol id="video" viewBox="0 0 20 20"><style>.st0{fill:#1c1c1c}</style><g id="bcIcons_x2F_Menu_x2F_Video"><path id="bcOval-2" class="bcst0" d="M10 18.5c-4.7 0-8.5-3.8-8.5-8.5S5.3 1.5 10 1.5s8.5 3.8 8.5 8.5-3.8 8.5-8.5 8.5zm0-1c4.1 0 7.5-3.4 7.5-7.5S14.1 2.5 10 2.5 2.5 5.9 2.5 10s3.4 7.5 7.5 7.5z"/><path id="bcFill-4" class="bcst0" d="M8.5 7l4 3-4 3z"/></g></symbol><symbol viewBox="0 0 30 30" id="whatsapp"><path d="M24 14.768c0 4.842-3.956 8.768-8.836 8.768a8.846 8.846 0 0 1-4.271-1.09L6 24l1.595-4.704a8.675 8.675 0 0 1-1.268-4.527C6.327 9.925 10.283 6 15.164 6 20.044 6 24 9.926 24 14.768zm-4.374 2.02c-.055-.09-.2-.143-.415-.251-.217-.107-1.282-.628-1.48-.7-.199-.07-.344-.107-.488.108-.144.215-.56.7-.686.843-.126.143-.252.161-.469.054-.217-.107-.915-.335-1.742-1.067-.644-.57-1.079-1.273-1.206-1.488-.125-.215-.012-.331.095-.438.098-.097.217-.251.325-.376.109-.126.145-.216.217-.36.073-.143.037-.268-.018-.376-.054-.107-.488-1.165-.668-1.595-.18-.43-.36-.359-.487-.359s-.271-.018-.415-.018a.798.798 0 0 0-.578.27c-.198.214-.758.735-.758 1.791 0 1.058.776 2.08.884 2.223.109.143 1.498 2.384 3.7 3.245 2.203.86 2.203.573 2.6.537.396-.035 1.282-.52 1.462-1.021.18-.502.18-.933.127-1.022z" fill-rule="evenodd"/></symbol><symbol viewBox="0 0 30 30" id="youtube"><path d="M18.04 15.281l-5.47 2.58a.22.22 0 0 1-.314-.195v-5.322a.22.22 0 0 1 .319-.194l5.47 2.742a.216.216 0 0 1-.005.39M20.85 8H9.155C6.86 8 5 9.84 5 12.109v5.782C5 20.161 6.86 22 9.155 22H20.85c2.295 0 4.155-1.84 4.155-4.109v-5.782c0-2.27-1.86-4.109-4.155-4.109" fill-rule="evenodd"/></symbol></svg></div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/860","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"core\/html5shiv,core\/picturefill,factory\/photoswipe,factory_mailchimp\/newsletter,il_ads\/il_ads.ads.adtech,il_ads\/il_ads.ads.breakpoints,il_ads\/il_ads.ads.loader,il_ads\/il_ads.ads.signature,illustre\/menu-higlight,illustre\/teads,illustre\/video,np8_embed\/np8_embed,statistics\/drupal.statistics,system\/base","theme":"illustre","theme_token":null},"ajaxTrustedUrl":[],"np8_embed":{"twitter":{"dialog_add":"Embed Twitter","dialog_edit":"Edit Embedded Twitter"},"facebook":{"app_id":2147483647,"langcode":"de_DE","dialog_add":"Embed Facebook","dialog_edit":"Edit Embedded Facebook","loading":"Loading Facebook Post..."}},"statistics":{"data":{"nid":"860"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"d953b8609a7b3a22e78369c34438afaf1a3d75f0344e728f0e3f7bf92f3365bc"}}</script>
+<script src="/sites/default/files/js/js_4BPLGIpHhGhlBFmrf0pdBg_tyE8vlwfMJ5IFU37eTvA.js"></script>
+<script src="https://a.teads.tv/page/62804/tag"></script>
+<script src="/sites/default/files/js/js_e9OkaPrdlG3X2GFjraUxsklomVagP-fhgMK1FD-hidk.js"></script>
+<script src="https://players.brightcove.net/5104226614001/BJqobDOb6_default/index.min.js"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="/sites/default/files/js/js_J3YtaMJpjfzFHUieQt1vGJ5bYsVX9hin2GrIPm9kTPI.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0d3c09e20d","applicationID":"147799722","transactionName":"ZlZTY0pZCxBVBRJQC18ccFRMUQoNGxYHXgFuUFBUUF0=","queueTime":0,"applicationTime":14,"atts":"ShFQFQJDGB4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

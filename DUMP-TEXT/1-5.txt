@@ -1,0 +1,350 @@
+   REFRESH(600 sec):
+   https://www.20minutos.es/noticia/2483911/0/muere/socialista-madrileno/p
+   edro-zerolo/
+   #publisher alternate
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-P67GDV
+
+   [p?c1=2&c2=8189131&cv=2.0&cj=1]
+
+     * Portada
+     * Nacional
+     * Internacional
+     * Economía
+     * Tu Ciudad
+          + Madrid
+          + Cataluña
+               o Barcelona
+               o Girona
+               o Lleida
+               o Tarragona
+          + Andalucía
+               o Almería
+               o Cádiz
+               o Córdoba
+               o Granada
+               o Huelva
+               o Jaén
+               o Málaga
+               o Sevilla
+          + Aragón
+               o Huesca
+               o Teruel
+               o Zaragoza
+          + Asturias
+          + Castilla y León
+               o Ávila
+               o Burgos
+               o León
+               o Palencia
+               o Salamanca
+               o Segovia
+               o Soria
+               o Valladolid
+               o Zamora
+          + Comunidad Valenciana
+               o Alicante
+               o Castellón
+               o Valencia
+          + Galicia
+               o A Coruña
+               o Lugo
+               o Ourense
+               o Pontevedra
+          + País Vasco
+               o Vizcaya
+               o Guipúzcoa
+               o Álava
+          + Murcia
+          + Castilla la Mancha
+               o Toledo
+               o Guadalajara
+               o Cuenca
+               o Ciudad Real
+               o Albacete
+          + Extremadura
+               o Cáceres
+               o Badajoz
+          + Islas Baleares
+          + Cantabria
+          + Islas Canarias
+               o Santa Cruz de Tenerife
+               o Las Palmas
+          + Navarra
+          + La Rioja
+          + Ceuta
+          + Melilla
+     * Opiniones
+     * Gente y TV
+     * Tecnología
+     * Cultura
+          + Artes
+          + Música
+          + Cine
+          + Libros
+          + Cartelera
+          + Críticas de cine
+          + Estrenos
+          + Festivales de música
+          + Novedades editoriales
+     * Deportes
+          + Fútbol
+          + Fórmula 1
+          + Moto GP
+          + Tenis
+          + Baloncesto
+     * Motor
+     * Horóscopo
+     * Loterías
+          + Primitiva
+          + Euromillones
+          + Bonoloto
+          + El Gordo
+          + Lotería
+          + Quiniela
+          + Once
+          + Lotería de Navidad
+     * Más secciones
+          + Videojuegos
+          + Redes
+          + Gonzoo
+          + Ciencia
+          + Salud
+          + Viajes
+          + Gastro
+          + Vivienda
+          + Formación y empleo
+     * Blogs
+     * Listas
+     * Vídeos
+          + Nacional
+          + Internacional
+          + Deportes
+          + Tecnología
+          + Cine
+          + Música
+          + Artes
+          + TV
+          + Gente
+          + Ciencia
+          + Humor
+          + Redes
+          + Clipset
+     * Fotos
+          + Actualidad
+          + Cultura
+          + Deportes
+          + Gente y TV
+          + Estilo de Vida
+     * Edición Impresa
+     * Servicios
+          + Pisos
+          + Ahorro
+          + Minijuegos
+          + Guía Local
+          + Descuentos
+          + Tienda
+          + Tienda gastro
+          + Viajes
+     * Configuración
+
+   Madrid
+     *
+     *
+     *
+
+   [2149051.jpg]
+
+Muere a los 54 años Pedro Zerolo, político socialista y militante por los
+derechos LGTB
+
+   20MINUTOS / AGENCIAS / VIDEO: ZOOMIN.TV 09.06.2015 - 12:15h
+     * El político ha fallecido en su casa, padecía cáncer de páncreas, la
+       capilla ardiente abrirá a las tres de esta tarde en el patio de
+       cristales de la Casa de la Villa.
+     * Pedro Sánchez: "Nos enseñó a todos que la diversidad forma parte
+       del socialismo".
+     * Carla Antonelli: "Lo que nos parecía imposible, al final sucedió.
+       Adiós, amigo".
+     * Zerolo destacó por sus actividades contra la discriminación, en pro
+       de los derechos de los homosexuales, en la lucha contra el VIH-Sida
+       y a favor de la sanidad pública madrileña.
+     * Fue secretario de Movimientos Sociales del PSOE y concejal en el
+       Ayuntamiento de Madrid desde 2003 hasta hoy.
+
+   IFRAME: https://www.20minutos.es/videoplayer/loLRU146/mb/
+
+   El político del Partido Socialista de Madrid (PSM) Pedro Zerolo, de 54
+   años, ha muerto este martes en su domicilio de Madrid rodeado de su
+   marido y su familia, según han confirmado fuentes del partido a este
+   periódico. Hace un año y medio le habían diagnosticado un cáncer de
+   páncreas.
+
+   El secretario general del PSOE, Pedro Sánchez, ha dicho de él que "nos
+   enseñó a todos que la diversidad forma parte del socialismo", en
+   declaraciones realizadas en la Cadena Ser.
+
+   "Lo que nos parecía imposible, al final sucedió... Adiós, hasta ahora,
+   amigo", ha asegurado a 20minutos su compañera de partido y activismo
+   LGTB y diputada en la Asamblea de Madrid, Carla Antonelli. La cuenta de
+   Twitter oficial del partido despedía así a su compañero:
+
+     Se nos ha ido Pedro Zerolo. A quien tanto nos deja, a tan digno ser
+     humano: GRACIAS, compañero del alma.
+     -- PSOE (@PSOE) junio 9, 2015
+
+   La capilla ardiente del político socialista se instalará esta misma
+   mañana en el patio de cristales de la Casa de la Villa, de acuerdo con
+   la familia y por ofrecimiento de la alcaldesa de Madrid, Ana Botella.
+
+   También el presidente del Gobierno, Mariano Rajoy, ha expresado su
+   pésame con el siguiente tuit.
+
+     Acabamos de conocer el fallecimiento de Pedro Zerolo. Un momento
+     difícil para su familia, amigos y compañeros. Mi sentido pésame. MR
+     -- Mariano Rajoy Brey (@marianorajoy) junio 9, 2015
+
+   La capilla ardiente del político socialista abrirá a las tres de esta
+   tarde en el patio de cristales de la Casa de la Villa, han informado
+   fuentes del Ayuntamiento de Madrid y del PSOE.
+
+   Un portavoz municipal ha indicado que la capilla ardiente, que
+   permanecerá abierta hasta las nueve de la noche, se instalará en esa
+   sala de la antigua sede del Ayuntamiento de Madrid de acuerdo con la
+   familia y por ofrecimiento de la alcaldesa de la capital, Ana Botella.
+
+   Los preparativos para instalar la capilla ardiente en este espacio,
+   antesala del viejo salón de Plenos del Ayuntamiento de la capital, en
+   el que Zerolo ocupó la bancada socialista desde 2003 hasta su traslado
+   a Cibeles en 2011, comenzaron poco después de conocerse la noticia del
+   fallecimiento.
+
+Una vida de activismo y política
+
+   Zerolo (Caracas, Venezuela, 1960) era el número 3 de la lista del PSOE
+   a la Comunidad de Madrid encabezada por Ángel Gabilondo y que obtuvo 37
+   escaños.
+
+   Fue secretario de Movimientos Sociales del PSOE y concejal del
+   Ayuntamiento de Madrid. Pasó su infancia en Canarias, donde estudió
+   Derecho en la Universidad de la Laguna (Tenerife). Posteriormente,
+   continuó sus estudios en Madrid.
+
+   En Madrid comenzó a colaborar en proyectos sociales, entre ellos el del
+   sacerdote Enrique de Castro para ayudar a personas en situación de
+   vulnerabilidad en el barrio de Entrevías.
+
+   Zapatero asegura que Zerolo le "convenció" para poner en marcha la ley
+   del matrimonio homosexualEn 1989 saltó a la política al presentarse
+   como candidato al Senado en las elecciones de octubre, por el partido
+   "Lista Antiprohibicionista sobre Drogas", grupo apoyado, entre otros,
+   por el Partido Radical Italiano y personalidades españolas como José
+   Luis López Aranguren, Manuela Carmena o Antonio Escohotado. Pero no
+   logró escaño.
+
+   Después repartió su actividad entre el activismo del colectivo LGTB,
+   primero, y después entró en el PSOE. En enero de 2003, la candidata
+   socialista a la alcaldía de Madrid, Trinidad Jiménez, le ofreció ocupar
+   el sexto puesto de su lista y en caso de ganar las elecciones, la
+   creación de una Concejalía de Igualdad, de la que Zerolo podría hacerse
+   cargo. Zerolo aceptó la oferta y dimitió de sus cargos en la Federación
+   Estatal de Lesbianas y Gays (FELG).
+
+   Ha sido muy reconocida su labor para impulsar la aprobación de leyes
+   como la del matrimonio homosexual, la identidad de género y la igualdad
+   entre mujeres y hombres. El pasado verano, el expresidente del Gobierno
+   José Luis Rodríguez Zapatero explicó que quien le "convenció" para
+   poner en marcha la reforma que autorizaba el matrimonio homosexual fue
+   Zerolo.
+
+   Fue concejal del Ayuntamiento de Madrid desde mayo de 2003 hasta su
+   fallecimiento (iba a cambiar el acta de concejal por la de diputado en
+   la Asamblea de Madrid, para lo que había sido elegido el pasado 24 de
+   mayo).
+
+   En julio de 2004, en el XXXVI Congreso Federal del PSOE, entró a formar
+   parte de la Ejecutiva y fue elegido secretario de Movimientos Sociales
+   y Relaciones con las ONG's.
+
+   Fue concejal del Ayuntamiento de Madrid desde mayo de 2003 hasta
+   hoyDefensor del matrimonio homosexual, en octubre de 2003, Zerolo y su
+   pareja, Jesús Santos, presentaron una solicitud de matrimonio en el
+   Registro Civil de Madrid, que les fue denegada. Sin embargo, el 1 de
+   octubre de 2005, tres meses después de la entrada en vigor del
+   matrimonio homosexual en España, Zerolo y Santos contrajeron matrimonio
+   en Madrid, en un acto oficiado por la entonces concejala Trinidad
+   Jiménez.
+
+   En enero de 2014 anunció que le había sido diagnosticado un cáncer, y
+   su intención de compaginar el tratamiento médico con su trabajo en el
+   PSOE y en el Ayuntamiento de Madrid.
+
+   En enero de 2015 la Ejecutiva Regional del PSM le nombró presidente
+   tras la retirada de Juan Barranco. Permaneció en el cargo hasta el 11
+   de febrero de ese mismo año, fecha en la que la dirección federal del
+   PSOE descabezó a la federación madrileña, con Tomás Gómez al frente,
+   para dar entrada a una gestora.
+
+   Comprometido socialmente, Zerolo ha destacado por sus actividades
+   contra la discriminación, en pro de los derechos de los homosexuales,
+   en la lucha contra el VIH-Sida y a favor de la sanidad pública
+   madrileña.
+
+Más información sobre:
+
+     * Pedro Zerolo
+
+Últimas noticias de Madrid
+
+   [shim.gif] [850264-97-73.jpg?v=20181220121639]
+
+Localizan a un menor fugado de casa en octubre tirando petardos en Ópera
+
+   [shim.gif] [618013-97-73.jpg?v=20181228114410]
+
+El Ayuntamiento desactivará para este sábado el protocolo anticontaminación
+tras cuatro días vigente
+
+   [shim.gif] [854379-97-73.jpg?v=20181228110242]
+
+La Audiencia de Madrid condena a un hombre a cuatro años de cárcel por violar
+a una prostituta en Usera
+
+   [shim.gif] [205374-97-73.jpg?v=20181228082542]
+
+Condenan a Ana Botella y siete cargos de su Gobierno a pagar 23 millones por
+la venta de pisos públicos a fondos buitre
+
+   IFRAME: https://20min.vstatics.com/html/20minutos/widget.min.html
+
+Última hora
+
+   [shim.gif] [854566-97-73.jpg]
+
+Sánchez busca consolidar su proyecto político en 2019 y niega un adelanto
+electoral
+
+   [shim.gif] [854593-97-73.jpg]
+
+Sánchez dice que actuará si PP y Cs "recortan derechos y libertades de las
+mujeres" en Andalucía
+
+   [shim.gif] [820853-97-73.jpg]
+
+Sánchez no ve "ningún elemento para la polémica" en la foto de Mendia y Otegi
+
+   [shim.gif] [854359-97-73.jpg?v=20181228104423]
+
+Muere el periodista Francisco Pérez Abellán a los 64 años
+
+   © 20minutos.es
+     * Ir arriba
+
+     * Política de Privacidad
+     * Aviso Legal
+     * Política de Cookies
+     * Contacto
+     * Quiénes somos
+
+     * Facebook
+     * Twitter

@@ -1,0 +1,533 @@
+   #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PTC4Z5
+
+   Público
+   (BUTTON)
+   Tj Tool, herramienta para crear el Mapa de Transparencia de la
+   información <% if(image) { %> <% } else { %><% } %> Únete a Público
+   Inicia sesión
+   (BUTTON)
+   <% if(image) { %> <% } else { %><%= firstLetter %><% } %>
+
+   <%= name %><%= email %>
+   Editar mi cuentaCerrar sesión
+   (BUTTON)
+   ____________________ Buscar
+   (BUTTON)
+
+   Inicia sesión
+
+     * Entra con tu cuenta de correo
+     * Entra con tu cuenta de Facebook
+     * Entra con tu cuenta de Google
+
+   ¿No tienes usuario? Únete
+
+   [ ] Si inicias sesión aceptas nuestra política de privacidad.
+   (BUTTON)
+
+   Inicia sesión
+
+   Introduce tu usuario y contraseña
+   ____________________ ____________________
+   No cerrar la sesión [X]
+   (BUTTON) Entrar
+
+   ¿Olvidaste tu contraseña?
+   (BUTTON)
+
+   Recuperar contraseña
+
+   Indica tu cuenta de correo
+   ____________________ (BUTTON) Recuperar
+     * Portada
+     * Política
+     * Opinión
+     * Mundo
+     * Economía
+     * Mujer y Sociedad
+     * Medio Ambiente
+     * Educación
+     * Sanidad
+     * Inmigración
+     * Derechos Humanos
+     * Maltrato Animal
+     * Memoria Pública
+     * Públic
+     * Cultura
+     * Tremending
+     * Público TV
+     * Videos
+
+     *
+     *
+     *
+     *
+     *
+
+Destacamos
+
+   La exalcaldesa Ana Botella y siete cargos de su equipo, condenados a
+   pagar 23 millones por la venta ...
+   Los forenses rechazan la versión de la Guardia Civil e insisten en que
+   Luelmo no murió el día de la ...
+   Una luz brillante azul provocada por un incendio ilumina el cielo de
+   Nueva York
+   José Luis Cuerda: 'Me parece que en España todo va a ir a peor, a mucho
+   peor'
+
+Tremending
+
+   Vivir en un país en el que condenan a Ana Botella y que la gente piense
+   que es una inocentada
+   Diecinueve citas falsas (y una auténtica) para mondarte de la risa
+   Otra Vuelta de Tuerka - Paul Mason
+
+     * política
+     * Memoria Pública
+     * Gobierno
+     * Partidos
+     * Congreso
+     * Tribunales
+     * Interior
+     * Defensa
+
+   Público
+   Público
+
+Pérez Tapias abandona el PSOE: "'Socialista' se dice de muchas maneras"
+
+   El exdiputado y excandidato a secretario general anuncia que deja el
+   partido y que así se lo ha comunicado a Pedro Sánchez a través de una
+   carta.
+     *
+     *
+     *
+     *
+
+   Publicidad
+   Media: 4.43
+   Votos: 23
+     * Email
+     * Imprimir
+     * A+
+       a-
+
+   Jose Antonio Pérez Tapias. WIKIMEDIA COMMONS
+
+   Jose Antonio Pérez Tapias. WIKIMEDIA COMMONS
+   MÁS INFORMACIÓN
+     * Díaz, Sánchez y López se medirán en un único debate el 15 de mayo
+       en Ferraz
+
+   Ver todos
+
+   MADRID
+   03/01/2018 20:49 Actualizado: 03/01/2018 20:54
+
+   PÚBLICO
+
+   El excandidato a ser secretario general del PSOE José Antonio Pérez
+   Tapias ha anunciado que se ha dado de baja del partido. El ya
+   exsocialista ha revelado su decisión a través de sus redes sociales y
+   del medio CTXT tras señalar que es una decisión "largo tiempo pensada"
+   que ha comunicado al líder de los socialistas.
+
+   "He escrito a Pedro Sánchez, además de para felicitarle el recién
+   estrenado 2018, para comunicarle mi decisión, largo tiempo pensada, de
+   pedir la baja en el Partido. 'Socialista' se dice de muchas maneras",
+   ha escrito el exdiputado y profesor universitario.
+
+     REINICIANDO... FINAL DE ETAPA, COMIENZO DE OTRA.
+     Sobre mi baja en el PSOE.
+     He escrito a Pedro Sánchez, además de para felicitarle el recién
+     estrenado 2018, para comunicarle mi decisión, largo tiempo pensada,
+     de pedir la baja en el Partido. "Socialista" se dice de muchas
+     maneras pic.twitter.com/RgYMq57XyR
+     -- JA Pérez Tapias (@japtapias) January 3, 2018
+
+   Por otro lado, Pérez Tapias también ha señalado en su perfil de
+   Facebook que era el momento de abandonar el partido debido a los
+   "planteamientos políticos" que sostiene, "entre otros los relativos al
+   conflicto de Cataluña y a la crisis del Estado". Pérez Tapias ha
+   indicado que, por defender esos principios, no quiere "dar lugar a
+   malentendidos ni en el seno del partido ni de cara a la opinión
+   pública".
+
+   El excandidato a liderar a los socialistas ha trasladado además desde,
+   fuera del PSOE, seguirá trabajando por un proyecto socialista que "de
+   manera creíble e innovadora" se inserte en la pluralidad de la
+   izquierda para lograr presentar las alternativas a la derecha que
+   urgentemente se necesitan, a su juicio, en España.
+
+   Igualmente ha expresado al secretario general del PSOE su "profundo
+   agradecimiento" al partido por las oportunidades de desempeñar tanto
+   responsabilidades orgánicas como cargos institucionales al servicio de
+   la ciudadanía y de lo que supone el proyecto socialista
+
+   Porque confías en Público
+
+   Público es un medio veraz, libre y valiente. Trabajamos para que sea
+   sostenible, pero solo lo conseguiremos si recibimos el apoyo de la
+   gente comprometida.
+
+   ¿Nos ayudas a seguir denunciando los abusos de poder?
+
+   Con 6EUR al mes estarás fortaleciendo una labor imprescindible:
+   destapar la mentira y proteger un medio independiente.
+   únete a nosotros
+   Etiquetas
+     * Política
+
+     *
+     *
+     *
+     *
+
+Más noticias en Política y Sociedad
+
+el redactor recomienda...
+
+     * Actualidad
+       Un niño de 15 meses ingresa en la UCI tras ser atacado por dos
+       rottweiler
+       EUROPA PRESS
+     * Imagen de archivo de las rebajas / EFE
+       España
+       Vuelven las rebajas y aumenta la precariedad
+       EFE
+     * El cartel de la carroza por la igualdad y la diversidad de la
+       cabalgata de Reyes del madrileño barrio de Vallecas
+       España
+       Insultos contra la carroza de la diversidad de Vallecas por incluir
+       a una Drag Queen
+       Público
+     * Fuerzas del Cuerpo de Guardianes de la Revolución Islámica de Irán
+       (CGRI) durante un
+       Internacional
+       Los Guardianes de la Revolución anuncian "el fin de la sedición" en
+       Irán
+       Agencia EFE
+     * Imagen de archivo de Pilar Barreiro, ex alcaldesa de Cartagena y
+       actual senadora del PP, en un encuentro con Mariano Rajoy. EFE
+       Política
+       Ciudadanos amenaza al PP con no aprobar los Presupuestos si no
+       dimite Barreiro
+       público/agencias
+     * Refugiados rohinyá cruzan la frontera entre Birmania y Bangladesh.
+       - REUTERS
+       Internacional
+       Birmania, 70 años de independencia entre acusaciones de violaciones
+       masivas y el drama de los rohingya
+       Queralt Castillo Cerezuela
+     * Contenidors al port de Barcelona. / Port de Barcelona
+       Public
+       Exportacions i comerç mantenen el pols de l'economia catalana
+       durant el 2017
+       david rodríguez
+     * No hay estructura alienígena en torno a la estrella KIC 8462852
+       Ciencias
+       La supuesta megaestructura alienígena de la estrella Tabby sería
+       una nube de polvo
+       AGENCIAS
+     * Una mujer trabaja en la clasificación de la fresa en una
+       cooperativa onubense. - LAURA LEÓN
+       Política
+       Unidos Podemos pide cambiar la ley que regula el paro de los
+       empleados a tiempo parcial
+       EFE
+
+   Comentarios Tenemos novedades en el área de comentarios: sólo los
+   miembros de la Comunidad de Público pueden debatir o comentar nuestras
+   noticias (puedes unirte aquí). Si únicamente deseas leer los
+   comentarios, antes debes iniciar sesión.
+
+   Comentarios
+   <% if(canWriteComments) { %>
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   EnviarDescartar
+
+   Recuerda las normas de la comunidad.
+   <% } else { %>
+
+   Para poder comentar en esta noticia antes tienes que unirte a la
+   comunidad de Público, puedes hacerlo aquí.
+   <% } %>
+
+   Comentarios:
+   (BUTTON) Ordenar por los más nuevos
+   Comentarios más nuevos Comentarios más antiguos
+   <% if(_.allKeys(comments).length > 0) { %> <% _.each(comments,
+       function(comment) { %>
+     * <% if(comment.user.image) { %> <%= comment.user.username %> <% }
+       else { %> <%= comment.user.firstLetter %> <% } %>
+       <%= comment.user.username %>
+       <%= comment.published %>
+       <%= comment.dateTime %>
+       <%= comment.text %>
+       <% if (comment.actions.selected && comment.actions.selected != '')
+       { %> <% if (comment.actions.selected == 'love') { %> [love.svg] Me
+       encanta <% } %> <% if (comment.actions.selected == 'laugh') { %>
+       [laugh.svg] Me parto <% } %> <% if (comment.actions.selected ==
+       'dizzy') { %> [dizzy.svg] Flipo <% } %> <% if
+       (comment.actions.selected == 'cry') { %> [cry.svg] Me entristece <%
+       } %> <% if (comment.actions.selected == 'pout') { %> [pout.svg] Me
+       cabrea <% } %> <% if (comment.actions.selected == 'sleep') { %>
+       [sleep.svg] Qué aburrimiento <% } %> <% if
+       (comment.actions.selected == 'mute') { %> [mute.svg] Sin palabras
+       <% } %> <% } else { %> ¿cómo te quedas? <% } %> <%
+       if(canWriteComments) { %>
+          + [love.svg] Me encanta
+          + [laugh.svg] Me parto
+          + [dizzy.svg] Flipo
+          + [cry.svg] Me entristece
+          + [pout.svg] Me cabrea
+          + [sleep.svg] Qué aburrimiento
+          + [mute.svg] Sin palabras
+       <% } %>
+        <% if (comment.actions.love && comment.actions.love > 0) { %>
+          + [love.svg]
+            Me encanta: <%= comment.actions.love %>
+            <% } %> <% if (comment.actions.laugh && comment.actions.laugh
+            > 0) { %>
+          + [laugh.svg]
+            Me parto: <%= comment.actions.laugh %>
+            <% } %> <% if (comment.actions.dizzy && comment.actions.dizzy
+            > 0) { %>
+          + [dizzy.svg]
+            Flipo: <%= comment.actions.dizzy %>
+            <% } %> <% if (comment.actions.cry && comment.actions.cry > 0)
+            { %>
+          + [cry.svg]
+            Me entristece: <%= comment.actions.cry %>
+            <% } %> <% if (comment.actions.pout && comment.actions.pout >
+            0) { %>
+          + [pout.svg]
+            Me cabrea: <%= comment.actions.pout %>
+            <% } %> <% if (comment.actions.sleep && comment.actions.sleep
+            > 0) { %>
+          + [sleep.svg]
+            Qué aburrimiento: <%= comment.actions.sleep %>
+            <% } %> <% if (comment.actions.mute && comment.actions.mute >
+            0) { %>
+          + [mute.svg]
+            Sin palabras: <%= comment.actions.mute %>
+            <% } %> <% if(comment.actions.count == 0){ %>
+          + <% } else { %>
+          + <% } %>
+            <%= comment.actions.count %>
+            <% if (comment.actions.love && comment.actions.love > 0) { %>
+            Me encanta: <%= comment.actions.love %>
+            <% } %> <% if (comment.actions.laugh && comment.actions.laugh
+            > 0) { %>
+            Me parto: <%= comment.actions.laugh %>
+            <% } %> <% if (comment.actions.dizzy && comment.actions.dizzy
+            > 0) { %>
+            Flipo: <%= comment.actions.dizzy %>
+            <% } %> <% if (comment.actions.cry && comment.actions.cry > 0)
+            { %>
+            Me entristece: <%= comment.actions.cry %>
+            <% } %> <% if (comment.actions.pout && comment.actions.pout >
+            0) { %>
+            Me cabrea: <%= comment.actions.pout %>
+            <% } %> <% if (comment.actions.sleep && comment.actions.sleep
+            > 0) { %>
+            Qué aburrimiento: <%= comment.actions.sleep %>
+            <% } %> <% if (comment.actions.mute && comment.actions.mute >
+            0) { %>
+            Sin palabras: <%= comment.actions.mute %>
+            <% } %>
+       Responder
+       <% if(_.allKeys(comment.children.models).length > 0) { %>
+        <% _.each(comment.children.models, function(children) { %> <%
+            children = children.toJSON() %>
+          + <% if(children.user.image) { %> <%= children.user.username %>
+            <% } else { %> <%= children.user.firstLetter %> <% } %>
+            <% if(children.parent.id != comment.id) { %> en respuesta a
+            <%= children.parent.username %> <% } %> <%=
+            children.user.username %>
+            <%= children.published %>
+            <%= children.dateTime %>
+            <%= children.text %>
+            <% if (children.actions.selected && children.actions.selected
+            != '') { %> <% if (children.actions.selected == 'love') { %>
+            [love.svg] Me encanta <% } %> <% if (children.actions.selected
+            == 'laugh') { %> [laugh.svg] Me parto <% } %> <% if
+            (children.actions.selected == 'dizzy') { %> [dizzy.svg] Flipo
+            <% } %> <% if (children.actions.selected == 'cry') { %>
+            [cry.svg] Me entristece <% } %> <% if
+            (children.actions.selected == 'pout') { %> [pout.svg] Me
+            cabrea <% } %> <% if (children.actions.selected == 'sleep') {
+            %> [sleep.svg] Qué aburrimiento <% } %> <% if
+            (children.actions.selected == 'mute') { %> [mute.svg] Sin
+            palabras <% } %> <% } else { %> ¿cómo te quedas? <% } %>
+               o [love.svg] Me encanta
+               o [laugh.svg] Me parto
+               o [dizzy.svg] Flipo
+               o [cry.svg] Me entristece
+               o [pout.svg] Me cabrea
+               o [sleep.svg] Qué aburrimiento
+               o [mute.svg] Sin palabras
+             <% if (children.actions.love && children.actions.love > 0) {
+                 %>
+               o [love.svg]
+                 Me encanta: <%= children.actions.love %>
+                 <% } %> <% if (children.actions.laugh &&
+                 children.actions.laugh > 0) { %>
+               o [laugh.svg]
+                 Me parto: <%= children.actions.laugh %>
+                 <% } %> <% if (children.actions.dizzy &&
+                 children.actions.dizzy > 0) { %>
+               o [dizzy.svg]
+                 Flipo: <%= children.actions.dizzy %>
+                 <% } %> <% if (children.actions.cry &&
+                 children.actions.cry > 0) { %>
+               o [cry.svg]
+                 Me entristece: <%= children.actions.cry %>
+                 <% } %> <% if (children.actions.pout &&
+                 children.actions.pout > 0) { %>
+               o [pout.svg]
+                 Me cabrea: <%= children.actions.pout %>
+                 <% } %> <% if (children.actions.sleep &&
+                 children.actions.sleep > 0) { %>
+               o [sleep.svg]
+                 Qué aburrimiento: <%= children.actions.sleep %>
+                 <% } %> <% if (children.actions.mute &&
+                 children.actions.mute > 0) { %>
+               o [mute.svg]
+                 Sin palabras: <%= children.actions.mute %>
+                 <% } %> <% if(children.actions.count == 0){ %>
+               o <% } else { %>
+               o <% } %>
+                 <%= children.actions.count %>
+                 <% if (children.actions.love && children.actions.love >
+                 0) { %>
+                 Me encanta: <%= children.actions.love %>
+                 <% } %> <% if (children.actions.laugh &&
+                 children.actions.laugh > 0) { %>
+                 Me parto: <%= children.actions.laugh %>
+                 <% } %> <% if (children.actions.dizzy &&
+                 children.actions.dizzy > 0) { %>
+                 Flipo: <%= children.actions.dizzy %>
+                 <% } %> <% if (children.actions.cry &&
+                 children.actions.cry > 0) { %>
+                 Me entristece: <%= children.actions.cry %>
+                 <% } %> <% if (children.actions.pout &&
+                 children.actions.pout > 0) { %>
+                 Me cabrea: <%= children.actions.pout %>
+                 <% } %> <% if (children.actions.sleep &&
+                 children.actions.sleep > 0) { %>
+                 Qué aburrimiento: <%= children.actions.sleep %>
+                 <% } %> <% if (children.actions.mute &&
+                 children.actions.mute > 0) { %>
+                 Sin palabras: <%= children.actions.mute %>
+                 <% } %>
+            Responder
+            <% }); %>
+       <% } %> <% if(canWriteComments) { %>
+
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       EnviarDescartar
+       Recuerda las normas de la comunidad.
+       <% } %> <% }); %> <% } else { %>
+     * No hay comentarios para esta noticia. <% } %>
+
+   Mostrar más comentarios
+   ¿Qué es y por qué
+   es importante?
+
+   A partir de ahora
+
+   Público Público se escribe con
+
+   Te presentamos nuestro mapa de transparencia. Creado para lectores
+   exigentes como tú
+
+Selección Publico
+
+     * Ana Botella, exalcaldesa de Madrid y encargada de la venta de
+       viviendas sociales a los fondos buitre/EFE
+       La exalcaldesa Ana Botella y siete cargos de su equipo, condenados
+       a pagar 25 millones por la venta de pisos públicos a fondos buitre
+       PÚBLICO
+     * El presidente del Gobierno, Pedro Sánchez, y la vicepresidenta,
+       Carmen Calvo, junto a varios ministros, posan en la foto de familia
+       momentos antes de la reunión del Consejo de Ministros que se
+       celebra hoy en la Llotja de Mar de Barcelona, contra el cual n
+       Sánchez buscará captar el espacio de centro tras la deriva a la
+       derecha de PP y Ciudadanos
+       manuel sánchez
+     * José Luis Cuerda con los actores de 'Tiempo después' en el rodaje.
+       / EONE SPAIN
+       José Luis Cuerda: "Me parece que en España todo va a ir a peor, a
+       mucho peor"
+       BEGOÑA PIÑA
+     * Las mujeres que han okupado el Palacio Álava-Velasco, de Vitoria.
+       Talka, el proyecto feminista que el alcalde de Vitoria no quiere
+       mencionar
+       DANILO ALBIN
+     * La tumba de Francisco Franco en la Basílica del Valle de los Caídos
+       | AFP
+       El Gobierno alega motivos de seguridad y riesgo de amenazas
+       terroristas para prohibir que Franco vaya a La Almudena
+       PÚBLICO
+
+   IFRAME:
+   //www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.
+   com%2Fdiario.publico&width&height=258&colorscheme=light&show_faces=true
+   &header=false&stream=false&show_border=false&appId=146141435484653
+
+Secciones
+
+     * Política
+     * Sociedad
+     * Opinión
+     * Internacional
+     * España
+     * Economía
+
+     * Público TV
+     * Vídeos
+     * Ciencias
+     * Culturas
+     * Deportes
+     * Fotogalerías
+
+Destacados
+
+     * Las diez banderas de Público
+     * Público al día
+     * En la frontera
+     * Tremending
+     * Deforme semanal
+     * Espacio Público
+
+     * Derechos humanos
+     * Violencia machista
+
+Diario Público
+
+     * ¿Quienes somos?
+     * Contacto
+     * Publicidad
+     * Aviso legal
+     * Política de 'cookies'
+     * Política de Privacidad
+     * Versión móvil
+
+Público
+
+   DISPLAY CONNECTORS, SL.
+     *
+     *
+     *
+     *
+     *

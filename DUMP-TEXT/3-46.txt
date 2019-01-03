@@ -1,0 +1,432 @@
+   Français
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Hrvatski
+     * Italiano
+     * Português
+     * Slovenscina
+     * Korean
+     * ¥¬
+     * B"lgarski
+     * Makedonski
+     * Srpski
+     * Po-russki
+
+     * Lifestyle
+     * Économie
+     * Culture
+     * Histoire
+     * Tourisme
+     * Gastronomie
+     * Sciences & Tech
+     * Éducation
+
+Surréalisme socialiste: exploration des ateliers abandonnés de l'usine
+soviétique ZIL
+
+   Lifestyle
+   08 oct 2018
+   Alexandra Gouzeva
+   [svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjE
+   vL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZH
+   RkIj4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249I
+   jEuMiIgYmFzZVByb2ZpbGU9InRpbnkiIHdpZHRoPSIyMDAiIGhlaWdodD0iMTEyIiB2aWV3
+   Qm94PSIwIDAgMjAwIDExMiI+CjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIyMDAiIGhlaWd
+   odD0iMTEyIiBpZD0iMCIgZmlsbD0icmdiKDk5LDg4LDU5KSIgZmlsbC1vcGFjaXR5PSIxIi
+   AvPgo8cG9seWdvbiBwb2ludHM9IjM4LDEwMCAxODgsMTA0IDgxLDEyIiBpZD0iMSIgZmlsb
+   D0icmdiKDE2NiwxNDksMTAzKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHln
+   b24gcG9pbnRzPSI3MywwIDIwMCw3NCAyMDAsMCIgaWQ9IjIiIGZpbGw9InJnYig0MSwyMSw
+   4KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI3Nyw4Ni
+   AxNzIsNzAgMTU1LDI5IiBpZD0iMyIgZmlsbD0icmdiKDEzLDY4LDEwMykiIGZpbGwtb3BhY
+   2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iOTksNTYgNzQsOTIgODEsNTki
+   IGlkPSI0IiBmaWxsPSJyZ2IoMjU1LDI1NSwyNTUpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTY
+   xIiAvPgo8cG9seWdvbiBwb2ludHM9IjcyLDc3IDAsNzYgNzIsOTkiIGlkPSI1IiBmaWxsPS
+   JyZ2IoMTk5LDIwNCwxMzQpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvb
+   iBwb2ludHM9IjMxLDgwIC05LDEwNCAzNywxMTIiIGlkPSI2IiBmaWxsPSJyZ2IoMCw2Nyww
+   KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI3Nyw3NiA
+   2Nyw1MCAwLDczIiBpZD0iNyIgZmlsbD0icmdiKDUwLDM3LDIwKSIgZmlsbC1vcGFjaXR5PS
+   IwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMDgsNDcgNzMsOTQgMTExLDc4IiBpZ
+   D0iOCIgZmlsbD0icmdiKDQ5LDIzLDApIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8
+   cG9seWdvbiBwb2ludHM9IjIsMjIgMTY4LDAgMCwwIiBpZD0iOSIgZmlsbD0icmdiKDQ5LDM
+   wLDIxKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMD
+   IsODEgMTQzLDk3IDM4LDExMiIgaWQ9IjEwIiBmaWxsPSJyZ2IoMTk5LDE1Nyw0NCkiIGZpb
+   Gwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNzMsMTAxIDg2LDEz
+   NCAxMjYsMTA3IiBpZD0iMTEiIGZpbGw9InJnYigzMiw5LDApIiBmaWxsLW9wYWNpdHk9IjA
+   uNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjEwOCw1MSA0MSwxOCA4OCwxMiIgaWQ9Ij
+   EyIiBmaWxsPSJyZ2IoMTg1LDEzNiwxMTIpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvP
+   go8cG9seWdvbiBwb2ludHM9Ijk0LDUzIDc4LDYyIDU2LDQwIiBpZD0iMTMiIGZpbGw9InJn
+   YigxNDgsMTczLDIyNCkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHB
+   vaW50cz0iMTcwLDExMiAxOTEsODEgMTk2LDExMiIgaWQ9IjE0IiBmaWxsPSJyZ2IoMzAsMj
+   AsMCkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTc0L
+   DY4IDEzMiw2OSAxNDIsNDgiIGlkPSIxNSIgZmlsbD0icmdiKDQ4LDEzNSwxOTEpIiBmaWxs
+   LW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjE2MCw4NyAxMjEsNzc
+   gMjAwLDc2IiBpZD0iMTYiIGZpbGw9InJnYigxNjQsMTk0LDEyMykiIGZpbGwtb3BhY2l0eT
+   0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTAzLDc4IDEwMCw0OSAxMjksOTIiI
+   GlkPSIxNyIgZmlsbD0icmdiKDYyLDQyLDUpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAv
+   Pgo8cG9seWdvbiBwb2ludHM9IjU3LDI5IDgxLDQxIDkzLDI1IiBpZD0iMTgiIGZpbGw9InJ
+   nYig4MCw0NCwxNCkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW
+   50cz0iMTU2LDM5IDEwMywxMSAxMDMsNTEiIGlkPSIxOSIgZmlsbD0icmdiKDExNiw3MywzM
+   SkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iOTAsNjAg
+   MTA1LDQwIDkxLDI3IiBpZD0iMjAiIGZpbGw9InJnYigyNTUsMTk5LDExMSkiIGZpbGwtb3B
+   hY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMzMsODMgMCw4NCAwLDExMi
+   IgaWQ9IjIxIiBmaWxsPSJyZ2IoMjEsMTAwLDApIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxI
+   iAvPgo8cG9seWdvbiBwb2ludHM9IjE0NiwxMTIgMTg1LDgzIDk0LDk4IiBpZD0iMjIiIGZp
+   bGw9InJnYigxNjYsMTEzLDQwKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHl
+   nb24gcG9pbnRzPSIyNiwzOSAzLDI1IDI4LDI1IiBpZD0iMjMiIGZpbGw9InJnYigxNjQsMT
+   U4LDE0NykiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iN
+   jEsODEgMCw4MiAwLDc2IiBpZD0iMjQiIGZpbGw9InJnYigxOTksMTk5LDE1MykiIGZpbGwt
+   b3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTU2LDEgMTUzLDAgMTU
+   4LDc0IiBpZD0iMjUiIGZpbGw9InJnYigwLDEwMCwxOTEpIiBmaWxsLW9wYWNpdHk9IjAuNT
+   AxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjEyNyw5MSAxMDMsODIgNzIsOTQiIGlkPSIyN
+   iIgZmlsbD0icmdiKDE4MCwxOTMsMTQ4KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4K
+   PHBvbHlnb24gcG9pbnRzPSIwLDcxIDQ4LDUgNTEsNzYiIGlkPSIyNyIgZmlsbD0icmdiKDc
+   wLDY1LDcwKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPS
+   I3NiwxMTIgNTUsOTggNDQsMTEyIiBpZD0iMjgiIGZpbGw9InJnYigyMDIsMTA3LDApIiBma
+   WxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjEyOCw4NiAxMjYs
+   NDkgOTIsNTEiIGlkPSIyOSIgZmlsbD0icmdiKDUzLDg0LDEwMSkiIGZpbGwtb3BhY2l0eT0
+   iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNDgsNzQgNDQsMzggNDgsMjEiIGlkPS
+   IzMCIgZmlsbD0icmdiKDgwLDEyNiwxODcpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvP
+   go8cG9seWdvbiBwb2ludHM9Ijk5LDU3IDgwLDYzIDczLDg2IiBpZD0iMzEiIGZpbGw9InJn
+   YigyNTUsMjU1LDIxNykiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHB
+   vaW50cz0iMTQxLDExIDIwNSwtOSAxOTksMjAiIGlkPSIzMiIgZmlsbD0icmdiKDMzLDIxLD
+   QpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjE3NiwyM
+   iAyMDAsMTA0IDE1OCw1MSIgaWQ9IjMzIiBmaWxsPSJyZ2IoOTIsNzksMzkpIiBmaWxsLW9w
+   YWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9Ijg1LDEzIDEwMSwyMiA0OSw
+   zMCIgaWQ9IjM0IiBmaWxsPSJyZ2IoMTg1LDE1MywxNDUpIiBmaWxsLW9wYWNpdHk9IjAuNT
+   AxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjExMSw5NSA0NSw5OSAzNiw5MiIgaWQ9IjM1I
+   iBmaWxsPSJyZ2IoMTgzLDE4MSwxMjUpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8
+   cG9seWdvbiBwb2ludHM9IjAsNTkgMjksNjQgMCw3NiIgaWQ9IjM2IiBmaWxsPSJyZ2IoNjg
+   sOTgsMTM3KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPS
+   I0OSwzNSA3Nyw2NCA1NSw3NiIgaWQ9IjM3IiBmaWxsPSJyZ2IoODQsNDcsMSkiIGZpbGwtb
+   3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMCwxMDUgMCwxMTIgNTIs
+   MTEyIiBpZD0iMzgiIGZpbGw9InJnYig3NSw5LDApIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTY
+   xIiAvPgo8cG9seWdvbiBwb2ludHM9Ijk1LDUxIDU0LDQwIDkyLDM4IiBpZD0iMzkiIGZpbG
+   w9InJnYigxOTUsMTE2LDQ3KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb
+   24gcG9pbnRzPSI3MSw5MCAzMCw5MCAxMiw5MCIgaWQ9IjQwIiBmaWxsPSJyZ2IoMjksMCww
+   KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMzQsMTE
+   yIDE2OCwxMjQgMTg3LDc2IiBpZD0iNDEiIGZpbGw9InJnYigxMjIsMTIxLDc2KSIgZmlsbC
+   1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIzOSwwIDIwLDY0IDU1L
+   DAiIGlkPSI0MiIgZmlsbD0icmdiKDU5LDM5LDIxKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2
+   MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxNDAsNjUgMTM0LDczIDEwMiw1MyIgaWQ9IjQzIiB
+   maWxsPSJyZ2IoNjksNjEsMzApIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seW
+   dvbiBwb2ludHM9IjE2OCw4OCAxMzksODYgMTYzLDEwNiIgaWQ9IjQ0IiBmaWxsPSJyZ2IoM
+   TcwLDYwLDQxKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRz
+   PSI5Niw1NCAxMDQsNjEgMTA4LDQwIiBpZD0iNDUiIGZpbGw9InJnYigyNywxOSwxMSkiIGZ
+   pbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNjMsOCAxNDYsMj
+   kgODUsMCIgaWQ9IjQ2IiBmaWxsPSJyZ2IoMTAyLDc5LDU1KSIgZmlsbC1vcGFjaXR5PSIwL
+   jUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMjksNzUgMTA5LDY0IDEzMSw4NyIgaWQ9
+   IjQ3IiBmaWxsPSJyZ2IoMzcsMTM2LDE4NykiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8
+   +Cjxwb2x5Z29uIHBvaW50cz0iMTU3LDc4IDEzMCw5NiAxMzIsNzUiIGlkPSI0OCIgZmlsbD
+   0icmdiKDE3MSwxNzksMTIxKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb
+   24gcG9pbnRzPSIxNDQsNDAgMTEzLDM3IDEwOCw1MiIgaWQ9IjQ5IiBmaWxsPSJyZ2IoMTY1
+   LDExNiw2NikiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0
+   iMTI4LDEwMiAxMzIsMTEyIDc1LDExMSIgaWQ9IjUwIiBmaWxsPSJyZ2IoNzAsNDcsMykiIG
+   ZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMjcsMjEgMjIsN
+   DUgMCwxMyIgaWQ9IjUxIiBmaWxsPSJyZ2IoMTM1LDExMyw4OSkiIGZpbGwtb3BhY2l0eT0i
+   MC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iOTksNzkgMTMzLDkzIDk4LDUyIiBpZD0
+   iNTIiIGZpbGw9InJnYig3NCw1NywyMykiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cj
+   xwb2x5Z29uIHBvaW50cz0iMCw2NyAyMyw4IDAsNDIiIGlkPSI1MyIgZmlsbD0icmdiKDg0L
+   DUxLDM2KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIx
+   NDYsNDkgMTUyLDYzIDEyNyw2NCIgaWQ9IjU0IiBmaWxsPSJyZ2IoNjQsMTMyLDE4NikiIGZ
+   pbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNDQsNjYgMjMsNT
+   ggNDcsMCIgaWQ9IjU1IiBmaWxsPSJyZ2IoMTAxLDY2LDM1KSIgZmlsbC1vcGFjaXR5PSIwL
+   jUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIyLDQgOCw3IDE0OSwwIiBpZD0iNTYiIGZp
+   bGw9InJnYigzOSwyNSw4KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24
+   gcG9pbnRzPSI0Myw0MSA4NCwyMCAzNiwzNyIgaWQ9IjU3IiBmaWxsPSJyZ2IoMTIzLDkzLD
+   g0KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMDQsM
+   TMgMTA0LDQ4IDEzOSwxOSIgaWQ9IjU4IiBmaWxsPSJyZ2IoOTIsNjcsMzkpIiBmaWxsLW9w
+   YWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjEwMiwzMyA5MCwzNyA5Nyw
+   0NiIgaWQ9IjU5IiBmaWxsPSJyZ2IoMjU1LDIzOSwxNDcpIiBmaWxsLW9wYWNpdHk9IjAuNT
+   AxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjU4LDQxIDkwLDM0IDYzLDI2IiBpZD0iNjAiI
+   GZpbGw9InJnYig4Niw1MiwxNykiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5
+   Z29uIHBvaW50cz0iNzYsMTA2IDc5LDk5IDI5LDEwNCIgaWQ9IjYxIiBmaWxsPSJyZ2IoMTA
+   1LDcxLDExKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPS
+   IyMDAsODggMTY2LDk5IDIwMCwxMTIiIGlkPSI2MiIgZmlsbD0icmdiKDY3LDU3LDQpIiBma
+   WxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjE4Miw3NSAyMDAs
+   MjUgMjAwLDc2IiBpZD0iNjMiIGZpbGw9InJnYig2Myw1MCwxMSkiIGZpbGwtb3BhY2l0eT0
+   iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTc2LDU2IDEzNyw3NiAxNjksNzQiIG
+   lkPSI2NCIgZmlsbD0icmdiKDUwLDkyLDEwMikiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiI
+   C8+Cjxwb2x5Z29uIHBvaW50cz0iODIsMTAxIDE0MiwxMDQgMTA5LDk0IiBpZD0iNjUiIGZp
+   bGw9InJnYigxOTEsMTQ3LDE3KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHl
+   nb24gcG9pbnRzPSI2MCwxNiA3OSwyMiA1OCwyMyIgaWQ9IjY2IiBmaWxsPSJyZ2IoODcsNT
+   ksNTEpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjQ0L
+   DI0IDY5LDIyIDU1LDI2IiBpZD0iNjciIGZpbGw9InJnYigxOTQsMTYxLDE3MCkiIGZpbGwt
+   b3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTcxLDI0IDE3MSwzNiA
+   xODAsMjUiIGlkPSI2OCIgZmlsbD0icmdiKDE5MCw4MSw3KSIgZmlsbC1vcGFjaXR5PSIwLj
+   UwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMTAsNzAgMTA5LDUyIDExOSw0OCIgaWQ9I
+   jY5IiBmaWxsPSJyZ2IoMTI5LDEzMiwxMzUpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAv
+   Pgo8cG9seWdvbiBwb2ludHM9IjEzNSw5NCAxNzAsMTA3IDEyOSwxMDkiIGlkPSI3MCIgZml
+   sbD0icmdiKDEzNiwxMzgsNzkpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seW
+   dvbiBwb2ludHM9IjY0LDQ2IDYwLDQwIDkyLDM3IiBpZD0iNzEiIGZpbGw9InJnYigxODAsM
+   TUwLDEyOSkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0i
+   MTA1LDQ5IDk3LDE3IDEwOSw1MSIgaWQ9IjcyIiBmaWxsPSJyZ2IoMTgxLDEyOCw2MykiIGZ
+   pbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iODQsNzMgOTMsNT
+   cgNzcsNjUiIGlkPSI3MyIgZmlsbD0icmdiKDI1NSwyNTUsMTk3KSIgZmlsbC1vcGFjaXR5P
+   SIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxNTQsNDIgMTUwLDIgMTM4LDU2IiBp
+   ZD0iNzQiIGZpbGw9InJnYig4Miw1OCwzMykiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8
+   +Cjxwb2x5Z29uIHBvaW50cz0iMzAsODIgMjMsMTA5IC0yLDgzIiBpZD0iNzUiIGZpbGw9In
+   JnYig1MSwxMDksMTkpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb
+   2ludHM9Ijk0LDE3IDcyLDE4IDk5LDE5IiBpZD0iNzYiIGZpbGw9InJnYigyMzQsMjAzLDE4
+   NikiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTg2LDc
+   2IDE2OSw4MCAxNzYsMTAwIiBpZD0iNzciIGZpbGw9InJnYigxMzMsMTU3LDEwMCkiIGZpbG
+   wtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMCw5NSA0Myw5MyAtM
+   jUsODUiIGlkPSI3OCIgZmlsbD0icmdiKDMyLDU0LDgpIiBmaWxsLW9wYWNpdHk9IjAuNTAx
+   OTYxIiAvPgo8cG9seWdvbiBwb2ludHM9Ijc4LDYxIDgwLDUzIDk3LDU1IiBpZD0iNzkiIGZ
+   pbGw9InJnYigxMTYsMTIwLDExOSkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2
+   x5Z29uIHBvaW50cz0iMCw3NiAwLDgxIDE1LDgxIiBpZD0iODAiIGZpbGw9InJnYigyMDYsM
+   jAzLDE3NCkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0i
+   MjQsMTA5IDQ4LDEwMiAyLDEwMiIgaWQ9IjgxIiBmaWxsPSJyZ2IoMjYsNTksMCkiIGZpbGw
+   tb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNzcsNjQgNzQsNzMgNT
+   UsNDAiIGlkPSI4MiIgZmlsbD0icmdiKDc2LDQ4LDYpIiBmaWxsLW9wYWNpdHk9IjAuNTAxO
+   TYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjgxLDkwIDExMCw3OCA2MSw5MyIgaWQ9IjgzIiBm
+   aWxsPSJyZ2IoNzAsNzEsNjIpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWd
+   vbiBwb2ludHM9IjE1NCw5IDU5LDEzIDE1MywwIiBpZD0iODQiIGZpbGw9InJnYig2NCw1NS
+   w0MikiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTk5L
+   Dg4IDE4OSw4NCAyMTQsNjQiIGlkPSI4NSIgZmlsbD0icmdiKDEyMywxNTUsNzkpIiBmaWxs
+   LW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjQ2LDMzIDQ3LDMgNTI
+   sMTMiIGlkPSI4NiIgZmlsbD0icmdiKDUyLDc4LDExNikiIGZpbGwtb3BhY2l0eT0iMC41MD
+   E5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNzUsMTEyIDQ5LDExMiA0OCwxMDEiIGlkPSI4N
+   yIgZmlsbD0icmdiKDE5OSwxMjIsMikiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxw
+   b2x5Z29uIHBvaW50cz0iMTg5LDEzIDE5MSw0NyAxOTEsODYiIGlkPSI4OCIgZmlsbD0icmd
+   iKDQ2LDcwLDgyKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbn
+   RzPSIyMiw1MyAyNywzOCAzNiwyNSIgaWQ9Ijg5IiBmaWxsPSJyZ2IoMTYsNywwKSIgZmlsb
+   C1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxNjQsNDYgMTg2LDYx
+   IDE2Myw2NSIgaWQ9IjkwIiBmaWxsPSJyZ2IoOTIsOTcsNzkpIiBmaWxsLW9wYWNpdHk9IjA
+   uNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjMxLDI0IDI4LDMzIDAsNDciIGlkPSI5MS
+   IgZmlsbD0icmdiKDE0OCwxNDMsMTI0KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KP
+   HBvbHlnb24gcG9pbnRzPSIxNTYsMTAgMTU4LDc1IDE1NSw2NiIgaWQ9IjkyIiBmaWxsPSJy
+   Z2IoMCw5MSwxNTMpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2l
+   udHM9IjI0LDc3IDc0LDc4IDc2LDg5IiBpZD0iOTMiIGZpbGw9InJnYigxNzcsMTcxLDExNS
+   kiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTM3LDE5I
+   Dg1LDIxIDk4LDE4IiBpZD0iOTQiIGZpbGw9InJnYigxMjksOTMsNTcpIiBmaWxsLW9wYWNp
+   dHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjEwMSw1NyAxMTEsNzAgMTI0LDU
+   0IiBpZD0iOTUiIGZpbGw9InJnYigxMTMsOTcsNjYpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOT
+   YxIiAvPgo8cG9seWdvbiBwb2ludHM9IjMwLDExMiAzMyw4NSAzNCwxMjQiIGlkPSI5NiIgZ
+   mlsbD0icmdiKDI5LDIwLDcpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdv
+   biBwb2ludHM9Ijg3LDM1IDc1LDQ1IDk1LDUwIiBpZD0iOTciIGZpbGw9InJnYigxNjQsMTA
+   wLDIyKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI2Mi
+   w0NCA2Nyw1MCA5MSw1MCIgaWQ9Ijk4IiBmaWxsPSJyZ2IoMTUxLDE3MiwyMDUpIiBmaWxsL
+   W9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjgxLDExMiA3NCwxMTIg
+   NzYsOTgiIGlkPSI5OSIgZmlsbD0icmdiKDMxLDIzLDApIiBmaWxsLW9wYWNpdHk9IjAuNTA
+   xOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjAsMiA1LDEgNjAsMiIgaWQ9IjEwMCIgZmlsbD
+   0icmdiKDEzOSwxMDYsMjEpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvb
+   iBwb2ludHM9IjEwMSw0OCA5Niw0NSAxMDMsMzMiIGlkPSIxMDEiIGZpbGw9InJnYigyNTIs
+   MjE3LDE2NSkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0
+   iMTc2LDM0IDE4OSwxMTIgMTgxLDUiIGlkPSIxMDIiIGZpbGw9InJnYig4Myw2MSwxNikiIG
+   ZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTIyLDQ3IDEwN
+   Cw0NSA5OSw3IiBpZD0iMTAzIiBmaWxsPSJyZ2IoOTYsNzMsNDQpIiBmaWxsLW9wYWNpdHk9
+   IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjUzLDEzIDYwLDE3IDY0LDE3IiBpZD0
+   iMTA0IiBmaWxsPSJyZ2IoMTkwLDE1NCwxNjQpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIi
+   AvPgo8cG9seWdvbiBwb2ludHM9IjExNyw0MiAxNDksNDEgMTEzLDM3IiBpZD0iMTA1IiBma
+   WxsPSJyZ2IoMTYwLDEyNCw5MSkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5
+   Z29uIHBvaW50cz0iMzUsNCAxOCw3IDM2LDMzIiBpZD0iMTA2IiBmaWxsPSJyZ2IoNjAsNDE
+   sMzEpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjE1Mi
+   wxNiAxMDQsMTEgMTQ5LDExIiBpZD0iMTA3IiBmaWxsPSJyZ2IoNDMsMjQsNSkiIGZpbGwtb
+   3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTAwLDIxIDk5LDM1IDgw
+   LDQyIiBpZD0iMTA4IiBmaWxsPSJyZ2IoMTg3LDEzOCw2OCkiIGZpbGwtb3BhY2l0eT0iMC4
+   1MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNzMsNiA1NywxNCA2OSwxNCIgaWQ9IjEwOS
+   IgZmlsbD0icmdiKDIwLDE3LDApIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9se
+   WdvbiBwb2ludHM9IjcxLDczIDQ5LDI4IDUwLDc0IiBpZD0iMTEwIiBmaWxsPSJyZ2IoODcs
+   NjMsMjYpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjE
+   zNCw5OSAxNTMsMTAxIDE4Miw5OSIgaWQ9IjExMSIgZmlsbD0icmdiKDEwNCw2Niw0MCkiIG
+   ZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTMxLDExMiA5N
+   ywxMDMgMTI2LDEwMyIgaWQ9IjExMiIgZmlsbD0icmdiKDgzLDU3LDExKSIgZmlsbC1vcGFj
+   aXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI0Miw0MSA0MCwzNiA0NywzOSI
+   gaWQ9IjExMyIgZmlsbD0icmdiKDE4NywxNjUsMTU4KSIgZmlsbC1vcGFjaXR5PSIwLjUwMT
+   k2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMzYsNjggMTQ0LDY0IDExNCw2MyIgaWQ9IjExN
+   CIgZmlsbD0icmdiKDU3LDU0LDI5KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBv
+   bHlnb24gcG9pbnRzPSIwLDUwIDE0LDI4IDIxLDUyIiBpZD0iMTE1IiBmaWxsPSJyZ2IoMTA
+   2LDY3LDQ1KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPS
+   IzMiwxMTIgNDgsMTEyIDQwLDg5IiBpZD0iMTE2IiBmaWxsPSJyZ2IoOTcsOTQsNTUpIiBma
+   WxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjgzLDgyIDk2LDY1
+   IDEwNyw3NyIgaWQ9IjExNyIgZmlsbD0icmdiKDU0LDQwLDEyKSIgZmlsbC1vcGFjaXR5PSI
+   wLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMjEsNDggMTMxLDQ3IDExNSw1MyIgaW
+   Q9IjExOCIgZmlsbD0icmdiKDQ2LDExNywxNzcpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxI
+   iAvPgo8cG9seWdvbiBwb2ludHM9IjIwLDkzIDI4LDk5IDExLDEwMCIgaWQ9IjExOSIgZmls
+   bD0icmdiKDEwMiwxMjgsMzIpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWd
+   vbiBwb2ludHM9IjE0Miw0IDEyNiwzIDE1NywzIiBpZD0iMTIwIiBmaWxsPSJyZ2IoMTEzLD
+   k4LDk1KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI0M
+   yw5OCA2Nyw5OSA2Nyw5MiIgaWQ9IjEyMSIgZmlsbD0icmdiKDE3MywxNzIsMTIxKSIgZmls
+   bC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMjMsNTEgMTQ1LDU
+   4IDEyNyw1NiIgaWQ9IjEyMiIgZmlsbD0icmdiKDQyLDYzLDYyKSIgZmlsbC1vcGFjaXR5PS
+   IwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIwLDYyIDI1LDYyIDE4LDcyIiBpZD0iM
+   TIzIiBmaWxsPSJyZ2IoODMsMTA0LDEyOCkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+
+   Cjxwb2x5Z29uIHBvaW50cz0iODIsMTEgOTUsNiAzNiwwIiBpZD0iMTI0IiBmaWxsPSJyZ2I
+   oOTksODAsNTIpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludH
+   M9IjE1NiwwIDIwMCwwIDIwMCw0MSIgaWQ9IjEyNSIgZmlsbD0icmdiKDUyLDM0LDEzKSIgZ
+   mlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxODEsOTIgMTc3
+   LDExMiAxNTUsMTA1IiBpZD0iMTI2IiBmaWxsPSJyZ2IoMTA2LDEwNyw2MikiIGZpbGwtb3B
+   hY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iNzIsMTA2IDUzLDEyOSA4MC
+   wxMjAiIGlkPSIxMjciIGZpbGw9InJnYigxNTEsMTgyLDY2KSIgZmlsbC1vcGFjaXR5PSIwL
+   jUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxNTMsODcgMTcwLDg3IDE0NCw4NyIgaWQ9
+   IjEyOCIgZmlsbD0icmdiKDkzLDEwLDApIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo
+   8cG9seWdvbiBwb2ludHM9IjE1NCw1NSAxNDIsNTYgMTQxLDUzIiBpZD0iMTI5IiBmaWxsPS
+   JyZ2IoMTA5LDE4MiwyNTUpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvb
+   iBwb2ludHM9IjM1LDcyIDAsNDcgNDUsNTEiIGlkPSIxMzAiIGZpbGw9InJnYig4MCw2NCw0
+   MCkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMTgzLDM
+   wIDE4MywyNSAxODEsMCIgaWQ9IjEzMSIgZmlsbD0icmdiKDEzNiw5OCwxKSIgZmlsbC1vcG
+   FjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxODcsOTMgMTkyLDg4IDE5M
+   iwxMTIiIGlkPSIxMzIiIGZpbGw9InJnYigyMiwxMSwxMCkiIGZpbGwtb3BhY2l0eT0iMC41
+   MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iODUsNDkgODMsNDYgMTEzLDQ4IiBpZD0iMTM
+   zIiBmaWxsPSJyZ2IoMjA1LDEzNyw2MCkiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cj
+   xwb2x5Z29uIHBvaW50cz0iMTIwLDc0IDEwOCw2MSAxMTcsNjQiIGlkPSIxMzQiIGZpbGw9I
+   nJnYig1OSwxMzgsMTc2KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24g
+   cG9pbnRzPSI0OSwzNCA1MSw0MyA4OSwzMSIgaWQ9IjEzNSIgZmlsbD0icmdiKDk3LDYwLDI
+   3KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI5Nyw1MS
+   AxMDUsNTAgMTAzLDYwIiBpZD0iMTM2IiBmaWxsPSJyZ2IoMCwxNyw0MCkiIGZpbGwtb3BhY
+   2l0eT0iMC41MDE5NjEiIC8+Cjxwb2x5Z29uIHBvaW50cz0iMCw3NiAwLDc0IDY1LDc2IiBp
+   ZD0iMTM3IiBmaWxsPSJyZ2IoMTI3LDk0LDUxKSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSI
+   gLz4KPHBvbHlnb24gcG9pbnRzPSIxNTQsMjUgMTE2LDMyIDE1Myw0NCIgaWQ9IjEzOCIgZm
+   lsbD0icmdiKDgyLDYxLDI4KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb
+   24gcG9pbnRzPSIxMzksMzggMTQxLDY0IDE0Miw2MSIgaWQ9IjEzOSIgZmlsbD0icmdiKDg1
+   LDY5LDQ3KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI
+   0OCwyMyA0Niw3MCA0Niw1OSIgaWQ9IjE0MCIgZmlsbD0icmdiKDYzLDExOCwxNzcpIiBmaW
+   xsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9IjgsMTcgLTE4LDE5I
+   DAsNDAiIGlkPSIxNDEiIGZpbGw9InJnYigxMjIsOTIsMTAxKSIgZmlsbC1vcGFjaXR5PSIw
+   LjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMzAsNzYgMTg0LDc2IDEzMSw3MiIgaWQ
+   9IjE0MiIgZmlsbD0icmdiKDEwNCw5Miw1MikiIGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC
+   8+Cjxwb2x5Z29uIHBvaW50cz0iMTc0LDY5IDE1OSw0NiAxNTcsOCIgaWQ9IjE0MyIgZmlsb
+   D0icmdiKDc4LDY3LDQ0KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24g
+   cG9pbnRzPSI4MSwxNSA2MCwyNyA5MCwxNCIgaWQ9IjE0NCIgZmlsbD0icmdiKDIwMywxNzE
+   sMTU4KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxNy
+   wxOCA3NCwyMSA3OCwyMyIgaWQ9IjE0NSIgZmlsbD0icmdiKDkxLDY1LDU1KSIgZmlsbC1vc
+   GFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSI3Nyw4MiA3OCw2NCA3OSw1
+   OSIgaWQ9IjE0NiIgZmlsbD0icmdiKDIxOSwyMTYsMTkwKSIgZmlsbC1vcGFjaXR5PSIwLjU
+   wMTk2MSIgLz4KPHBvbHlnb24gcG9pbnRzPSIxMDcsNjIgMTAyLDc0IDEyOCw4OCIgaWQ9Ij
+   E0NyIgZmlsbD0icmdiKDgyLDU5LDE1KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KP
+   HBvbHlnb24gcG9pbnRzPSIxMzAsOTUgMTIzLDEwMCA3OCwxMDIiIGlkPSIxNDgiIGZpbGw9
+   InJnYigxODUsMTMyLDE1KSIgZmlsbC1vcGFjaXR5PSIwLjUwMTk2MSIgLz4KPHBvbHlnb24
+   gcG9pbnRzPSIxNDMsMTAwIDE1OCw5MSAxMzgsODYiIGlkPSIxNDkiIGZpbGw9InJnYigxNz
+   YsOTMsNzQpIiBmaWxsLW9wYWNpdHk9IjAuNTAxOTYxIiAvPgo8cG9seWdvbiBwb2ludHM9I
+   jE0Myw0MCAxMTIsMzUgMTMxLDQ0IiBpZD0iMTUwIiBmaWxsPSJyZ2IoMTUxLDExNiw4NSki
+   IGZpbGwtb3BhY2l0eT0iMC41MDE5NjEiIC8+Cjwvc3ZnPg==]
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+   À l'emplacement de cette ancienne usine automobile à la pointe de
+   l'innovation, sont aujourd'hui construits de nouveaux édifices ainsi
+   que des parcs à la mode. Le photographe Sacha Guentsis est parvenu à
+   immortaliser ce à quoi ressemblaient ces postes de travail délaissés.
+
+   « Horaires de la ventilation des douches - de 7h à 24h », explique
+   l'écriteau sur la porte. On aurait presque l'impression qu'un
+   mécanicien vient juste d'achever sa besogne, de suspendre son bleu de
+   travail et de partir chez lui. Guentsis a durant quatre ans
+   photographié les ateliers abandonnés de l'usine moscovite Likhatchev,
+   plus communément appelée ZIL. La majorité d'entre eux ont depuis été
+   rasés.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Voici l'imposante presse « Erfurt », atteignant une hauteur de pas
+   moins de 15 mètres. « Elle se dressait au milieu de ces débris tel un
+   majestueux titan, poussiéreux, mais ayant survécu à la bataille »,
+   décrit l'auteur des clichés.
+
+   Lire aussi : Comment un géant soviétique de l'automobile s'est
+   transformé en usine-fantôme
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   La ZIL a été la première usine automobile de Russie. Fondée avant la
+   Révolution, elle a connu son apogée sous Staline, où elle a atteint une
+   capacité de production incroyable.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   C'est ici que l'on a assemblé, à la main, les premières limousines
+   destinées aux leaders soviétiques. Sur cette photographie, il est
+   possible d'admirer une partie de l'atelier où étaient produits les
+   détails de leurs intérieurs. Cette usine a également vu naître les
+   premiers camions soviétiques (notamment l'AMO-F-15).
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Des dizaines de fils utilisés pour l'électrification des véhicules.
+   Tous diffèrent dans leur couleur et un seul individu sait comment
+   brancher chacun d'entre eux. Cet homme a aujourd'hui plus de 70 ans et
+   personne à qui transmettre ce savoir.
+
+   Lire aussi : Obsédant: des lieux abandonnés de Russie photographiés
+   depuis un drone
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Durant 10 années, l'usine a produit 770 000 légendaires camions
+   soviétiques ZIS-150 et ses différentes versions modifiées.
+   Continuellement on y modernisait les anciens modèles et en concevait de
+   nouveaux.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Dans les années 1980, la ZIL a toutefois connu une crise de production.
+   Ses modèles automobiles se démodaient, tandis que les nouvelles
+   conceptions étaient confiées à la fraichement construite usine KamAZ.
+   Durant les deux décennies suivantes, la production a donc
+   progressivement chuté, avant d'être entièrement arrêtée en 2013.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Cette salle des fêtes n'accueillera jamais plus de réunion du Parti et
+   personne ne se tiendra jamais plus derrière cette tribune.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Comme l'affirme le photographe, le but de son projet est de conserver
+   une trace de cette ambiance et de l'humble quotidien soviétique pour
+   les générations futures.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Sur ce cliché on constate un surréaliste millefeuille temporel : s'y
+   trouve en effet le portrait de Lénine, véritable icône soviétique,
+   ainsi que le slogan « Le mariage est notre ennemi ! Ne laisse pas le
+   mariage s'immiscer au travail ! », mais aussi un héritage des années 90
+   : des pages de magazines sur lesquelles figurent des femmes nues. On
+   peut aussi apercevoir des effets oubliés, que certainement personne ne
+   viendra plus chercher.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Aujourd'hui sur le territoire de l'usine a lieu un chantier
+   d'envergure. Y est en effet érigé un complexe résidentiel dernier cri.
+   Guentsis espère cependant que les locaux du TETs, qui approvisionnait
+   l'ensemble de l'usine en chauffage, seront conservés en guise de
+   monument du constructivisme.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   La contradiction entre l'utopie conceptuelle du socialisme et le
+   quotidien des ouvriers, que l'artiste a immortalisée sur ces clichés,
+   sera l'objet principal de son exposition personnelle « Surréalisme
+   socialiste », qui se tiendra au Musée juif et centre de tolérance, à
+   Moscou, du 18 octobre au 2 décembre 2018.
+
+   Sasha Gentsis/Musée juif et Centre de tolérance
+
+   Dans cette autre publication nous vous expliquons comment les
+   avant-gardistes soviétiques ont façonné le visage de Moscou.
+
+   Dans le cadre d'une utilisation des contenus de Russia Beyond, la
+   mention des sources est obligatoire.
+   russie industrie photographie ZIL lieux abandonnés Diaporama
+
+   Abonnez-vous
+
+   gratuitement à notre newsletter!
+
+   Recevez le meilleur de nos publications hebdomadaires directement dans
+   votre messagerie.
+   ____________________ Soumettre
+   Plus d'histoires et de vidéos passionnantes sur la page Facebook de
+   Russia Beyond.
+   À ne pas manquer
+     * Arctique: à la recherche des fantômes du passé soviétique
+     * Pourquoi le gouvernement soviétique a-t-il inondé des villes et
+       villages russes anciens?
+     * Ces villes fantômes russes qui vous donneront la chair de poule
+
+   Ce site utilise des cookies. Cliquez ici pour en savoir plus.
+   Accepter les cookies

@@ -1,0 +1,905 @@
+   #Accueil Plan du site Copyright © 2018 Éditions Nitram Inc. et Groupe
+   Hom. Tous droits réservés. Fugues - Catégorie - Actualités Fugues -
+   Catégorie - Actualités - Affaires Fugues - Catégorie - Actualités -
+   Arts - Films Fugues - Catégorie - Actualités - Arts - Livres Fugues -
+   Catégorie - Actualités - Arts - Musique Fugues - Catégorie - Actualités
+   - Arts - Sur scène Fugues - Catégorie - Actualités - Arts - Télé et web
+   télé Fugues - Catégorie - Actualités - Arts - Visuels Fugues -
+   Catégorie - Actualités - Communautaire Fugues - Catégorie - Actualités
+   - Couple Fugues - Catégorie - Actualités - Faits divers Fugues -
+   Catégorie - Actualités - Fierté Fugues - Catégorie - Actualités -
+   Histoire Fugues - Catégorie - Actualités - Homoparentalité Fugues -
+   Catégorie - Actualités - Homophobie Fugues - Catégorie - Actualités -
+   International Fugues - Catégorie - Actualités - Jeunes Fugues -
+   Catégorie - Actualités - Lesbiennes Fugues - Catégorie - Actualités -
+   Montréal Métro Fugues - Catégorie - Actualités - National Fugues -
+   Catégorie - Actualités - Personnalités Fugues - Catégorie - Actualités
+   - Politique Fugues - Catégorie - Actualités - Provincial Fugues -
+   Catégorie - Actualités - Région de Québec Fugues - Catégorie -
+   Actualités - Religion Fugues - Catégorie - Actualités - Santé Fugues -
+   Catégorie - Actualités - Sortie du placard Fugues - Catégorie -
+   Actualités - Sports / Loisirs Fugues - Catégorie - Actualités - Trans
+   Fugues - Catégorie - Actualités - Vieillir gai Fugues - Catégorie -
+   Actualités - VIH/sida Fugues - Catégorie - Actualités - Village Gai
+   Fugues - Catégorie - Actualités - XXX - porno Fugues - Catégorie - Bien
+   vivre Fugues - Catégorie - Bien vivre - Capsules santé Fugues -
+   Catégorie - Bien vivre - Cours et loisirs Fugues - Catégorie - Bien
+   vivre - Prévention et VIH Fugues - Catégorie - Bien vivre - Psycho /
+   équilibre Fugues - Catégorie - Bien vivre - Remise en forme Fugues -
+   Catégorie - Bien vivre - Sexualité Fugues - Catégorie - Bien vivre -
+   Soins Fugues - Catégorie - Chroniques Fugues - Catégorie - Chroniques -
+   Autrement dit Fugues - Catégorie - Chroniques - Conseils d'experts
+   Fugues - Catégorie - Chroniques - Horoscope Fugues - Catégorie -
+   Chroniques - Le Garde-robe de Frédérique Fugues - Catégorie -
+   Chroniques - Les Mignons : l'amour c'est la guerre Fugues - Catégorie -
+   Chroniques - Mado est au boutte Fugues - Catégorie - Chroniques -
+   Newsmakers Fugues - Catégorie - Chroniques - Nos bédés Fugues -
+   Catégorie - Chroniques - Nous et la loi Fugues - Catégorie - Chroniques
+   - Par ici ma sortie Fugues - Catégorie - Chroniques - Place au Village
+   Fugues - Catégorie - Chroniques - Porte-voix Fugues - Catégorie -
+   Chroniques - Solidairement vôtre Fugues - Catégorie - Consommation
+   Fugues - Catégorie - Consommation - Animaux de compagnie Fugues -
+   Catégorie - Consommation - Autos Fugues - Catégorie - Consommation -
+   Bonnes adresses Fugues - Catégorie - Consommation - Idées cadeaux
+   Fugues - Catégorie - Consommation - Mode Fugues - Catégorie -
+   Consommation - Mon argent Fugues - Catégorie - Consommation - Nouveaux
+   produits Fugues - Catégorie - Consommation - Produits de beauté Fugues
+   - Catégorie - Consommation - Restos Fugues - Catégorie - Consommation -
+   Techno Fugues - Catégorie - Consommation - Vins Fugues - Catégorie -
+   DécorHomme Fugues - Catégorie - DécorHomme - Déco design Fugues -
+   Catégorie - DécorHomme - Immobilier Fugues - Catégorie - DécorHomme -
+   Rénovation Fugues - Catégorie - Entrevues Fugues - Catégorie -
+   Entrevues - Culture Fugues - Catégorie - Entrevues - Fugues rencontre
+   Fugues - Catégorie - Entrevues - Inter-vues Fugues - Catégorie -
+   Entrevues - Ma cause ? Fugues - Catégorie - Entrevues - Nos amis les
+   hétéros Fugues - Catégorie - Entrevues - Porn stars Fugues - Catégorie
+   - Fugues.tv Fugues - Catégorie - Fugues.tv - Buzz clips Fugues -
+   Catégorie - Fugues.tv - Films LGBT Fugues - Catégorie - Fugues.tv -
+   L'actualité Fugues - Catégorie - Fugues.tv - Pubs arc-en-ciel Fugues -
+   Catégorie - Photos Fugues - Catégorie - Photos - Bomecs du jour Fugues
+   - Catégorie - Photos - Clubbing Fugues - Catégorie - Photos -
+   Événements Fugues - Catégorie - Photos - Sorties culturelles Fugues -
+   Catégorie - Voyages et escapades Fugues - Catégorie - Voyages et
+   escapades - Afrique Fugues - Catégorie - Voyages et escapades -
+   Amérique Latine Fugues - Catégorie - Voyages et escapades - Asie /
+   Océanie Fugues - Catégorie - Voyages et escapades - Canada Fugues -
+   Catégorie - Voyages et escapades - Discovering Quebec Fugues -
+   Catégorie - Voyages et escapades - États-Unis Fugues - Catégorie -
+   Voyages et escapades - Europe Fugues - Catégorie - Voyages et escapades
+   - Québec Fugues - Auteur - Abdelhadi Badredine Fugues - Auteur - Alain
+   Huot Fugues - Auteur - Alain Lavoie Fugues - Auteur - Alain Léobon
+   Fugues - Auteur - Alain Ayotte Fugues - Auteur - Alain Dubois Fugues -
+   Auteur - Alain Poirier Fugues - Auteur - Alban Ketelbuters Fugues -
+   Auteur - Alex Lebel Fugues - Auteur - Alexandre Simon Fugues - Auteur -
+   Alexis Musanganya Fugues - Auteur - Ali Shams Fugues - Auteur - Ali et
+   Yves Fugues - Auteur - andré villeneuve Fugues - Auteur - André
+   Boisclair Fugues - Auteur - André Cloutier Fugues - Auteur - André
+   Ferreira Fugues - Auteur - André Patry Fugues - Auteur - André Roy
+   Fugues - Auteur - André Vaillancourt Fugues - Auteur - André-Constantin
+   Passiour Fugues - Auteur - Angel Lebel Fugues - Auteur - Angela
+   Iermieri Fugues - Auteur - Annie Boucher Fugues - Auteur - Annie
+   Sansoucy Fugues - Auteur - Associated Press Fugues - Auteur - ASTTQ
+   Action Santé Travesti(e)s et Transsexuel(le)s du Québec Fugues - Auteur
+   - Audrey Nanot Fugues - Auteur - Audrey GAUTHIER Fugues - Auteur -
+   Benoit Labonté Fugues - Auteur - Benoit Migneault Fugues - Auteur -
+   Benoît Parades Fugues - Auteur - Bernard Plante Fugues - Auteur - Bert
+   Archer Fugues - Auteur - Bobby Grégoire Fugues - Auteur - Bruno Laprade
+   Fugues - Auteur - Bruno Pérez-Delouya Fugues - Auteur - Carl-Éric
+   Duhaime Fugues - Auteur - Carl-Éric Laflamme Fugues - Auteur - Carlos
+   Marosio Fugues - Auteur - Carole Potvin Fugues - Auteur - Caroline
+   Lavigne Fugues - Auteur - Caroline Rivest Fugues - Auteur - Catherine
+   Garneau Fugues - Auteur - Catherine Leduc Fugues - Auteur - Catherine
+   Lefebvre Fugues - Auteur - Catherine Hours Fugues - Auteur - CATIE .
+   Fugues - Auteur - Chambre de Commerce LGBT du Québec Fugues - Auteur -
+   Chantal Soucy Fugues - Auteur - Chantal Cyr Fugues - Auteur - Charles
+   Gagné Fugues - Auteur - Chica Oscar Fugues - Auteur - Christian Bédard
+   Fugues - Auteur - Christine Berger Fugues - Auteur - Christopher Bram
+   Fugues - Auteur - Claude Bergeron Fugues - Auteur - Claudine Metcalfe
+   Fugues - Auteur - Cohorte Omega Fugues - Auteur - Collaboration
+   Spéciale Fugues - Auteur - Commission LGBTT du NPD-Section Québec
+   Fugues - Auteur - Conseil Québécois LGBT Fugues - Auteur - Craig Major
+   Fugues - Auteur - Daniel Berger Fugues - Auteur - Daniel Saint-Louis
+   Fugues - Auteur - Daniel Hébert Fugues - Auteur - Daniel LeBlanc Fugues
+   - Auteur - Daniel Rolland Fugues - Auteur - d'après
+   acausedesgarcons.com Fugues - Auteur - David Diaz-Jogeix Fugues -
+   Auteur - Davyn Ryall (traduit par Stephan Turgeon) Fugues - Auteur -
+   Dee Dee Bee Fugues - Auteur - Denholm Barnetson Fugues - Auteur - Denis
+   Brossard Fugues - Auteur - Denis Ferrara Fugues - Auteur - Denis
+   Gauthier Fugues - Auteur - Denis-Daniel Boullé Fugues - Auteur - Denys
+   Caron et Marco de Blois Fugues - Auteur - Derek Andrews Fugues - Auteur
+   - Derek Stevenson Fugues - Auteur - DESJARDINS Fugues - Auteur -
+   Direction de santé publique de l'Agence de la santé et des services
+   sociaux de Montréal Fugues - Auteur - Dominic Ménard-Bilodeau Fugues -
+   Auteur - Dr Mark Wainberg Fugues - Auteur - Dr Patrice Junod,
+   Omnipraticien Fugues - Auteur - Dr Pierre Coté Fugues - Auteur - Dr
+   Réjean Thomas Fugues - Auteur - Elisabeth Brousseau Fugues - Auteur -
+   Émile Cadieux Fugues - Auteur - Équipe Montréal Fugues - Auteur - Éric
+   Pineault Fugues - Auteur - Éric Bergeron Fugues - Auteur - Éric Whittom
+   Fugues - Auteur - Éric Dumais Fugues - Auteur - Éric Paquette Fugues -
+   Auteur - Etienne Shoeffel Fugues - Auteur - Étienne Leduc Fugues -
+   Auteur - Étienne Dutil Fugues - Auteur - Fabien Philippe Fugues -
+   Auteur - Fabrice Nguena Fugues - Auteur - Francis Lemay Fugues - Auteur
+   - Francis Lagacé Fugues - Auteur - Francois Gagnon Fugues - Auteur -
+   François Mellet Fugues - Auteur - François Daoust Fugues - Auteur -
+   Frédéric Tremblay Fugues - Auteur - Frédérick Bussières Fugues - Auteur
+   - Ftouh Souhail Fugues - Auteur - Ga'ava Fugues - Auteur - Gabe Astard
+   Fugues - Auteur - Gabriel Giroux Fugues - Auteur - Gagnon Bernard
+   Fugues - Auteur - Gilles Marchildon Fugues - Auteur - Gilles
+   Desruisseaux, Wilfrid Dubé, Serge Lebel, Oscar Longtin et Renaud Paré
+   Fugues - Auteur - Guide Arc-en-ciel Quebec Rainbow Guide Fugues -
+   Auteur - Hans B. Janiak Fugues - Auteur - Hector Fabio Duque Gomez
+   Fugues - Auteur - Henri Barras Fugues - Auteur - Herman Huot Fugues -
+   Auteur - Hervé Dumouchel Fugues - Auteur - Hosein SR, Koenig D Fugues -
+   Auteur - Hubert Laberge Fugues - Auteur - Ici Radio-Canada Fugues -
+   Auteur - Isaac Daniel Fugues - Auteur - Isabelle Larivée Fugues -
+   Auteur - Jacques Laforêt Fugues - Auteur - Jacques Massé Fugues -
+   Auteur - Jacques Corbier Fugues - Auteur - Jacques René Beaudoin Fugues
+   - Auteur - Jean Beauchemin Fugues - Auteur - Jean Paré Fugues - Auteur
+   - Jean-Charles Marier Fugues - Auteur - Jean-François Tessier Fugues -
+   Auteur - Jean-Guy Côté Fugues - Auteur - Jean-Marc Picard Fugues -
+   Auteur - Jean-Yves Duthel Fugues - Auteur - Jeremiah Albert Fugues -
+   Auteur - Jérimi Scott Fugues - Auteur - Jérôme Bastien Fugues - Auteur
+   - Jessy Lafortune Fugues - Auteur - Joanne Otis Ph.D (chercheure) et
+   collaborateurs Fugues - Auteur - Jocelyn Ann Campbell Fugues - Auteur -
+   Jodi Millot Fugues - Auteur - Johanne Cadorette Fugues - Auteur - Julie
+   Beauchamp Fugues - Auteur - Julie Vaillancourt Fugues - Auteur - Julie
+   Mendore Fugues - Auteur - Julie Maillé Fugues - Auteur - Julie Maude
+   Beauchesne Fugues - Auteur - Julien Barbeau Fugues - Auteur - Justin
+   Beaulieu Fugues - Auteur - Karl Mayer Fugues - Auteur - Katia Aubin
+   Fugues - Auteur - Ken Monteith Fugues - Auteur - Kevin Bissonnette
+   Fugues - Auteur - La Presse Canadienne Fugues - Auteur - L'agence AFP
+   Fugues - Auteur - Laurent McCutcheon Fugues - Auteur - Laurent Leprince
+   et Philippe Carreau Fugues - Auteur - L'équipe AIDO HWEDO Fugues -
+   Auteur - L'équipe de rédaction Fugues - Auteur - Libby Copeland Fugues
+   - Auteur - Linda Gosselin Fugues - Auteur - Logan Cartier Fugues -
+   Auteur - Louis Ricard Fugues - Auteur - Louis Costa Fugues - Auteur -
+   Louis Godbout Fugues - Auteur - Louis CHARRON Fugues - Auteur - Luc
+   Quintal Fugues - Auteur - Luc-Alexandre Perron Fugues - Auteur - Luce
+   Lafrance Fugues - Auteur - Lynda Brault Fugues - Auteur - Mado Lamotte
+   Fugues - Auteur - Magazine 360 CH Fugues - Auteur - Marbi & Magu Fugues
+   - Auteur - Marc Martel Fugues - Auteur - Marc Antonios Fugues - Auteur
+   - Marc Landreville Fugues - Auteur - Marc-André Patry Fugues - Auteur -
+   Marc-Antoine Saumier Fugues - Auteur - Maria Antonova Fugues - Auteur -
+   Mariann Schoom Fugues - Auteur - Marie Houzeau Fugues - Auteur -
+   Marie-Pier Boisvert Fugues - Auteur - Martin Hamel Fugues - Auteur -
+   Martin St-Onge Fugues - Auteur - Martin Bessette Fugues - Auteur -
+   Mathieu Chantelois Fugues - Auteur - Max Dubreuil Fugues - Auteur -
+   Maxime Hamel Fugues - Auteur - Maxime Le May, président de l'ATQ et
+   Erica Poirier, présidente de la CTTQ Fugues - Auteur - Me Philippe
+   FORTIN Fugues - Auteur - Mgr Charles-Rafael Payeur, Évêque catholique
+   dissident Fugues - Auteur - Michael Hendricks et René Leboeuf Fugues -
+   Auteur - Michel Dorais Fugues - Auteur - Michel Alary Fugues - Auteur -
+   Michel Groleau Fugues - Auteur - Michel Bailley Fugues - Auteur -
+   Michel Joanny-Furtin Fugues - Auteur - Michelle Blanc Fugues - Auteur -
+   Mona Greenbaum Fugues - Auteur - Natalia Wysocka Fugues - Auteur -
+   Nataliya Vasilyeva - The Associated Press Fugues - Auteur - Nathalie
+   Paquette Fugues - Auteur - Nathalie Petrowski Fugues - Auteur - Nelson
+   Narciso Fugues - Auteur - Nicolas Lavallée Fugues - Auteur - Nicole
+   Lemay Fugues - Auteur - Noël Saint-Pierre Fugues - Auteur - Normand
+   Sévigny, Pl.fin. Fugues - Auteur - Olivier de Maisonneuve Fugues -
+   Auteur - Olivier Gagnon Fugues - Auteur - Olivier Poulin Fugues -
+   Auteur - Oscar Chica Fugues - Auteur - Patrick Charette-Dionne Fugues -
+   Auteur - Patrick Gagnon Fugues - Auteur - Patrick Brunette Fugues -
+   Auteur - Philip Demers Fugues - Auteur - Philippe Boivin Fugues -
+   Auteur - Pierre Valois Fugues - Auteur - Pierre-Louis Quenneville
+   Fugues - Auteur - Pierre-Olivier Courville Fugues - Auteur - PolitiQ -
+   queers solidaires Fugues - Auteur - Portail VIH/sida du Québec Fugues -
+   Auteur - Raoul Mbog Fugues - Auteur - Raphaël, 15 ans Fugues - Auteur -
+   Real Lefebvre Fugues - Auteur - Réal Ménard Fugues - Auteur -
+   Réno-Assistance Fugues - Auteur - Reuters Fugues - Auteur - Richard
+   Vigneault Fugues - Auteur - Richard Burnett Fugues - Auteur - Robert
+   Gareau Fugues - Auteur - Robert J. Vézina Fugues - Auteur - Robert
+   Rousseau Fugues - Auteur - Robert Bourdon-Cloutier Fugues - Auteur -
+   Robert Pilon Fugues - Auteur - Roger Le Clerc Fugues - Auteur - Roger
+   Noël Fugues - Auteur - Roger P. LeBlanc Fugues - Auteur - Samuel
+   Larochelle Fugues - Auteur - Samuel Gagnon Fugues - Auteur - Sandra
+   Clermont Fugues - Auteur - Sean Morrow Fugues - Auteur - Sean R. Hosein
+   Fugues - Auteur - Sébastien Barraud Fugues - Auteur - Sébastien Thibert
+   Fugues - Auteur - Sébastien Deschênes Fugues - Auteur - Sébastien Krebs
+   Fugues - Auteur - Sébastien anonyme Fugues - Auteur - Serge Loutaty
+   Fugues - Auteur - Seronet info Fugues - Auteur - Simon Leclerc Fugues -
+   Auteur - Simon-louis Lajeunesse Fugues - Auteur - Sir Robert Gray
+   Fugues - Auteur - Site web À Cause Des Garçons Fugues - Auteur - Sonia
+   Consuelo Fugues - Auteur - Sophie Bergeron Fugues - Auteur - Source
+   Warning Fugues - Auteur - Stella, PolitiQ-queers solidaires, Radical
+   Queer Semaine, Warning (Montréal/Paris/Bruxelles) Fugues - Auteur -
+   Stéphan, 17 ans, Laval Fugues - Auteur - STÉPHANE DUBÉ Fugues - Auteur
+   - Steve Foster Fugues - Auteur - Steve Samson, notaire Fugues - Auteur
+   - Sunny Fugues - Auteur - Suzy Beaumont Fugues - Auteur - Sven Robinson
+   Fugues - Auteur - Sylvain Roy Fugues - Auteur - Sylvain Delongpré
+   Fugues - Auteur - Sylvain Champagne Fugues - Auteur - Sylvain Gharbi
+   Fugues - Auteur - Thomas Hammarberg Fugues - Auteur - Valérie Vézina
+   Fugues - Auteur - Viviane Namaste Fugues - Auteur - Warning-Montréal
+   Fugues - Auteur - Xavier Le Guyader Fugues - Auteur - Yanick Limoges
+   Fugues - Auteur - Yannick LeClerc Fugues - Auteur - Yoland Ouellet,
+   o.m.i. curé, Lyse Desroches, Jeannelle Bouffard, Yves Côté, Gérard
+   Laverdure et David Koussens Fugues - Auteur - Yves Lafontaine Fugues -
+   Auteur - Yves Gauthier Fugues - Auteur - Yvon Goulet Fugues - Auteur -
+   z z Fugues - Articles
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PZWVZK
+
+   Fugues
+     *
+     *     Actus
+          + Village Gai
+          + Montréal Métro
+          + Région de Québec
+          + Provincial
+          + National
+          + International
+          + Faits divers
+          + Politique
+          + Arts - Films
+          + Arts - Musique
+          + Arts - Livres
+          + Arts - Sur scène
+          + Arts - Télé et web télé
+          + Arts - Visuels
+          + Fierté
+          + Personnalités
+          + Sortie du placard
+          + Affaires
+          + Communautaire
+          + Couple
+          + Jeunes
+          + Histoire
+          + Homoparentalité
+          + Homophobie
+          + Lesbiennes
+          + Religion
+          + Santé
+          + Sports / Loisirs
+          + Trans
+          + VIH/sida
+          + Vieillir gai
+          + XXX - porno
+       CMUQL
+       Fermer
+     *     Chroniques
+          + Autrement dit
+          + Conseils d'experts
+          + Le Garde-robe de Frédérique
+          + Horoscope
+          + Les Mignons : l'amour c'est la guerre
+          + Mado est au boutte
+          + Newsmakers
+          + Nos bédés
+          + Nous et la loi
+          + Par ici ma sortie
+          + Place au Village
+          + Porte-voix
+          + Solidairement vôtre
+       Festival Bach Montréal 2018
+       Fermer
+     *     Entrevues
+          + Culture
+          + Fugues rencontre
+          + Inter-vues
+          + Ma cause ?
+          + Nos amis les hétéros
+          + Porn stars
+       Festival Bach Montréal 2018
+       Fermer
+     *     Bien vivre
+          + Capsules santé
+          + Cours et loisirs
+          + Prévention et VIH
+          + Psycho / équilibre
+          + Remise en forme
+          + Sexualité
+          + Soins
+       Parchemin septembre 2018
+       Fermer
+     *     Consommation
+          + Animaux de compagnie
+          + Autos
+          + Bonnes adresses
+          + Idées cadeaux
+          + Produits de beauté
+          + Mode
+          + Mon argent
+          + Nouveaux produits
+          + Restos
+          + Techno
+          + Vins
+       Avogel
+       Fermer
+     *     Voyages
+          + Québec
+          + Canada
+          + États-Unis
+          + Amérique Latine
+          + Europe
+          + Asie / Océanie
+          + Afrique
+          + Discovering Quebec
+       Guide Arc-en-ciel Québec Rainbow Guide 2018-2019
+       Fermer
+     *     DécorHomme
+          + Immobilier
+          + Rénovation
+          + Déco design
+       Art Sida 2018
+       Fermer
+     *     Sorties
+          + Clubbing
+          + Arts et spectacles
+          + Événements et Festivals
+       Fermer
+     *   Répertoire
+          + Bars & clubs
+          + Restaurants
+          + Saunas
+          + Hébergements
+          + Boutiques
+          + Arts & culture
+          + Communautaire
+          + Services
+       Fermer
+
+     * Accueil
+     * Actus
+          + Village Gai
+          + Montréal Métro
+          + Région de Québec
+          + Provincial
+          + National
+          + International
+          + Faits divers
+          + Politique
+          + Arts - Films
+          + Arts - Musique
+          + Arts - Livres
+          + Arts - Sur scène
+          + Arts - Télé et web télé
+          + Arts - Visuels
+          + Fierté
+          + Personnalités
+          + Sortie du placard
+          + Affaires
+          + Communautaire
+          + Couple
+          + Jeunes
+          + Histoire
+          + Homoparentalité
+          + Homophobie
+          + Lesbiennes
+          + Religion
+          + Santé
+          + Sports / Loisirs
+          + Trans
+          + VIH/sida
+          + Vieillir gai
+          + XXX - porno
+     * Chroniques
+          + Autrement dit
+          + Conseils d'experts
+          + Le Garde-robe de Frédérique
+          + Horoscope
+          + Les Mignons : l'amour c'est la guerre
+          + Mado est au boutte
+          + Newsmakers
+          + Nos bédés
+          + Nous et la loi
+          + Par ici ma sortie
+          + Place au Village
+          + Porte-voix
+          + Solidairement vôtre
+     * Entrevues
+          + Culture
+          + Fugues rencontre
+          + Inter-vues
+          + Ma cause ?
+          + Nos amis les hétéros
+          + Porn stars
+     * Bien vivre
+          + Capsules santé
+          + Cours et loisirs
+          + Prévention et VIH
+          + Psycho / équilibre
+          + Remise en forme
+          + Sexualité
+          + Soins
+     * Consommation
+          + Animaux de compagnie
+          + Autos
+          + Bonnes adresses
+          + Idées cadeaux
+          + Produits de beauté
+          + Mode
+          + Mon argent
+          + Nouveaux produits
+          + Restos
+          + Techno
+          + Vins
+     * Voyages
+          + Québec
+          + Canada
+          + États-Unis
+          + Amérique Latine
+          + Europe
+          + Asie / Océanie
+          + Afrique
+          + Discovering Quebec
+     * DécorHomme
+          + Immobilier
+          + Rénovation
+          + Déco design
+     * Sorties
+          + Clubbing
+          + Arts et spectacles
+          + Événements et Festivals
+     * Répertoire
+          + Bars & clubs
+          + Restaurants
+          + Saunas
+          + Hébergements
+          + Boutiques
+          + Arts & culture
+          + Communautaire
+          + Services
+     * Photos
+     * Fugues.tv
+     * Concours
+     * Nos magazines
+     * Bomecs
+     * À propos
+          + Qui nous sommes
+          + Contactez-nous
+          + Plan du site
+          + Conditions d'utilisation
+          + Politiques de confidentialité
+          + Annoncez avec Fugues
+     * Info en continu
+
+   Fugues EN
+     * Events
+     * Repertory
+     * Discovering Quebec
+     * Newsmakers
+
+   (BUTTON)
+   De la glorieuse fragilité par Karine Ledoyen - Agora de la danse
+     * Photos
+     * Fugues.tv
+     * Concours
+     * Nos magazines
+
+   [Toutes les sections_]
+     ____________________ Submit
+
+   Accueil   Actualités   International
+
+France
+
+La durée d'abstinence alignée sur celle des hétérosexuels pour les dons de
+sang
+
+   [37253_petit.jpg] Publié le 04 octobre 2018 à 17h36 L'agence AFP
+   Commentaires
+   [170840_grand1.jpg]
+   La Nef Carpe Diem
+
+   La période d'abstinence devrait, désormais, être la même pour tous,
+   soit quatre mois d'absence de relations sexuelles avec des partenaires
+   différents...
+   Dragonfly of Chicoutimi - La bordé
+
+   C'est la fin d'une discrimination. Les députés ont voté, ce mercredi en
+   commission, un amendement alignant, pour le don du sang, la durée
+   d'abstinence des homosexuels sur celle s'appliquant aux hétérosexuels.
+
+   La commission des Affaires sociales a adopté un amendement des
+   socialistes, Hervé Saulignac en tête, mettant fin à une discrimination
+   dans les dons du sang touchant les homosexuels. Désormais, la période
+   d'abstinence demandée aux homosexuels pour donner son sang est la même
+   que pour les hétérosexuels, soit quatre mois d'absence de relations
+   sexuelles avec des partenaires différents.
+
+   « La loi doit retenir les comportements à risques et non des
+   populations à risques »
+
+   « Pour tout homme donneur et toute femme donneuse, aucune distinction
+   ne doit être faite en fonction du genre et sexe du ou des partenaires
+   avec qui il ou elle aurait entretenu des relations sexuelles », stipule
+   l'amendement adopté. Depuis juillet 2016, les hommes homosexuels
+   peuvent théoriquement donner leur sang, geste qui leur était interdit
+   depuis 1983 en raison des risques de transmission du sida. Mais cette
+   possibilité est soumise à des conditions fixées par un arrêté du
+   5 avril 2016, notamment l'abstinence d'un an, qui doit être déclarée
+   lors d'un entretien préalable.
+
+   « Cet amendement va dans le bon sens » et, s'il est adopté en séance,
+   « va mettre un terme à une stigmatisation des hommes gay et bi », s'est
+   félicité Joël Deumier, président de SOS Homophobie. « La loi doit
+   retenir comme critère les comportements à risques et non des
+   populations à risques », a-t-il ajouté.
+   Dernière mise à jour le 04 octobre 2018
+   Marie Chouinard Usine C
+   Fur 2018
+   Tweet Pin It + Partager
+
+Du même auteur
+
+     * [171157_petit2.jpg]
+       12/11/2018
+
+Le président polonais favorabl (...)
+     * [171156_petit2.jpg]
+       11/11/2018
+
+Manifestations contre un proje (...)
+     * [171142_petit2.jpg]
+       08/11/2018
+
+Sexisme et homophobie s'instal (...)
+     * [171143_petit2.jpg]
+       08/11/2018
+
+Le gouvernement tanzanien pren (...)
+     * [171133_petit2.jpg]
+       08/11/2018
+
+Le Colorado élit un gouverneur (...)
+
+   Liste complète
+
+Sur le même sujet
+
+     * [171155_petit2.jpg]
+       12/11/2018
+
+Des personnes arrêtées en sept (...)
+     * [171154_petit2.jpg]
+       12/11/2018
+
+Human Rights Watch dénonce la (...)
+     * [171153_petit2.jpg]
+       12/11/2018
+
+L'ÉCOSSE INTRODUIT LES COURS S (...)
+     * [171158_petit2.jpg]
+       12/11/2018
+
+Partenariat civil gai thaïland (...)
+     * [171140_petit2.jpg]
+       08/11/2018
+
+La Prep fait chuter le nombre (...)
+
+   Liste complète
+   L'Europe coupée en deux concernant les droits des (...) 7HUES : Royal
+   G.
+   Fuguesmag sur Instagram
+   Danse-Cité Normal Desires
+
+   De la glorieuse fragilité par Karine Ledoyen - Agora de la danse
+
+Infolettre
+
+   Abonnez-vous pour être les premiers informés !
+   Inscription à
+   l'infolettre
+   Danse-Cité Normal Desires
+     * Sorties
+     * Répertoire
+
+   Secteurs d'activité [Tous les secteurs______] Sous-secteurs d'activité
+   [Tous les secteurs] mots clés ____________________
+   [ ] À ne pas manquer!
+   Rechercher
+   Secteurs d'activité [Tous les secteurs] Sous-secteurs d'activité mots
+   clés ____________________
+   [ ] Recommandé par fugues
+   Rechercher
+   Danse-Cité Normal Desires Marie Chouinard Usine C Art Sida 2018
+   INSCRIPTION À L'INFOLETTRE
+   De la glorieuse fragilité par Karine Ledoyen - Agora de la danse
+   Hotel cirque Éloize PDA
+   INSCRIPTION À L'INFOLETTRE
+   Québec Original Gourmandise
+   Guide Arc-en-ciel Québec Rainbow Guide 2018-2019
+   Québec Original Gourmandise
+   INSCRIPTION À L'INFOLETTRE
+   Fuguesmag sur Instagram
+   Danse-Cité Normal Desires
+   De la glorieuse fragilité par Karine Ledoyen - Agora de la danse
+   Danse-Cité Normal Desires
+   Danse-Cité Normal Desires
+   Inscription à l'infolettre de Fugues
+   Festival Bach Montréal 2018
+
+Nos partenaires communautaires
+
+     * Fondation Émergence
+     * VillageGaiMontreal
+     * Équipe montréal
+     * IGLTA
+     * Interligne
+     * REZO
+     * GrisMontréal
+     * TOURISME MONTREAL
+     * ALLIANCE ARC EN CIEL
+     * Journée internationale contre l'homophobie
+     * Fierté Montréal
+     * Fondation BBCM / Black&Blue
+     * ATQ
+     * Image+nation
+     * Charte ok
+     * Les Archives Gaies du Québec
+     * Fete Arc en ciel de Québec
+     * CHAMBRE DE COMMERCE LGBT DU QC
+     * Conseil québécois LGBT
+     * CCGLM
+     * Clinique l'actuel
+     * ADA
+     * coalition des familles homoparentales
+     * Arc en ciel d'Afrique
+     * cocqsida
+     * Maison Plein Coeur
+     * Helem Montreal
+     * AIRES LIBRES
+     * Coalition Sida des sourds du Québec
+     * MTL en Arts
+     * Fierté Littéraire
+     * Chaire de recherche sur l'homophobie
+     * CCGLM livres ouverts
+     * MIELS-QUÉBEC
+     * ACCM
+     * Pride Toronto
+     * Projet Mobilise
+     * Agence France Presse
+     * FIERTÉ AGRICOLE
+     * Fondation Jasmin Roy
+
+   Fugues
+   Le mystère d'Irma Vep
+
+Actus
+
+     * Affaires
+     * Arts - Films
+     * Arts - Musique
+     * Arts - Livres
+     * Arts - Sur scène
+     * Arts - Télé et web télé
+     * Arts - Visuels
+     * Communautaire
+     * Couple
+     * Faits divers
+     * Fierté
+
+     * Jeunes
+     * Histoire
+     * Homoparentalité
+     * Homophobie
+     * International
+     * Lesbiennes
+     * Montréal Métro
+     * National
+     * Région de Québec
+     * Personnalités
+     * Politique
+
+     * Provincial
+     * Religion
+     * Santé
+     * Sortie du placard
+     * Sports / Loisirs
+     * Trans
+     * Vieillir gai
+     * VIH/sida
+     * Village Gai
+     * XXX - porno
+
+Voyages & escapades
+
+     * Québec
+     * Canada
+     * États-Unis
+     * Amérique Latine
+     * Europe
+     * Asie / Océanie
+     * Afrique
+     * Discovering Quebec
+
+DécorHomme
+
+     * Immobilier
+     * Rénovation
+     * Déco design
+
+Concours
+
+     * Concours en ligne
+     * Gagnants des concours précédents
+
+Consommation
+
+     * Animaux de compagnie
+     * Autos
+     * Idées cadeaux
+     * Produits de beauté
+     * Mode
+     * Mon argent
+     * Restos
+     * Techno
+     * Vins
+     * Nouveaux produits
+
+Photos
+
+     * Clubbing
+     * Sorties culturelles
+     * Événements
+
+Bomecs
+
+Fugues.tv
+
+     * Buzz clips
+     * Films LGBT
+     * L'actualité
+     * Pubs arc-en-ciel
+
+Magazines
+
+     * Fugues en PDF
+     * DécorHomme en PDF
+     * Zip en PDF
+     * Guide Arc-en-ciel en PDF
+     * Nos Brochures en PDF
+     * Abonnements papier aux magazines
+     * Où se procurer
+       nos magazines
+
+Archives
+
+   [Toutes les sections_]
+     ____________________ Submit
+
+Chroniques
+
+     * Autrement dit
+     * Conseils d'experts
+     * Le Garde-robe de Frédérique
+     * Horoscope
+     * Les Mignons : l'amour c'est la guerre
+     * Mado est au boutte
+
+     * Newsmakers
+     * Nos bédés
+     * Nous et la loi
+     * Par ici ma sortie
+     * Place au Village
+     * Porte-voix
+
+Entrevues
+
+     * Culture
+     * Fugues rencontre
+     * Inter-vues
+     * Ma cause ?
+     * Nos amis les hétéros
+     * Porn stars
+
+Bien vivre
+
+     * Capsules santé
+     * Cours et loisirs
+     * Prévention et VIH
+     * Psycho / équilibre
+     * Remise en forme
+     * Sexualité
+     * Soins
+
+À propos
+
+     * Qui nous sommes
+     * Contactez-nous
+     * Plan du site
+     * Conditions d'utilisation
+     * Politiques de confidentialité
+     * Annoncez avec Fugues
+
+Info en continu
+
+     * Facebook
+     * Twitter
+     * YouTube
+     * Fil rss
+
+   Annoncer avec fugues
+     * Actus
+     * Chroniques
+          + Autrement dit
+          + Conseils d'experts
+          + Le Garde-robe de Frédérique
+          + Horoscope
+          + Les Mignons : l'amour c'est la guerre
+          + Mado est au boutte
+          + Newsmakers
+          + Nos bédés
+          + Nous et la loi
+          + Par ici ma sortie
+          + Place au Village
+          + Porte-voix
+     * Voyages &
+       escapades
+     * DécorHomme
+          + Immobilier
+          + Rénovation
+          + Déco design
+
+     * Consommation
+          + Animaux de compagnie
+          + Autos
+          + Idées cadeaux
+          + Produits de beauté
+          + Mode
+          + Mon argent
+          + Restos
+          + Techno
+          + Vins
+          + Nouveaux produits
+     * Entrevues
+          + Culture
+          + Fugues rencontre
+          + Inter-vues
+          + Ma cause ?
+          + Nos amis les hétéros
+          + Porn stars
+     * Bien vivre
+          + Capsules santé
+          + Cours et loisirs
+          + Prévention et VIH
+          + Psycho / équilibre
+          + Remise en forme
+          + Sexualité
+          + Soins
+     * Concours
+
+     * Photos
+          + Clubbing
+          + Sorties culturelles
+          + Événements
+     * Fugues.tv
+          + Buzz clips
+          + Films LGBT
+          + L'actualité
+          + Pubs arc-en-ciel
+     * Magazines
+
+     * À propos
+     * Info en continu
+     * Bomecs
+
+   Suivez nous!
+     *
+     *
+     *
+     *
+     *
+
+   Suivez-nous!
+     *
+     *
+     *
+     *
+     *
+
+Infolettre
+
+   Abonnez-vous pour être les premiers informés !
+   Inscription à
+   l'infolettre
+   Annoncer avec fugues
+   © 2018 Éditions Nitram Inc. et Groupe Hom. Tous droits réservés.
+   Conception web par Vortex Solution .
+     *
+     *
+     *
+     *
+
+   + Partager

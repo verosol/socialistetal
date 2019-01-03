@@ -1,0 +1,518 @@
+   #alternate
+
+   112.ua 112.ua
+   ____________________ (BUTTON)
+   (BUTTON)
+     * ukr
+     * rus
+     * eng
+
+   ____________________ (BUTTON)
+
+novini
+
+     * Golovnii novini
+     * ATO
+     * Poliitika
+     * Ekonomiika
+     * Suspiil'stvo
+     * NP
+     * Kiyiv
+     * Afiisha
+     * Kul'tura
+     * Kurjozi
+     * Sport
+
+analiitika
+
+     * Poliitika
+     * Ekonomiika
+     * Suspiil'stvo
+     * Sviit
+     * NP
+     * Armiiya
+     * Siloviki
+     * Donbas
+     * Dos'ie
+
+viideo
+
+     * Viideo za s'ogodnii
+     * Aktual'no
+     * Poliitika
+     * Tok-shou "Pul's". Kraschii momenti
+     * Tok-shou "Pul's". Povnii vipuski
+
+     * Arhiiv
+     * telekanal
+     * hroniiki 112
+     * Dos'ie
+     * Kandidat
+     * Pul's
+
+   28.12.2018
+   P`yatnicya
+     * RU
+     * UA
+     * ENG
+
+   28.12.2018
+
+     * novini
+     * analiitika
+     * viideo
+
+     * Novini
+          + Golovnii novini
+          + ATO
+          + Poliitika
+          + Ekonomiika
+          + Suspiil'stvo
+          + NP
+          + Kiyiv
+          + Afiisha
+          + Kul'tura
+          + Kurjozi
+          + Sport
+     * Analiitika
+          + Stattii
+          + Dumki
+          + IInterv'yu
+          + Poliitika
+          + Ekonomiika
+          + Suspiil'stvo
+          + Sviit
+          + NP
+          + Armiiya
+          + Siloviki
+          + Donbas
+     * Viideo
+          + Viideo za s'ogodnii
+          + Aktual'no
+          + Poliitika
+          + Tok-shou "Pul's". Kraschii momenti
+          + Tok-shou "Pul's". Povnii vipuski
+     * Arhiiv
+     * Dos'ie
+     * hroniiki 112
+     * telekanal
+          + Novini kanalu
+          + Vechiirniij prajm
+          + BACMAN
+          + Novini 112
+          + Golos narodu
+          + Voiennij schodennik
+          + V oblozii
+          + Gozman
+          + CHista poliitika
+          + Bliz'kij shiid
+          + 112 hvilin
+          + Ochevidec' 112
+          + LIVE
+          + Donbas. Realiiyi
+          + Hto komu Rabiinovich
+          + GORDON
+          + Kesh test
+          + Top-Syuzheti
+          + ZAVTRA
+     * kandidat
+     * Pul's
+
+     * Pro nas
+     * Kontakti
+     * Reklama
+     * Vakansiiyi
+     * Zvorotniij zvyazok
+     * Poliitika konfiidenciijnostii
+     * Logo
+     * PR
+
+   (BUTTON) Zakriti
+     * Novini
+     * Analiitika
+     * Telekanal
+     * Viideo
+     * Arhiiv
+     * Kandidat
+     * Pul's
+
+   Live
+
+     * Golovnii novini
+     * ATO
+     * Poliitika
+     * Ekonomiika
+     * Suspiil'stvo
+     * NP
+     * Kiyiv
+     * Afiisha
+     * Kul'tura
+     * Kurjozi
+     * Sport
+
+   [counter.png]
+
+     * Golovna
+     * Stattii
+
+Referendum u Makedoniiyi: Rosiiya ii SSHA boryut'sya za Balkani
+
+   10:4830.09.2018
+   Tvitnut'
+
+   [360788.jpg?timestamp=1538279365]
+   Referendum u Makedoniiyi: Rosiiya ii SSHA boryut'sya za Balkani
+   Reuters
+
+Georgiij Kuhalejshviilii
+
+   poliitolog-miizhnarodnik
+   10:4830.09.2018
+   Tvitnut'
+
+Georgiij Kuhalejshviilii
+
+   poliitolog-miizhnarodnik
+
+   [INS: :INS]
+
+   S'ogodnii, 30 veresnya, v Makedoniiyi viidbuvaiet'sya
+   zagal'nonaciional'nij referendum pro perejmenuvannya krayini ta
+   iintegraciiyu v IES ii NATO. Gromadyani balkans'koyi krayini povinnii
+   budut' viidpoviisti na pitannya pro te, chi piidtrimuyut' vstup do IES
+   ii NATO v obmiin na zgodu prijnyati umovi ugodi z Greciiieyu pro
+   perejmenuvannya Kolishn'oyi YUgoslavs'koyi Respubliiki Makedoniiya na
+   Respubliiku Piivniichna Makedoniiya. Zgiidno z ciiieyu ugodoyu,
+   Greciiya pripinit' blokuvati vstup Makedoniiyi do IES ii NATO, yakscho
+   vona zmiinit' nazvu. Moskva vikoristovuie rozbiizhnostii sered
+   makedons'kih poliitikiiv z privodu perejmenuvannya Makedoniiyi, schob
+   vplinuti na zrostannya populyarnostii v balkans'kiij krayinii
+   poliitichnih sil, oriiientovanih na zblizhennya z Rosiiieyu. Vashington
+   zaciikavlenij u vstupii balkans'koyi krayini do NATO, schob postaviti
+   hrest na proektii gazoprovodu "Turec'kij potiik".
+
+Makedons'kij vuzol protiriich
+
+   Greko-makedons'ka superechka polyagaie v tomu, scho nazvu "Makedoniiya"
+   mayut' kolishnya yugoslavs'ka respubliika ii prikordonna grec'ka
+   proviinciiya, de kompaktno prozhivaie slov'yans'ka menshina. Greki
+   poboyuyut'sya separatists'kih tendenciij sered miiscevogo naselennya, a
+   takozh zvinuvachuyut' Skop'ie v sprobii privlasniti iistorichnu
+   spadschinu Elladi. Respubliika ii proviinciiya nazvanii na chest'
+   antichnogo carya Oleksandra Makedons'kogo, yakij stvoriv najbiil'she
+   derzhavne utvorennya, kordoni yakogo prostyagalisya viid suchasnoyi
+   Greciiyi do Piivdennoyi Aziiyi. Dovgij chas Skop'ie ne bazhalo jti na
+   poviidku v Afiin. Odnak sprobi makedonciiv protyagom 27 rokiiv vstupiti
+   do NATO ii IES, ne zmiinyuyuchi nazvi svoieyi krayini, ne uviinchalisya
+   uspiihom.
+
+Novini za temoyu
+
+     * Ponad 40% zhiteliiv Makedoniiyi piidtrimuyut' ugodu z Greciiieyu
+       pro zmiinu nazvi krayini, - ZMII
+       06:1909.08.2018
+
+Novini za temoyu
+
+   [350138.jpg?timestamp=1530833377]
+
+   Ponad 40% zhiteliiv Makedoniiyi piidtrimuyut' ugodu z Greciiieyu pro
+   zmiinu nazvi krayini, - ZMII
+
+   Kriga skresla, piislya togo yak za piidsumkami parlaments'kih viboriiv
+   u 2016 r. do vladi prijshla koaliiciiya partiiyi
+   "Sociial-demokratichnij soyuz" Zorana Zaieva ii poliitichnoyi sili
+   albans'koyi menshini "Demokratichnij soyuz za iintegraciiyu" Alii
+   Ahmetii. U lipnii 2018 r. 67 iiz 120 deputatiiv makedons'kogo
+   parlamentu progolosuvali za provedennya referendumu. Prote opoziciijna
+   partiiya "Vnutriishnya makedons'ka revolyuciijna organiizaciiya -
+   Demokratichna partiiya za makedons'ku naciional'nu iedniist'"
+   (VMRO-DPMNIE) kolishn'ogo prem'ier-miiniistra Niikoli Gruievs'ki
+   vistupaie proti perejmenuvannya svoieyi krayini. Na 73-j sesiiyi
+   Genasambleyi OON prezident Makedoniiyi Dzhorge IIvanov z partiiyi
+   VMRO-DPMNIE zaklikav svoyih gromadyan bojkotuvati referendum,
+   rozkritikuvav SSHA ii IES za te, scho voni piidtrimali jogo
+   provedennya, ii nazvav perejmenuvannya krayini porushennyam yiyi
+   suvereniitetu. Piid chas promovi IIvanova makedons'ka delegaciiya
+   zalishila zal zasiidan' Genasambleyi OON na znak protestu.
+
+   [360790.jpg?timestamp=1538279742]
+
+   Teritoriiyi starodavn'oyi Makedoniiyi ta rozselennya makedonciiv Foto z
+   viidkritih dzherel
+
+   [INS: :INS]
+
+   Vazhko suditi, chij golos perevazhit' na referendumii. U
+   dvomiil'jonniij Makedoniiyi iisnuie rozkol schodo perejmenuvannya
+   krayini. Sociiologiiya malyuie superechlivu kartinu. Zgiidno z lipnevim
+   socopituvannyam Miizhnarodnogo respubliikans'kogo iinstitutu, 57%
+   makedons'kih respondentiiv (1100 osiib) povniistyu piidtrimuyut' vstup
+   svoieyi krayini do NATO ii IES piid nazvoyu "Respubliika Piivniichna
+   Makedoniiya". Za danimi iinshogo opituvannya Makedons'kogo centru
+   miizhnarodnogo spiivrobiitnictva, 41,5% makedonciiv piidtrimuyut' umovi
+   ugodi z Greciiieyu, tim chasom yak 35,1% - nii. Najbiil'she
+   piidtrimuyut' iideyu perejmenuvannya Makedoniiyi miiscevii albancii,
+   tim chasom yak 45,5% slov'yans'kogo naselennya vistupayut' proti
+   ciiieyi iideyi. U 2016 r. na parlaments'kih viborah 51% makedonciiv
+   progolosuvali za partiiyu VMRO-DPMNIE, yaka proti postupok Greciiyi.
+   Rezul'tat referendumu ne peredbachuvanij.
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+Dodoniizaciiya Makedoniiyi
+
+   Vstup Makedoniiyi do NATO ii IES ne spiivpadaie z iinteresami Rosiiyi.
+   U Moskvi ie svoyi plani na balkans'ku krayinu. Rosiijs'ka kompaniiya
+   "Gazprom" planuie proklasti cherez teritoriiyu balkans'koyi derzhavi
+   suhoputnu diilyanku gazoprovodu "Turec'kij potiik". Raniishe rosiiyani
+   oprac'ovuvali variiant prokladannya cherez teritoriiyi Makedoniiyi
+   ninii ne aktual'nogo proektu gazoprovodu "Piivdennij potiik". U 2013 r.
+   Rosiiya ii Makedoniiya piidpisali ugodu pro spiivpracyu pri
+   budiivnictvii c'ogo gazoprovodu. U roki perebuvannya pri vladii
+   VMRO-DPMNIE Kreml' aktivno viiv peregovori z c'ogo pitannya. U 2015 r.
+   kolishniij prem'ier-miiniistr Gruievs'ki zayaviv, scho budiivnictvo
+   gazoprovodu "Turec'kij potiik" cherez teritoriiyu Makedoniiyi mozhlive
+   v razii zgodi z boku IES, viznayuchi, scho dlya samogo Skop'ie proekt
+   ne nadto ciikavij cherez nevelikij popit na prirodnij gaz u jogo
+   krayinii.
+
+Novini za temoyu
+
+     * Merkel' zaklikala makedonciiv golosuvati za zmiinu nazvi krayini
+       22:1008.09.2018
+
+Novini za temoyu
+
+   [357821.png?timestamp=1536096123]
+
+   Merkel' zaklikala makedonciiv golosuvati za zmiinu nazvi krayini
+
+   Z entuziiazmom do gazovoyi spiivpracii z Rosiiieyu stavit'sya chinnij
+   prezident Makedoniiyi. U 2014 r. IIvanov piidtrimuvav iideyu
+   budiivnictva gazoprovodu "Piivdennij potiik", vvazhayuchi, scho proekt
+   zabezpechit' jogo krayinii dovgostrokovij dostup do prirodnogo gazu.
+   Todii zh Makedoniiya ne priiednalasya do antirosiijs'kih sankciij SSHA
+   ii IES. Rosiiya ciikava makedons'kim konservatoram yak rinok zbutu
+   siil's'kogospodars'koyi produkciiyi. Tranzit rosiijs'kogo gazu do
+   Serbiiyi ta iinshih ievropejs'kih krayin miig bi stati novim dzherelom
+   popovnennya skarbnicii nevelikoyi agrarnoyi krayini. Ce pri tomu, scho
+   v planii zovniishn'opoliitichnoyi oriiientaciiyi VMRO-DPMNIE malo chim
+   viidriiznyaiet'sya viid "Sociial-demokratichnogo soyuzu" ii vistupaie
+   za vstup do NATO ii IES.
+
+   Konfliikt prezidenta Dzhorge IIvanova z makedons'kimi zakonodavcyami
+   dovkola referendumu pro perejmenuvannya Makedoniiyi chimos' nagaduie
+   antagoniizm prezidenta Moldovi IIgorya Dodona ii parlamentu z privodu
+   ievropejs'koyi iintegraciiyi ta viidnosin z Rosiiieyu. Sociialiist
+   Dodon vistupaie za zblizhennya z Rosiiieyu v poliitichniij ta
+   ekonomiichniij sferii, za vstup krayini v IEvraziijs'kij ekonomiichnij
+   soyuz. IIvanov provodit' situativne zblizhennya z Rosiiieyu, schob
+   znajti hoch yakus' piidtrimku zzovnii. Viin ne piidtrimav vislannya z
+   Makedoniiyi rosiijs'kogo diplomata u viidpoviid' na hiimiichnu ataku v
+   Solsberii. U 2017 rocii IIvanov viidviidav Moskvu, de zustriivsya z
+   prezidentom RF Volodimirom Putiinim.
+
+   [360789.jpg?timestamp=1538279445]
+
+   George IIvanov Reuters
+
+   [INS: :INS]
+
+   Odnak dlya Rosiiyi al'yans z IIvanovim ii VMRO-DPMNIE ce nadzvichajnij
+   zahiid. Kreml' rozgornuv provokaciijnu ii propagandists'ku
+   diiyal'niist' u Makedoniiyi, schob vikoristovuvati rozbiizhnostii u
+   makedons'komu suspiil'stvii z privodu perejmenuvannya krayini na svoyu
+   korist' ii vplinuti na prihiid do vladi prihil'nikiiv zblizhennya z
+   Rosiiieyu. Neschodavno v Makedoniiyi bula stvorena partiiya "IEdina
+   Makedoniiya" YAnko Bacheva. Partiiya vistupaie za strategiichne
+   partnerstvo z Moskvoyu, vstup u IEvraziijs'kij ekonomiichnij soyuz.
+   Bachev vvazhaie, scho tiil'ki v soyuzii z Rosiiieyu mozhna viidstoyati
+   makedons'kii iinteresi. Funkciioneri ciiieyi partiiyi brali uchast' u
+   zahoplennii parlamentu Makedoniiyi v 2016 r., piislya togo yak stalo
+   yasno, scho VMRO-DPMNIE vtratila vladu.
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   U bereznii 2018 r. "IEdina Makedoniiya" organiizuvala konferenciiyu
+   "Strategiichnij soyuz Respubliiki Makedoniiya z Rosiiieyu ii chlenstvo
+   v IEvraziijs'komu ekonomiichnomu soyuzii" za uchastyu odnogo z
+   iideologiiv zovniishn'oyi poliitiki Rosiiyi, geopoliitika Oleksandra
+   Dugiina. Kreml' tisne na naciional'nii pochuttya makedonciiv,
+   namagaiet'sya cherez svoyih agentiiv vplivu perekonati yih u tomu, scho
+   perejmenuvannya krayini niibito ne vartuie chlenstva v NATO. Ne zabuli
+   v Kremlii piidiibrati dosviidchenogo kuratora dlya koordinaciiyi diij
+   prorosiijs'kih sil. U serpnii Putiin priznachiv poslom RF u Makedoniiyi
+   Sergiiya Bazdnikiina - dosviidchenogo diplomata, yakij raniishe
+   pracyuvav u rosiijs'kih diplomatichnih ustanovah u Bosniiyi ii
+   Gercegovinii, Serbiiyi ta CHornogoriiyi (do 2006 roku), obiijmav posadu
+   zastupnika direktora departamentu zovniishn'opoliitichnogo planuvannya
+   MZS Rosiiyi. Zavdannya "IEdinoyi Makedoniiyi" - zgurtuvati navkolo sebe
+   gromadyan, yakii ne hochut' miinyati nazvu svoieyi krayini, nezalezhno
+   viid rezul'tatu referendumu, ii potiim poborotisya za vladu piid chas
+   chergovih parlaments'kih chi miiscevih viboriiv.
+
+IInteresi SSHA v Makedoniiyi
+
+   Vstup Makedoniiyi do NATO viidpoviidaie iinteresam SSHA, yakii
+   vistupayut' proti zbiil'shennya energetichnoyi zalezhnostii IEvrosoyuzu
+   viid Rosiiyi. SHtati zaciikavlenii zviil'niti niishu dlya
+   amerikans'kogo prirodnogo gazu, potiisnivshi Rosiiyu na gazovomu rinku
+   IES. U c'omu planii budiivnictvo "Turec'kogo potoku" ne vigiidno SSHA.
+   CHlenstvo Makedoniiyi v NATO ciikavo SSHA, schob ne dopustiti
+   vikoristannya Rosiiieyu ciiieyi krayini yak novogo marshrutu dlya
+   eksportu prirodnogo gazu do IEvropi. Z tochki zoru oboronozdatnostii
+   Makedoniiya z yiyi neznachnimi vitratami na oboronu (menshe 1% viid
+   VVP) ii 8-tis. armiiieyu navryad chi zdatna vnesti vnesok u zmiicnennya
+   ievroatlantichnoyi bezpeki.
+
+Novini za temoyu
+
+     * Pentagon: RF vtruchatimet'sya v referendum pro zmiinu nazvi
+       Makedoniiyi
+       09:1712.09.2018
+
+Novini za temoyu
+
+   [317727.jpg?timestamp=1507568993]
+
+   Pentagon: RF vtruchatimet'sya v referendum pro zmiinu nazvi Makedoniiyi
+
+   U lipnii 2018 r. gensek NATO IEns Stoltenberg zaprosiv Makedoniiyu
+   stati 30-m chlenom al'yansu, yak tiil'ki bude viriisheno pitannya z
+   perejmenuvannyam. Amerikancyam vigiidno, schob Greciiya ii Makedoniiya
+   viriishili davnyu superechku cherez nazvu, yaka ie pereshkodoyu dlya
+   balkans'koyi krayini na shlyahu do NATO. Vashington postaviv u
+   Makedoniiyi na tih, hto buv gotovij pozhertvuvati iistorichnimi
+   principami zaradi chlenstva v NATO. Nimi viyavilisya makedons'kii
+   esdeki, a takozh albancii - partneri amerikanciiv na Balkanah.
+   Miiniistr oboroni SSHA Dzhejms Mettiis viidviidav Skop'ie v seredinii
+   veresnya, piidtrimav iideyu provedennya referendumu. Viin vvazhaie,
+   scho Moskva fiinansuie prorosiijs'kii grupi, vitrachaie groshii na
+   kampaniiyi z obrobki gromads'koyi dumki, schob vplinuti na rezul'tati
+   referendumu (pro scho sviidchit' diiyal'niist' partiiyi "IEdina
+   Makedoniiya").
+
+   Naviit' yakscho rezul'tati referendumu budut' na korist' vstupu
+   Makedoniiyi do NATO, podal'sha dolya krayini povniistyu perebuvaie v
+   rukah Zahodu. Dzhorge IIvanov vvazhaie, scho Makedoniiyu ne prijmut' do
+   IES ii NATO, naviit' yakscho krayinu perejmenuyut'. Ce pitannya
+   zalezhit' ne tiil'ki viid riishennya Greciiyi, ale ii viid poziciiyi
+   iinshih krayin-chleniiv. Makedoniiya, yaka ie odniiieyu z
+   najbiidniishih ievropejs'kih krayin iiz kupoyu sociial'no-ekonomiichnih
+   problem, korupciiieyu, superechkami na etniichnomu g3runtii miizh
+   slov'yanami j albancyami, povinna viidpoviidati kriteriiyam chlenstva.
+   Ne fakt, scho Skop'ie shvidko viidchinyat' dverii do NATO ii IES,
+   naviit' yakscho zmiinit'sya nazva krayini. Zokrema, CHornogoriiyi
+   znadobilosya desyat' rokiiv, schob vstupiti do NATO. YAkscho proces
+   vstupu zatyagnet'sya na neviznachenij termiin, to agenti vplivu Kremlya
+   tiil'ki potiratimut' ruki. V makedons'komu suspiil'stvii zrostatime
+   rozcharuvannya prozahiidnimi poliitikami ta odnochasno piidtrimka
+   populiistiiv na kshtalt "IEdinoyi Makedoniiyi". Rosiiyi ce ii
+   potriibno, schob zatyagnuti Makedoniiyu v svoyu sferu vplivu.
+   Progolosuie biil'shiist' makedonciiv za perejmenuvannya krayini chi
+   nii, znachennya ne maie.
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   Georgiij Kuhalejshviilii,
+
+   poliitolog-miizhnarodnik
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   #Makedoniiya #Respubliika Piivniichna Makedoniiya #referendum #NATO
+   #IEvrosoyuz
+   Dzherelo: 112.ua
+
+   Piidpishiit'sya na 112.ua u vashomu Telegram ii Facebook Operativno ta
+   lakoniichno pro najvazhliviishe
+
+   YAkscho vi pomiitili pomilku, vidiiliit' neobhiidnij tekst ta
+   natisniit' Ctrl+Enter, schob poviidomiti pro ce redakciiyu
+
+   YAkscho vi pomiitili pomilku, vidiiliit' neobhiidnij tekst ii
+   natisniit' knopku "poviidomiti pro pomilku", schob poviidomiti pro ce
+   redakciiyu
+   (BUTTON) Poviidomiti pro pomilku
+
+   [INS: :INS]
+
+viideo po temii
+
+     * Oleg Golubenko, poliitichnij ekspert, - giist' Oleg Golubenko,
+       poliitichnij ekspert, - giist' "112 Ukrayina", 15.12.2018
+       11:0415.12.2018
+     * [INS: :INS]
+     * Pres-konferenciiya Poroshenka ta Genseka NATO Stoltenberga
+       Pres-konferenciiya Poroshenka ta Genseka NATO Stoltenberga
+       13:4013.12.2018
+     * Azovs'ka kriza prizvede do novih sankciij proti RF, ale ne na c'omu
+       samiitii, - Ejdman
+       Azovs'ka kriza prizvede do novih sankciij proti RF, ale ne na c'omu
+       samiitii, - Ejdman 18:0213.12.2018
+     * Do Ukrayini pribuv viijs'kovij korabel' NATO u zv'yazku z
+       konfliiktom v Kerchens'kiij protocii
+       Do Ukrayini pribuv viijs'kovij korabel' NATO u zv'yazku z
+       konfliiktom v Kerchens'kiij protocii 20:2319.12.2018
+     * Dzhon Gerbst, kolishniij posol SSHA v Ukrayinii, - giist' Dzhon
+       Gerbst, kolishniij posol SSHA v Ukrayinii, - giist' "112 Ukrayina",
+       13.12.2018 17:5413.12.2018
+
+Novini za temoyu
+
+   [INS: :INS]
+
+Novini za temoyu
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+Novini partneriiv
+
+   Zagruzka...
+
+Viidzhet partneriiv
+
+   112.ua
+
+     * Pro nas
+     * Kontakti
+     * Zvorotniij zvyazok
+     * Reklama
+     * Vakansiiyi
+     * Poliitika konfiidenciijnostii
+     * PR
+     * Logo
+     * Mapa sajtu
+
+   Lyuboe ispol'zovanie materialov c sajta ili programm telekanala 112
+   Ukraina razreshaetsya pri uslovii giperssylki na www.112.ua u pershomu
+   abzacii tekstu. Keriivnictvo sajtu ne nese viidpoviidal'nostii za
+   dostoviirniist' materiialiiv, scho nadiijshli viid nashih chitachiiv.
+   Admiiniistraciiya sajtu, publiikuyuchi stattii nashih chitachiiv,
+   poperedzhuie, scho yih poglyadi mozhut' ne zbiigatisya z poglyadom
+   redakciiyi. Peredruk, kopiiyuvannya abo viidtvorennya iinformaciiyi,
+   yaka miistit' posilannya na agentstvo "IInterfaks-Ukrayina" ta
+   "Ukrayins'kii Novini", v bud'-yakomu viglyadii suvoro zaboroneno.
+
+   IInformaciiya v rubricii PR rozmiischuiet'sya na pravah reklami.
+   Viidpoviidal'niist' za iinformaciiyu nese reklamodavec' .
+
+   Naverh
+   d="M296.296,512H200.36V256h-64v-88.225l64-0.029l-0.104-51.976C200.256,4
+   3.794,219.773,0,304.556,0h70.588v88.242h-44.115
+   c-33.016,0-34.604,12.328-34.604,35.342l-0.131,44.162h79.346l-9.354,88.2
+   25L296.36,256L296.296,512z"/>
+   [tr?id=144068539635741&ev=PageView&noscript=1]

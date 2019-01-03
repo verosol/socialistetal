@@ -1,0 +1,1320 @@
+<!DOCTYPE html>
+<html>
+    <head>  
+        <script>
+
+var gdprAppliesGlobally = true;
+
+(function(){function n(){if(!window.frames.__cmpLocator){if(document.body&&document.body.firstChild){var e=document.body;var t=document.createElement("iframe");t.style.display="none";t.name="__cmpLocator";e.insertBefore(t,e.firstChild)}else{setTimeout(n,5)}}}function e(e,t,n){if(typeof n!=="function"){return}if(!window.__cmpBuffer){window.__cmpBuffer=[]}if(e==="ping"){n({gdprAppliesGlobally:gdprAppliesGlobally,cmpLoaded:false},true)}else{window.__cmpBuffer.push({command:e,parameter:t,callback:n})}}e.stub=true;function t(a){if(!window.__cmp||window.__cmp.stub!==true){return}if(!a.data){return}var r=typeof a.data==="string";var e;try{e=r?JSON.parse(a.data):a.data}catch(t){return}if(e.__cmpCall){var i=e.__cmpCall;window.__cmp(i.command,i.parameter,function(e,t){var n={__cmpReturn:{returnValue:e,success:t,callId:i.callId}};a.source.postMessage(r?JSON.stringify(n):n,"*")})}}if(typeof window.__cmp!=="function"){window.__cmp=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}n()})();
+
+window.didomiConfig = {
+    languages: {
+        enabled: ['es'],
+        default: 'es'
+    },
+    tagManager: {
+        provider: 'didomi'
+    },
+    notice: {
+        position: 'bottom',
+        closeOnClick: true,
+        content: {
+            notice: {
+                es: 'Utilizamos cookies propias y de terceros y tecnologías similares para almacenar y administrar las preferencias del Usuario, enviar publicidad adaptada al Usuario, habilitar contenido y recolectar datos analíticos y de uso, así como para garantizar el correcto funcionamiento de esta web. Si continua navegando por esta web, estará aceptando su instalación en los términos indicados en nuestra <a href="https://www.publico.es/politica-cookies" target="_blank">Política de cookies</a>'
+            },
+            dismiss: {
+                es: 'Estoy de acuerdo'
+            },
+            learnMore: {
+                es: 'Quiero saber más'
+            }
+        }
+    },
+    preferences: {
+        defaultChoice: true,
+        content: {
+            title: {
+                es: '<h2>Bienvenido a Público</h2>'
+            },
+            text: {
+                es: '<h3>¿Qué tipos de cookies existen?</h3><p>Las cookies pueden clasificarse en tres categorías: según quién sea la entidad que gestione el equipo o dominio desde donde se envían las cookies y trate los datos; según el periodo de tiempo en el que permanecen activas en el equipo terminal; y según la finalidad para la que se traten los datos obtenidos.</p><h3>¿Por qué es importante su consentimiento?</h3><p>De conformidad con la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, Público podrá instalar cookies en el terminal de los Usuarios a condición de que estos hayan prestado su consentimiento después de que se les haya proporcionado información clara y completa sobre su utilización. El objetivo de esta Política es facilitar dicha información de un modo útil para el Usuario.</p><p>Sin embargo, debe advertirse que no todas las cookies tienen la misma consideración desde el punto de vista legal. Algunas cookies, por no considerarse intrusivas están exentas de la obligación de ser informadas. Estas son cookies que permiten la comunicación entre el equipo del Usuario y la red, así como las que estrictamente prestan un servicio expresamente solicitado por el Usuario, como por ejemplo:<br><ul><li>Cookies de entrada del Usuario.</li><li>Cookies de autenticación o identificación de Usuario (únicamente de sesión).</li><li>Cookies de seguridad del Usuario.</li><li>Cookies de sesión de reproductor multimedia.</li><li>Cookies de sesión para equilibrar la carga.</li><li>Cookies de personalización de la interfaz de Usuario.</li><li>Cookies de complemento (plug-in) para intercambiar contenidos sociales.</li></ul></p><h3>Gestione su consentimiento</h3>'
+            },
+            save: {
+                es: 'Guardar'
+            }
+        },
+        information: {
+            enable: true,
+            content: {
+                text: {
+                    es: '<p>En esta página encontrará información sobre nuestra Política de recogida y tratamiento de Cookies en Público, y los siguientes subdominios: (i) blogs.publico.es (ii) especiales.publico.es y (iii) m.publico.es. Puede leer toda la política de cookies de Público pinchando <a href="https://www.publico.es/politica-cookies" target="_blank">aquí</a>.</p><h3>¿Qué son las cookies y para que se utilizan?</h3><p>Las cookies son ficheros o archivos que se descargan en el ordenador/smartphone/Tablet del Usuario cuando éste accede a determinadas páginas web.</p><p>Las cookies permiten almacenar ciertos datos sobre el dispositivo del Usuario o sobre la navegación del mismo. La mayoría de las cookies se asocian a un usuario, ordenador y dispositivo no identificable en el sentido de que no proporcionan referencias que permitan conocer datos personales.</p><h3>¿Cómo puedo administrar las cookies?</h3><p>Puede administrar las cookies en la configuración del navegador. La configuración de los navegadores puede variar un poco; así que, para administrar las cookies debe consultar la configuración correspondiente dentro de su navegador.</p><p>Le indicamos los siguientes enlaces, donde podrá encontrar más información sobre la configuración de cookies en los diferentes navegadores:<br><ul><li><a href="http://support.google.com/chrome/bin/answer.py?hl=es&answer=95647" target="_blank">Chrome</a></li><li><a href="https://support.google.com/chrome/answer/114662?hl=es&rd=1" target="_blank">Chrome para Android</a></li><li><a href="http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9" target="_blank">Explorer</a></li><li><a href="http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we" target="_blank">Firefox</a></li><li><a href="https://support.apple.com/kb/ph5042?locale=en_US" target="_blank">Safari </a></li><li><a href="https://support.apple.com/kb/ph5042?locale=en_US" target="_blank">Safari para IOS </a></li><li><a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank">Windows 10: Microsoft Edge</a></li></ul></p><p>Público actualizará los anteriores enlaces proporcionados en esta política de cookies de forma regular. Sin embargo, es posible que, en algunos momentos, éstos no correspondan con la última versión publicada por el desarrollador de cada navegador.</p><p>Existen también algunos recursos de utilidad que ofrecen información detallada sobre los tipos de cookies, cómo se utilizan y cómo puede administrar sus preferencias de cookies en <a href="http://www.aboutcookies.org/" target="_blank">About Cookies</a> o en <a href="http://www.allaboutcookies.org/" target="_blank">All About Cookies</a>.</p>'
+                },
+                learnMore: {
+                    es: 'Quiero saber más'
+                },
+                agreeAndClose: {
+                    es: 'Estoy de acuerdo'
+                }
+            }
+        }
+    },
+    website: {
+        apiKey: "6e7011c3-735d-4a5c-b4d8-c8b97a71fd01",
+        name: "Público",
+        privacyPolicyURL: "https://www.publico.es/politica-proteccion-datos",
+        logoUrl: "https://www.publico.es/commons/img/logo.png",
+        vendors: {
+            didomi: ["google"],
+            iab: {
+                all: true
+            },
+            custom: [
+                {
+                    id: 'vendor-bbva',
+                    name: 'BBVA',
+                    purposeIds: ['analytics'],
+                    policyUrl: 'https://www.bbva.com/es/aviso-legal'
+                }
+            ]
+        }
+    }
+};
+
+window.didomiOnReady = window.didomiOnReady || [];
+window.didomiOnReady.push(function (Didomi) {
+
+    // @hack Set global window.Didomi so we can use it in function called from "didomiOnReady callback"
+    // window.Didomi = Didomi;
+
+    // Custom scroll integration
+    var attachEvents = function()
+    {
+        window.addEventListener('scroll', setUserAgree, false);
+    };
+
+    var removeEvents = function()
+    {
+        window.removeEventListener('scroll', setUserAgree, false);
+    };
+
+    var setUserAgree = function()
+    {
+        removeEvents();
+        Didomi.setUserAgreeToAll();
+    };
+
+    if (Didomi.notice.isVisible())
+    {
+        attachEvents();
+    }
+    else
+    {
+        Didomi.on('notice.shown', function() {
+            attachEvents();
+        });
+    }
+
+    // Custom DFP integration
+
+    var consentStatus = Didomi.getUserConsentStatusForVendor('google');
+    if (consentStatus === undefined)
+    {
+        Didomi.on('consent.changed', function ()
+        {
+            removeEvents();
+
+            if (typeof adsJsPublico !== 'object')
+            {
+                return;
+            }
+
+            var newConsentStatus = Didomi.getUserConsentStatusForVendor('google');
+            if (newConsentStatus === true)
+            {
+                adsJsPublico.setPersonalizedAds();
+            }
+            else if (newConsentStatus === false)
+            {
+                adsJsPublico.setAnonymousAds();
+            }
+        });
+    }
+});</script>
+<script type="text/javascript" id="spcloader" src="https://sdk.privacy-center.org/loader.js" async></script>
+
+        <!--Adomik randomizer for ad call key value targeting-->
+<script type='text/javascript'>
+    window.Adomik = window.Adomik || {};
+    Adomik.randomAdGroup = function() {
+    var rand = Math.random();
+    switch (false) {
+        case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+        case !(rand < 0.10): return "ad_bc";
+        default: return "ad_opt";
+    }
+};
+</script>
+        <!-- Prebid -->
+<!-- <script src="/commons/js/ext/pb_publico_new.js" async=true></script> -->
+<script src="/commons/js/ext/pb_publico_new_v20181130.js" async=true></script>
+
+
+<script>
+var hb_bluemedia = "publico.es_interior";
+</script>
+
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(
+    function () {
+        googletag.pubads().disableInitialLoad();
+    }
+);
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script>
+ var pbjs = window.pbjs || { que: [] }; // if prebid is not already defined
+           window.pbjs = pbjs;
+       
+           pbjs.que.push(function() {
+                  pbjs.setPublicoConfig();
+           });
+</script>
+
+<script type="text/javascript">
+    var adsJsPublico = {
+        slots: [],
+
+        refresh: function(adUnits) {
+           if(adUnits === undefined || adUnits.length === 0) {
+               adUnits = adsJsPublico.slots;
+           }
+           
+           if(true){
+               adsJsPublico.pbRefresh(adUnits);
+            } else {
+               googletag.pubads().refresh(adUnits);
+            }
+        },
+       
+        pbRefresh: function(adUnits) {
+            var codes = [];
+
+            adUnits.forEach(function(slot){
+              codes.push(slot.getSlotElementId());
+            });
+           
+            pbjs.que.push(function() {
+                pbjs.refreshAds(codes);
+            });
+        },
+        isCookiePolicyEnabled: function() {
+           // Don't use before didomiOnReady
+           return typeof Didomi === 'object' && Didomi.getUserConsentStatusForVendor('google') === true;
+        },
+        isCookiePolicySet: function() {
+           // Don't use before didomiOnReady
+           return typeof Didomi === 'object' && Didomi.getUserConsentStatusForVendor('google') !== undefined;
+        },
+        setPersonalizedAds: function() {
+            googletag.cmd.push(function () {
+                googletag.pubads().setRequestNonPersonalizedAds(0);
+            });
+        },
+        setAnonymousAds: function() {
+            googletag.cmd.push(function () {
+                googletag.pubads().setRequestNonPersonalizedAds(1);
+            });
+        }
+    }
+</script>
+
+
+
+        <script type="text/javascript">
+                var categories_dfp = [];
+                                 categories_dfp.push('internacional');
+                        categories_dfp.push('actualidad');
+                            
+                var tags_dfp = []; 
+                
+                            var uniqueid_dfp = '417471';
+            </script>
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta property="fb:pages" content="75084861845" />
+        <meta property="fb:app_id" content="517569238253229" />
+        <meta name="msvalidate.01" content="E6BB6710574A367B83518AFC31086192" />
+        <title>Obama: "La gente me llama socialista, pero deberían conocer a uno de verdad" | Público</title>
+                    
+            <meta name="keywords" content="obama, gente, llama, socialista, deberían, conocer">
+                <meta property="article:tag" content="obama, gente, llama, socialista, deberían, conocer"/>
+        
+                <meta name="description" content="">
+    
+        <meta name="category" content="Internacional">
+        <meta name="category_slug" content="internacional">
+
+        <meta property="og:title" content="Obama: 'La gente me llama socialista, pero deberían conocer a uno de verdad'"/>
+            <meta property="og:description" content=""/>
+
+            <meta property="og:locale" content="es_ES"/>
+
+            <meta property="og:type" content="article"/>
+
+                    <meta property="article:section" content="Internacional"/>
+
+                            <meta property="og:url" content="https://www.publico.es/internacional/obama-gente-me-llama-socialista.html"/>
+
+    <link rel="canonical" href="https://www.publico.es/internacional/obama-gente-me-llama-socialista.html" />
+    <link rel="amphtml" href="https://m.publico.es/internacional/obama-gente-me-llama-socialista.html/amp" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.publico.es/internacional/obama-gente-me-llama-socialista.html" />
+
+
+        
+
+         
+
+
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@publico_es">
+    <meta name="twitter:title" content="Obama: &quot;La gente me llama socialista, pero deberían conocer a uno de verdad&quot;">
+    	    	  <meta name="twitter:description" content="Internacional: Obama: &quot;La gente me llama socialista, pero deberían conocer a uno de verdad&quot;">
+            
+                        <meta property="og:image" content="https://www.publico.es/commons/img/no-photo.jpg"/>
+     <meta name="twitter:image" content="https://www.publico.es/commons/img/no-photo.jpg">
+    
+        
+    
+
+
+                    <!-- Header -->
+        <link href="/commons/css/pbcommons.min.css?v=1.0.9.20181228" rel="stylesheet" />
+        <link href="/commons/css/pbmodules.min.css?v=1.0.9.20181228" rel="stylesheet" />         
+        <link href="/commons/css/font-awesome.min.css?v=1.0.9.20181228" rel="stylesheet" />
+                
+        <script src="/commons/js/jquery-3.1.0.min.js?v=1.0.9.20181228" type="text/javascript"></script>
+        <script src="/commons/js/tweenmax.min.js?v=1.0.9.20181228" type="text/javascript"></script>
+        <script src="/commons/js/pbcommons.js?v=1.0.9.20181228" type="text/javascript"></script>
+        
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" sizes="57x57" href="/commons/img/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/commons/img/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/commons/img/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/commons/img/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/commons/img/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/commons/img/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/commons/img/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/commons/img/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/commons/img/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/commons/img/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/commons/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/commons/img/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/commons/img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/commons/img/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/commons/img/favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">  
+                <!-- Google Sign-In -->
+        <script src="//apis.google.com/js/api:client.js"></script>
+
+	    	<script src="/commons/js/app-1.0.0.min.js?k=prod&v=1"></script>
+	
+            
+			        	<script src="/commons/js/pages/pb.page.article.js?v=1"></script>    
+		        		
+    
+    <script>
+    $(document).ready(function(){
+        pbPageController = new PageArticle();
+    });   
+    </script>
+        <meta name="theme-color" content="#ffffff">            
+
+            
+            	<link rel="stylesheet" href="/css/01be719.css?v=20181228">
+        <link href="/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+
+
+    <link href='/css/bxslider/jquery.bxslider.css' rel='stylesheet' type='text/css'>
+    <link href='/javascripts/lib/jquery/rateit/src/rateit.css' rel='stylesheet' type='text/css'>    
+    <link href="/commons/css/pbcomments.min.css" rel="stylesheet" />
+            
+        <script src="/js/global.js" type="text/javascript"></script>
+        <script src="/js/8a5b281.js" type="text/javascript"></script>
+    
+        
+            <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f6b0d0e4c8af507"></script>
+        
+	
+
+        <script type="text/javascript" src="/bundles/publicocms/javascripts/nwmatcher.min.js"></script>
+        <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/bundles/publicocms/javascripts/selectivizr-min.js"></script>
+        <link href="/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+        <![endif]-->    
+    
+
+        <script type="text/javascript" src="/javascripts/lib/jquery/wf_linked/jquery.wf_linked_selectors.js"></script> 
+
+        <script type="text/javascript" src="/javascripts/lib/jquery/raty/jquery.raty.min.js"></script> 
+
+
+            <script src="/js/06b2b57.js" type="text/javascript"></script>
+        
+            
+<script type="text/javascript">
+    
+       
+    var categories_dfp = [];
+                                     categories_dfp.push('internacional');
+                                            categories_dfp.push('actualidad');
+                            
+        
+    var tags_dfp = []; 
+        
+        
+            var uniqueid_dfp = '417471';
+    </script>
+
+
+    
+
+
+<script type="text/javascript">
+    dfpHasX01 = false;
+    dfpSolveDisplayConflicts = function(event) {
+        if (event.slot.getSlotElementId() == 'x01') {
+            dfpHasX01 = !event.isEmpty;
+            if (dfpHasX01) jQuery('body').addClass('skin');
+        }
+        if (event.slot.getSlotElementId() == 'x31' && dfpHasX01) {
+            jQuery('#x31').hide();
+        }
+        if (event.slot.getSlotElementId() == 'x41' && dfpHasX01) {
+            jQuery('#x41').hide();
+        }
+        if (event.slot.getSlotElementId() == 'Right1' && pbPage) {
+            try{
+                pbPage.resizeTopsPublicoModule();
+            } catch (e){
+                console.warn('Error redimensionando topspublico', e);
+            }
+        }
+    };
+    
+    googletag.cmd.push(function() {
+
+        
+                
+                
+
+       
+        adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Top', [[970,90], [990,90], [728,90], [990,250], [970,250], [990,200], [980,200]], 'Top').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+        adsJsPublico.slots.push(googletag.defineOutOfPageSlot('/34616581/publico.es/internacional_noticia_x01', 'x01').addService(googletag.pubads()));
+        adsJsPublico.slots.push(googletag.defineOutOfPageSlot('/34616581/publico.es/internacional_noticia_x02', 'x02').addService(googletag.pubads()));
+        adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_x31', [160,600], 'x31').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+        adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_x41', [160,600], 'x41').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+        
+                    adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Left1', [[468,60],[640,60]], 'Left1').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+            adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Bottom', [[990,90],[980,90],[970,90],[728,90]], 'Bottom').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+            
+            adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Right1', [[300,600],[300,250],[300,300]], 'Right1').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+            adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Right2', [[300,600],[300,250],[300,300]], 'Right2').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+            adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Right3', [[300,600],[300,250],[300,300]], 'Right3').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+            adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Right4', [[300,600],[300,250],[300,300]], 'Right4').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads()));
+            adsJsPublico.slots.push(googletag.defineSlot('/34616581/publico.es/internacional_noticia_Right5', [[300,600],[300,250],[300,300]], 'Right5').setTargeting('ad_group', Adomik.randomAdGroup()).setTargeting('ad_h', (new Date).getUTCHours().toString()).addService(googletag.pubads())); 
+        
+        
+        
+        
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.pubads().setCentering(true);
+        googletag.pubads().setTargeting("pu_hostname", location.hostname);
+        googletag.pubads().setTargeting("pu_pathname", location.pathname);
+        
+        if (uniqueid_dfp) { 
+            googletag.pubads().setTargeting("pu_uniqid", uniqueid_dfp);
+        }
+        
+        if (tags_dfp && tags_dfp.length > 0) { 
+            googletag.pubads().setTargeting("pu_tags", tags_dfp);
+        }
+        
+        googletag.pubads().setTargeting("pu_categories", categories_dfp);    
+        googletag.pubads().addEventListener('slotRenderEnded', dfpSolveDisplayConflicts);
+        googletag.enableServices();
+    });
+
+</script>
+<!-- /Fin Google GPT -->
+        
+<script>
+  dataLayer = [{'proyecto': 'xalok - layout_article'}];
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PTC4Z5');</script>
+<!-- End Google Tag Manager -->   
+        
+        
+    </head>
+    <body     class="article-page full-page section-internacional" data-page-id="417471" data-url="/internacional/obama-gente-me-llama-socialista.html" itemscope="itemscope" itemtype="https://schema.org/NewsArticle"
+>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTC4Z5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        <div id="x01">
+    <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('x01'); });
+    </script>
+</div>
+
+<div id="x02">
+    <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('x02'); });
+    </script>
+</div>            <div class="pbheader-main"><div class="main-header"><nav class="navbar main-navbar"><div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display --><div class="navbar-header row"><a class="CabeceraIconoPublico navbar-brand" href="https://www.publico.es"><img src="/commons/img/logo-white.png" alt="Público" /></a><div class="col-lg-6"><button class="CabeceraHamburguesaAbrir toggle-menu navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"><span class="CabeceraHamburguesaCerrar"></span></button></div><div class="col-lg-6"><a class="CabeceraIconoTJT navbar-brand-secondary" href="http://www.periodismotransparente.es/?utm_source=publico&utm_medium=desktop&utm_campaign=landing&utm_content=headerLogo" target="_blank"><img src="/commons/img/tjt/isotipo-white.svg" alt="Tj Tool, herramienta para crear el Mapa de Transparencia de la información" /></a><a href="#" class="search" data-toggle="collapse" data-target="#search-form" aria-expanded="false" aria-controls="search-form"><i class="fa fa-search"></i></a><a href="/my-account" class="my-account hidden" data-toggle="collapse" data-target="#my-account-info" aria-expanded="false" aria-controls="my-account-info"><% if(image) { %><img data-src="<%= image %>" alt="" /><% } else { %><i class="fa fa-user-circle" aria-hidden="true"></i><% } %></a><a href="https://comunidad.publico.es/ventajas?utm_medium=publico&amp;utm_campaign=lanzamiento&amp;utm_source=cabecera" class="CabeceraBotonUnetePublico signin highlight hidden" > Únete a Público </a><a href="/login" class="CabeceraBotonIniciarSesion login hidden" data-toggle="collapse" data-target="#login-info" aria-expanded="false" aria-controls="login-info"> Inicia sesión </a></div></div></div><!-- /.container --></nav></div><div class="collapse my-account-info" id="my-account-info"><div class="my-account-container"><div class="content"><button class="close active" data-toggle="collapse" data-target="#my-account-info"><span></span></button><div class="info hidden"><div class="avatar"><% if(image) { %><img src="<%= image %>" alt="" /><% } else { %><span class="<%= color %>"><%= firstLetter %></span><% } %></div><div class="text"><p><%= name %><span><%= email %></span></p><a href="https://comunidad.publico.es/usuario/datos" class="edit">Editar mi cuenta</a><a href="#" class="logout">Cerrar sesión</a></div></div></div></div></div><div class="collapse search-form" id="search-form"><button class="close active" data-toggle="collapse" data-target="#search-form"><span></span></button><div class="content"><div class="container"><form method="GET" action="//www.publico.es/search"><input type="text" id="query" name="query" placeholder="Buscar noticias, autores, opinión..."/><input type="submit" value="Buscar" /></form></div></div></div><div class="collapse login-info login-signin" id="login-info"><div class="login-container"><div class="content"><button class="close active" data-toggle="collapse" data-target="#login-info"><span></span></button><p class="title">Inicia sesión</p><p class="msg hidden"></p><ul class="buttons"><li class="email"><a href="#" id="btnUserLogin" data-toggle="collapse" data-target="#userandpass-info"><i class="fa fa-envelope-open-o" aria-hidden="true"></i>Entra con tu cuenta de correo</a></li><li class="facebook"><a href="#" id="btnFacebookLogin"><i class="fa fa-facebook" aria-hidden="true"></i>Entra con tu cuenta de Facebook</a></li><li class="google"><a href="#" id="btnGoogleLogin"><i class="fa fa-google" aria-hidden="true"></i>Entra con tu cuenta de Google</a></li></ul><p class="footer">¿No tienes usuario? <a href="https://comunidad.publico.es/ventajas?utm_medium=publico&amp;utm_campaign=lanzamiento&amp;utm_source=login" class="signin">Únete</a></p><p class="copy"><input type="checkbox" name="chk-ck" id="chk-ck"/> Si inicias sesión aceptas nuestra <a href="https://www.publico.es/aviso-legal" target="_blank">política de privacidad</a>.</p></div></div></div><div class="collapse login-info login-signin" id="userandpass-info"><div class="login-container"><div class="content"><button class="close active" data-toggle="collapse" data-target="#userandpass-info"><span></span></button><a href="#" title="Volver" class="prev" data-toggle="collapse" data-target="#login-info"><span></span></a><p class="title">Inicia sesión</p><p class="msg hidden"></p><p class="text">Introduce tu usuario y contraseña</p><form action="" method="post"><input name="user" id="user" type="email" value="" placeholder="Email" required /><input name="password" id="password" type="text" value="" placeholder="Contraseña" required /><div class="control control-checkbox remember">No cerrar la sesión
+        <input name="remember" id="remember" type="checkbox" checked /><div class="control_indicator"></div></div><button class="btn">Entrar</button></form><p class="footer"><a href="#" class="signin" data-toggle="collapse" data-target="#forgot-info">¿Olvidaste tu contraseña?</a></p></div></div></div><div class="collapse login-info login-signin" id="forgot-info"><div class="login-container"><div class="content"><button class="close active" data-toggle="collapse" data-target="#forgot-info"><span></span></button><a href="#" title="Volver" class="prev" data-toggle="collapse" data-target="#userandpass-info"><span></span></a><p class="title">Recuperar contraseña</p><p class="msg hidden"></p><p class="text">Indica tu cuenta de correo</p><form action="" method="post"><input name="user" id="user" type="email" value="" placeholder="Email" required /><button class="btn">Recuperar</button></form></div></div></div><div class="collapse navbar-collapse" id="navbar-collapse"><div class="container-fluid"><div class="row"><div class="menu col-lg-2"><ul class="nav navbar-nav"><li class="home"><a href="https://www.publico.es/">Portada</a></li><li><a href="https://www.publico.es/politica">Política</a></li><li><a href="https://blogs.publico.es">Opinión</a></li><li><a href="https://www.publico.es/internacional">Mundo</a></li><li><a href="https://www.publico.es/economia">Economía</a></li><li><a href="https://www.publico.es/sociedad">Mujer y Sociedad</a></li><li><a href="https://www.publico.es/sociedad/m-ambiente">Medio Ambiente</a></li><li><a href="https://www.publico.es/sociedad/educacion">Educación</a></li><li><a href="https://www.publico.es/sociedad/sanidad">Sanidad</a></li><li><a href="https://www.publico.es/sociedad/inmigracion">Inmigración</a></li><li><a href="https://www.publico.es/sociedad/derechos-humanos">Derechos Humanos</a></li><li><a href="https://www.publico.es/sociedad/maltrato-animal">Maltrato Animal</a></li><li><a href="https://www.publico.es/politica/memoria-publica">Memoria Pública</a></li><li><a href="https://www.publico.es/public">Públic</a></li><li><a href="https://www.publico.es/culturas">Cultura</a></li><li><a href="https://www.publico.es/tremending">Tremending</a></li><li><a href="https://www.publico.es/publico-tv">Público TV</a></li><li><a href="https://www.publico.es/videos">Videos</a></li></ul><div class="social-wrapper"><ul><li><a href="https://www.facebook.com/diario.publico" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/publico_es" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://plus.google.com/+P%C3%BAblico/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li><li><a href="https://www.youtube.com/channel/UCVimQoXNCZuEnZRVAbuYMiw" target="_blank"><i class="fa fa-youtube"></i></a></li><li><a href="https://telegram.me/publico_es" target="_blank"><i class="fa fa-paper-plane"></i></a></li></ul></div></div><section class="featured col-lg-6"><h1>Destacamos</h1><div class="row"><div class="item col-lg-6"><div class="image"><a href="https://www.publico.es/politica/ana-botella-equipo-condenados-pagar-25-millones-euros-venta-pisos-publicos-fondos-buitre.html"><img src="//ficheros.publico.es/resources/img-modulos-xalok/destacados/la-exalcaldesa-ana-botella-y-siete-cargos-de-su-equipo-condenados-a-pagar-23-millones-por-la-venta.jpg" alt="" /></a></div><a class="title" href="https://www.publico.es/politica/ana-botella-equipo-condenados-pagar-25-millones-euros-venta-pisos-publicos-fondos-buitre.html">La exalcaldesa Ana Botella y siete cargos de su equipo, condenados a pagar 23 millones por la venta ...</a></div><div class="item col-lg-6"><div class="image"><a href="https://www.publico.es/sociedad/asesinato-laura-luelmo-forenses-creen-laura-luelmo-no-murio-primer-dia.html"><img src="//ficheros.publico.es/resources/img-modulos-xalok/destacados/los-forenses-rechazan-la-version-de-la-guardia-civil-e-insisten-en-que-luelmo-no-murio-el-dia-de-la.jpg" alt="" /></a></div><a class="title" href="https://www.publico.es/sociedad/asesinato-laura-luelmo-forenses-creen-laura-luelmo-no-murio-primer-dia.html">Los forenses rechazan la versión de la Guardia Civil e insisten en que Luelmo no murió el día de la ...</a></div></div><div class="row"><div class="item col-lg-6"><div class="image"><a href="https://www.publico.es/internacional/incendio-nueva-york-luz-brillante-azul-provocada-incendio-ilumina-cielo-nueva-york.html"><img src="//ficheros.publico.es/resources/img-modulos-xalok/destacados/una-luz-brillante-azul-provocada-por-un-incendio-ilumina-el-cielo-de-nueva-york.jpg" alt="" /></a></div><a class="title" href="https://www.publico.es/internacional/incendio-nueva-york-luz-brillante-azul-provocada-incendio-ilumina-cielo-nueva-york.html">Una luz brillante azul provocada por un incendio ilumina el cielo de Nueva York</a></div><div class="item col-lg-6"><div class="image"><a href="https://www.publico.es/culturas/estreno-despues-jose-luis-cuerda-me-parece-espana-peor-peor.html"><img src="//ficheros.publico.es/resources/img-modulos-xalok/destacados/jose-luis-cuerda-me-parece-que-en-espana-todo-va-a-ir-a-peor-a-mucho-peor.jpg" alt="" /></a></div><a class="title" href="https://www.publico.es/culturas/estreno-despues-jose-luis-cuerda-me-parece-espana-peor-peor.html">José Luis Cuerda: &#039;Me parece que en España todo va a ir a peor, a mucho peor&#039;</a></div></div></section><section class="more col-lg-4"><h1>Tremending</h1><div class="row"><div class="item big col-lg-12"><div class="image"><a href="https://www.publico.es/tremending/2018/12/28/vivir-en-un-pais-en-el-que-condenan-a-ana-botella-y-que-la-gente-piense-que-es-una-inocentada/"><img src="//ficheros.publico.es/resources/img-modulos-xalok/destacados/vivir-en-un-pais-en-el-que-condenan-a-ana-botella-y-que-la-gente-piense-que-es-una-inocentada.jpg" alt="" /></a></div><a class="title" href="https://www.publico.es/tremending/2018/12/28/vivir-en-un-pais-en-el-que-condenan-a-ana-botella-y-que-la-gente-piense-que-es-una-inocentada/">Vivir en un país en el que condenan a Ana Botella y que la gente piense que es una inocentada</a></div></div><div class="row"><div class="item col-lg-6"><div class="image"><a href="https://blogs.publico.es/strambotic/2018/12/veinte-citas-falsas/"><img src="//ficheros.publico.es/resources/img-modulos-xalok/destacados/diecinueve-citas-falsas-y-una-autentica-para-mondarte-de-la-risa.jpg" alt="" /></a></div><a class="title" href="https://blogs.publico.es/strambotic/2018/12/veinte-citas-falsas/">Diecinueve citas falsas (y una auténtica) para mondarte de la risa</a></div><div class="item col-lg-6 video-icon"><div class="image"><a href="/publico-tv/otra-vuelta-de-tuerka/programa/732174/otra-vuelta-de-tuerka-paul-mason"><img src="//ficheros.publico.es/resources/img-modulos-xalok/destacados/otra-vuelta-de-tuerka-paul-mason.jpg" alt="" /></a></div><a class="title" href="/publico-tv/otra-vuelta-de-tuerka/programa/732174/otra-vuelta-de-tuerka-paul-mason">Otra Vuelta de Tuerka - Paul Mason</a></div></div></section></div></div></div><!-- /.navbar-collapse --></div>        
+        
+                  <div class="pbsubmenu-main">
+        <ul>
+        	<li class="main"><a href="https://www.publico.es/internacional">internacional</a></li>
+            <li><a href="https://www.publico.es/internacional/wikileaks">Wikileaks</a></li>
+            <li><a href="https://www.publico.es/internacional/europa">Europa</a></li>
+            <li><a href="https://www.publico.es/internacional/eeuu">EEUU</a></li>
+            <li><a href="https://www.publico.es/internacional/america-latina">América Latina</a></li>
+            <li><a href="https://www.publico.es/internacional/oriente-proximo">Oriente Próximo</a></li>
+            <li><a href="https://www.publico.es/internacional/africa">África</a></li>
+            <li><a href="https://www.publico.es/internacional/asia">Asia</a></li>
+        </ul>
+      </div>          
+<div class="container">
+    
+        <div class="publicidad top">
+    <div class="content">
+        <div class="megabanner top">
+            <div id="Top">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() { googletag.display('Top'); });
+                </script>
+            </div>	
+        </div>
+    </div>
+</div>
+    
+    <div class="main">
+	    <div class="content">
+	        <div class="ads-sky left">
+        <div id="x31" class="">
+            <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('x31'); });
+            </script>
+        </div>
+</div>
+
+	    
+                                                                   	    
+		
+					
+		
+    <div class="article-container">
+                    
+    <main class="article"><meta itemprop="mainEntityOfPage" content="https://www.publico.es">
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" class="article-publisher">
+                <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                    <meta itemprop="url" content="https://www.publico.es/images/base/logo_big.png">
+<img src="https://www.publico.es/images/base/logo_big.png" alt="Público">
+</div>
+                <span itemprop="name">Público</span>
+            </div>
+      
+            <div class="article-before-header">
+                        
+                            
+            </div>         
+            
+                 
+            <header class="article-header"><div class="article-header-title" itemprop="headline name">
+                    <div class="free-above-title">
+
+                        
+
+                    </div>                
+                    
+                <h1>
+<span></span> Obama: "La gente me llama socialista, pero deberían conocer a uno de verdad"</h1>
+</div>
+                <div class="article-header-epigraph" itemprop="description">
+                    
+                <p>"La última vez que miré la bolsa de valores lo estaba haciendo bastante bien", ironiza el presidente de EEUU</p>
+</div>
+            </header><div class="article-content">
+                <div class="column left-side">
+                                                                                <ul class="social">
+<li class="facebook popup"><a class="HerramientasShareTop" href="https://www.facebook.com/sharer/sharer.php?u=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="popup"><i class="fa fa-facebook"></i></a></li>
+    <li class="twitter popup"><a class="HerramientasShareTop" href="https://twitter.com/share?url=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dweb&amp;via=publico_es&amp;text=Obama:%20'La%20gente%20me%20llama%20socialista,%20pero%20deber%C3%ADan%20conocer%20a%20uno%20de%20verdad'" target="popup"><i class="fa fa-twitter"></i></a></li>
+    <li class="linkedin popup"><a class="HerramientasShareTop" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=&amp;summary=&amp;source=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="popup"><i class="fa fa-linkedin"></i></a></li>
+    <li class="meneame popup"><a class="HerramientasShareTop" href="https://www.meneame.net/submit?url=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dmeneame%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="popup"></a></li>
+        </ul>
+<div class="article-header-free publicidad">
+                        <span>Publicidad</span>
+                        <div class="content">
+                                                        <div class="publicidad after-title">
+    <div class="content">
+        <div class="megabanner after-title">
+            <div id="Left1">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() { googletag.display('Left1'); });
+                </script>
+</div>	
+        </div>
+    </div>
+</div>
+   
+                                                 
+                        </div>
+                    </div>
+                    
+                                    <div class="article-bar">
+                <div class="rating simple" data-id="417471">
+        
+                    <div class="rateit" data-rateit-step="1" data-rateit-value="0" data-rateit-max="5" data-rateit-resetable="false" ></div>
+        
+                    <div class='votes-average'>Media: 0</div>
+                <div class='votes-count'>Votos: <span class="number">0</span></div>
+        
+    </div>
+<ul class="actions">
+<li>
+            <a href="#" class="HerramientasBotonEmail addthis_button_email mail">
+                <i class="fa fa-envelope"></i> Email
+            </a>
+        </li>
+                    <li>
+                <a class="HerramientasBotonImprimir addthis_button_print">
+                   <i class="fa fa-print"></i> Imprimir
+                </a>
+            </li>
+                            <li class="zoom">
+                <div class="HerramientasBotonAumentar zoom-plus">A+</div>
+                <div class="HerramientasBotonDisminuir zoom-minus">a-</div>
+            </li>
+            </ul>
+</div>
+                
+                    <div class="article-multimedia-content">
+                                                                            
+
+                            
+                            
+                            
+
+                            
+                            
+                                            <div class="image " id="m108-107-109" style="background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; background-position: initial initial; background-repeat: initial initial; "><img class="ImagenAperturaClick" itemprop="image" src="/files/article_main/uploads//2014/12/13/548b7d29d97aa.jpg"></div>
+</div>
+
+                    <div class="article-body">
+                    
+                        <div class="relacionadas">
+                        </div>
+
+                        <footer><div class="article-published-info">
+                                <div class="place-container">
+                                           
+                                </div>                  
+                                                                <div class="published-info">
+                                    <time itemprop="datePublished" datetime="2013-11-19T22:52:00+01:00" data-timestamp="1384897920"><a href="/archive/2013-11-19"><span class="published" data-timestamp="1384897920">19/11/2013 22:52</span></a></time><span class="separator"><i class="fa fa-circle" aria-hidden="true"></i></span>
+                                    <span>Actualizado: </span>
+                                    <time itemprop="dateModified" datetime="2013-11-19T22:52:00+01:00" data-timestamp="1384897920"><a href="/archive/2013-11-19"><span class="published" data-timestamp="1384897920">19/11/2013 22:52</span></a></time>
+</div>
+                                                            </div>                        
+                            <div class="article-info" itemprop="author">
+                                
+                                
+                            <p class="signature" id="m95-94-96">EFE</p>
+</div>       
+                        </footer><div class="article-text" itemprop="articleBody">
+                            
+                                                        
+                                                                                    
+
+                            
+                            
+                            
+
+                            
+                            
+                        
+                        <p id="m43-2-44">El presidente estadounidense, Barack Obama, bromeó este martes al decir que aquellos que le acusan de ser socialista 'deberían conocer a uno de verdad', y reiteró su compromiso con la economía de mercado</p>
+<p id="m43-2-44">'La gente me llama socialista, pero deberían conocer a uno de verdad. La última vez que miré la bolsa de valores lo estaba haciendo bastante bien', ironizó Obama sobre el buen comportamiento de Wall Street, que está actualmente en máximos históricos.</p>
+<p id="m43-2-44">Asimismo, insistió en que la reforma sanitaria que ha impulsado está basada en el mercado privado y recordó que ha propuesto una bajada de impuestos a las empresas.</p>
+<p id="m43-2-44">'Es cierto que estoy preocupado con la creciente desigualdad en nuestro sistema, pero nadie cuestiona la eficacia de las economías de mercado en términos de generación de riqueza, innovación y mantenernos competitivos', dijo ante un foro empresarial organizado por el diario The Wall Street Journal.</p>
+<p id="m43-2-44">Obama es objeto a menudo de críticas por parte de los sectores más extremos de la derecha en EEUU, especialmente el movimiento ultraconservador del Tea Party, que lo acusa de impulsar la expansión del gobierno federal y arrinconar así la iniciativa privada.</p>
+</div>
+                    </div>
+
+                                        
+                    
+
+		                                
+                                            
+                                                    <div class="subscription-claim hidden">
+	<div class="title">
+		<p>Sabemos que te preocupa lo que ocurre fuera de nuestras fronteras, hazlo posible</p>
+	</div>
+	<div class="text">
+		<p>Estás leyendo esta noticia porque nuestro periodismo no solo se centra en lo que ocurre en el Estado español, pues no podemos entender lo que ocurre sin un contexto global. Pero para eso necesitamos más recursos.</p>
+		<p><a href="https://comunidad.publico.es/unete/datos?utm_medium=publico&amp;utm_campaign=lanzamiento&amp;utm_source=pie_maq">¿Nos ayudas a seguir fortaleciendo nuestro trabajo internacional?</a></p>
+		<p>Con 6 € al mes estarás defendiendo la honestidad, la valentía y el rigor. Únete a La Comunidad de Público para potenciar el valor de las personas, sin importar el lugar donde estén.</p>
+	</div>
+	<a href="https://comunidad.publico.es/unete/datos?utm_medium=publico&amp;utm_campaign=lanzamiento&amp;utm_source=pie_maq" class="btn">únete a nosotros</a>
+
+</div>                                            
+                    
+                    <div class="article-tags">
+                        <div class="box-title">Etiquetas</div>
+                        <ul>
+<li>
+                            <a href="/internacional">Internacional</a>
+                        </li>    
+                                                  
+                        </ul>
+</div>
+                    
+
+                                        <ul class="social">
+<li class="facebook popup"><a class="HerramientasShareBottom" href="https://www.facebook.com/sharer/sharer.php?u=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="popup"><i class="fa fa-facebook"></i></a></li>
+    <li class="twitter popup"><a class="HerramientasShareBottom" href="https://twitter.com/share?url=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dweb&amp;via=publico_es&amp;text=Obama:%20'La%20gente%20me%20llama%20socialista,%20pero%20deber%C3%ADan%20conocer%20a%20uno%20de%20verdad'" target="popup"><i class="fa fa-twitter"></i></a></li>
+    <li class="linkedin popup"><a class="HerramientasShareBottom" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=&amp;summary=&amp;source=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="popup"><i class="fa fa-linkedin"></i></a></li>
+    <li class="meneame popup"><a class="HerramientasShareBottom" href="https://www.meneame.net/submit?url=https://www.publico.es/internacional/obama-gente-me-llama-socialista.html%3Futm_source%3Dmeneame%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="popup"></a></li>
+        </ul>
+<div class="container-ads ligatusbottom">
+                        		<div class="ligatus"> <div id="lig_publico_smartbox_2"></div> </div>
+	   
+                    </div>
+                        
+
+                    
+                    <div class="article-comments" id="article-comments" itemprop="comment">
+                                                    		
+		<div id="comments-container" class="hidden">
+			<p id="login-msg" class="msg warning"><span>Comentarios </span>Tenemos novedades en el área de comentarios: sólo los miembros de la Comunidad de Público pueden debatir o comentar nuestras noticias (<a href="https://comunidad.publico.es/ventajas?utm_medium=publico&amp;utm_campaign=lanzamiento&amp;utm_source=comments">puedes unirte aquí</a>). Si únicamente deseas leer los comentarios, antes debes <a href="#" class="login" data-toggle="collapse" data-target="#login-info" aria-expanded="false" aria-controls="login-info">iniciar sesión</a>.</p>
+			<div class="container hidden">
+				<p class="title">Comentarios</p>
+				&lt;% if(canWriteComments) { %&gt;
+				<form id="write-comment">
+					<div class="content">
+						<textarea name="comment" class="comment-box" placeholder="Únete a la conversación..." required="required"></textarea><input class="hidden send" type="submit" value="Enviar"><a class="discard hidden" href="#">Descartar</a>					
+						<p class="rules hidden">
+														<a href="https://www.publico.es/pages/normas-comentarios-comunidad-publico.html" target="_blank">Recuerda las normas de la comunidad.</a>
+													</p>
+					</div>
+				</form>		
+				&lt;% } else { %&gt;
+				<p id="subscribers-msg">Para poder comentar en esta noticia antes tienes que unirte a la comunidad de Público, <a href="https://comunidad.publico.es/ventajas?utm_medium=publico&amp;utm_campaign=lanzamiento&amp;utm_source=comments">puedes hacerlo aquí</a>.</p>			
+				&lt;% } %&gt;
+				<div class="info">
+					<p class="count">Comentarios: <span itemprop="commentCount"></span></p>
+					<div class="order-by">
+						<button class="dropbtn" data-order-by="newest">Ordenar por <span>los más nuevos</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+						<div class="dropdown-content">
+							<a id="order-by-newest" data-order-by="newest" label-order-by="los más nuevos" href="#">Comentarios más nuevos</a>
+							<a id="order-by-oldest" data-order-by="oldest" label-order-by="los más antiguos" href="#">Comentarios más antiguos</a>
+						</div>			
+					</div>
+				</div>
+				<ul class="comments">
+				&lt;% if(_.allKeys(comments).length &gt; 0) { %&gt;
+					&lt;% _.each(comments, function(comment) { %&gt;
+					<li id="comment-&lt;%= comment.id %&gt;" class="comment new" data-id="&lt;%= comment.id %&gt;" data-size-proccessed="false">
+						<div class="content-image">
+							&lt;% if(comment.user.image) { %&gt;
+							<img data-src="&lt;%= comment.user.image %&gt;" alt="&lt;%= comment.user.username %&gt;">
+							&lt;% } else { %&gt;
+							<span class="&lt;%= comment.user.color %&gt;">&lt;%= comment.user.firstLetter %&gt;</span>
+							&lt;% } %&gt;
+						</div>
+						<div class="content-text">
+							<span class="name">&lt;%= comment.user.username %&gt;</span>
+							<div class="tooltip tooltip-effect-1 published">
+								<span class="tooltip-item">&lt;%= comment.published %&gt;</span>
+								<div class="tooltip-content clearfix">
+									&lt;%= comment.dateTime %&gt;
+								</div>
+							</div>	
+							<div class="text">&lt;%= comment.text %&gt;</div>
+							<div class="actions">
+								<div class="vote-container">
+									<div class="vote">
+										<div class="tooltip tooltip-effect-1">
+											&lt;% if (comment.actions.selected &amp;&amp; comment.actions.selected != '') { %&gt;
+											<span class="tooltip-item active disabled">
+																						&lt;% if (comment.actions.selected == 'love') { %&gt;
+											<img src="/commons/svg/emojis/love.svg"><span>Me encanta</span>
+											&lt;% } %&gt;
+																						&lt;% if (comment.actions.selected == 'laugh') { %&gt;
+											<img src="/commons/svg/emojis/laugh.svg"><span>Me parto</span>
+											&lt;% } %&gt;
+																						&lt;% if (comment.actions.selected == 'dizzy') { %&gt;
+											<img src="/commons/svg/emojis/dizzy.svg"><span>Flipo</span>
+											&lt;% } %&gt;
+																						&lt;% if (comment.actions.selected == 'cry') { %&gt;
+											<img src="/commons/svg/emojis/cry.svg"><span>Me entristece</span>
+											&lt;% } %&gt;
+																						&lt;% if (comment.actions.selected == 'pout') { %&gt;
+											<img src="/commons/svg/emojis/pout.svg"><span>Me cabrea</span>
+											&lt;% } %&gt;
+																						&lt;% if (comment.actions.selected == 'sleep') { %&gt;
+											<img src="/commons/svg/emojis/sleep.svg"><span>Qué aburrimiento</span>
+											&lt;% } %&gt;
+																						&lt;% if (comment.actions.selected == 'mute') { %&gt;
+											<img src="/commons/svg/emojis/mute.svg"><span>Sin palabras</span>
+											&lt;% } %&gt;
+																						</span>
+											&lt;% } else { %&gt;
+											<span class="tooltip-item disabled">¿cómo te quedas?</span>
+											&lt;% } %&gt;
+											&lt;% if(canWriteComments) { %&gt;
+											<div class="tooltip-content clearfix">
+												<ul>
+<li><a href="#" data-id="love" class="item love"><img src="/commons/svg/emojis/love.svg"><span>Me encanta</span></a></li>
+																										<li><a href="#" data-id="laugh" class="item laugh"><img src="/commons/svg/emojis/laugh.svg"><span>Me parto</span></a></li>
+																										<li><a href="#" data-id="dizzy" class="item dizzy"><img src="/commons/svg/emojis/dizzy.svg"><span>Flipo</span></a></li>
+																										<li><a href="#" data-id="cry" class="item cry"><img src="/commons/svg/emojis/cry.svg"><span>Me entristece</span></a></li>
+																										<li><a href="#" data-id="pout" class="item pout"><img src="/commons/svg/emojis/pout.svg"><span>Me cabrea</span></a></li>
+																										<li><a href="#" data-id="sleep" class="item sleep"><img src="/commons/svg/emojis/sleep.svg"><span>Qué aburrimiento</span></a></li>
+																										<li><a href="#" data-id="mute" class="item mute"><img src="/commons/svg/emojis/mute.svg"><span>Sin palabras</span></a></li>
+																									</ul>
+</div>
+											&lt;% } %&gt;
+										</div>		
+									</div>		
+
+								<div class="voting">
+									<ul>
+																				&lt;% if (comment.actions.love &amp;&amp; comment.actions.love &gt; 0) { %&gt;
+										<li class="item love">
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item"><img src="/commons/svg/emojis/love.svg"></span>
+												<div class="tooltip-content clearfix"><p>Me encanta: <span>&lt;%= comment.actions.love %&gt;</span></p></div>
+											</div>	
+										</li>
+										&lt;% } %&gt;
+																				&lt;% if (comment.actions.laugh &amp;&amp; comment.actions.laugh &gt; 0) { %&gt;
+										<li class="item laugh">
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item"><img src="/commons/svg/emojis/laugh.svg"></span>
+												<div class="tooltip-content clearfix"><p>Me parto: <span>&lt;%= comment.actions.laugh %&gt;</span></p></div>
+											</div>	
+										</li>
+										&lt;% } %&gt;
+																				&lt;% if (comment.actions.dizzy &amp;&amp; comment.actions.dizzy &gt; 0) { %&gt;
+										<li class="item dizzy">
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item"><img src="/commons/svg/emojis/dizzy.svg"></span>
+												<div class="tooltip-content clearfix"><p>Flipo: <span>&lt;%= comment.actions.dizzy %&gt;</span></p></div>
+											</div>	
+										</li>
+										&lt;% } %&gt;
+																				&lt;% if (comment.actions.cry &amp;&amp; comment.actions.cry &gt; 0) { %&gt;
+										<li class="item cry">
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item"><img src="/commons/svg/emojis/cry.svg"></span>
+												<div class="tooltip-content clearfix"><p>Me entristece: <span>&lt;%= comment.actions.cry %&gt;</span></p></div>
+											</div>	
+										</li>
+										&lt;% } %&gt;
+																				&lt;% if (comment.actions.pout &amp;&amp; comment.actions.pout &gt; 0) { %&gt;
+										<li class="item pout">
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item"><img src="/commons/svg/emojis/pout.svg"></span>
+												<div class="tooltip-content clearfix"><p>Me cabrea: <span>&lt;%= comment.actions.pout %&gt;</span></p></div>
+											</div>	
+										</li>
+										&lt;% } %&gt;
+																				&lt;% if (comment.actions.sleep &amp;&amp; comment.actions.sleep &gt; 0) { %&gt;
+										<li class="item sleep">
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item"><img src="/commons/svg/emojis/sleep.svg"></span>
+												<div class="tooltip-content clearfix"><p>Qué aburrimiento: <span>&lt;%= comment.actions.sleep %&gt;</span></p></div>
+											</div>	
+										</li>
+										&lt;% } %&gt;
+																				&lt;% if (comment.actions.mute &amp;&amp; comment.actions.mute &gt; 0) { %&gt;
+										<li class="item mute">
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item"><img src="/commons/svg/emojis/mute.svg"></span>
+												<div class="tooltip-content clearfix"><p>Sin palabras: <span>&lt;%= comment.actions.mute %&gt;</span></p></div>
+											</div>	
+										</li>
+										&lt;% } %&gt;
+																				&lt;% if(comment.actions.count == 0){ %&gt;
+										<li class="item total hidden">
+										&lt;% } else { %&gt;
+										</li>
+<li class="item total">
+										&lt;% } %&gt;
+											<div class="tooltip tooltip-effect-1 count-info">
+												<span class="tooltip-item">&lt;%= comment.actions.count %&gt;</span>
+												<div class="tooltip-content clearfix">
+																								&lt;% if (comment.actions.love &amp;&amp; comment.actions.love &gt; 0) { %&gt;
+													<p>Me encanta: <span>&lt;%= comment.actions.love %&gt;</span></p>
+												&lt;% } %&gt;
+																								&lt;% if (comment.actions.laugh &amp;&amp; comment.actions.laugh &gt; 0) { %&gt;
+													<p>Me parto: <span>&lt;%= comment.actions.laugh %&gt;</span></p>
+												&lt;% } %&gt;
+																								&lt;% if (comment.actions.dizzy &amp;&amp; comment.actions.dizzy &gt; 0) { %&gt;
+													<p>Flipo: <span>&lt;%= comment.actions.dizzy %&gt;</span></p>
+												&lt;% } %&gt;
+																								&lt;% if (comment.actions.cry &amp;&amp; comment.actions.cry &gt; 0) { %&gt;
+													<p>Me entristece: <span>&lt;%= comment.actions.cry %&gt;</span></p>
+												&lt;% } %&gt;
+																								&lt;% if (comment.actions.pout &amp;&amp; comment.actions.pout &gt; 0) { %&gt;
+													<p>Me cabrea: <span>&lt;%= comment.actions.pout %&gt;</span></p>
+												&lt;% } %&gt;
+																								&lt;% if (comment.actions.sleep &amp;&amp; comment.actions.sleep &gt; 0) { %&gt;
+													<p>Qué aburrimiento: <span>&lt;%= comment.actions.sleep %&gt;</span></p>
+												&lt;% } %&gt;
+																								&lt;% if (comment.actions.mute &amp;&amp; comment.actions.mute &gt; 0) { %&gt;
+													<p>Sin palabras: <span>&lt;%= comment.actions.mute %&gt;</span></p>
+												&lt;% } %&gt;
+																								</div>
+											</div>	
+										</li>									
+									</ul>
+</div>		
+							</div>
+							<div class="response-content">								
+								<a href="#" class="response-count disabled"></a>							
+								<a href="#" class="response disabled">Responder</a>								
+							</div>					
+						</div>
+						</div>
+						&lt;% if(_.allKeys(comment.children.models).length &gt; 0) { %&gt;
+						<ul class="children hidden">
+							&lt;% _.each(comment.children.models, function(children) { %&gt;
+							&lt;% children = children.toJSON() %&gt;	
+							<li id="comment-&lt;%= children.id %&gt;" class="comment new" data-id="&lt;%= children.id %&gt;" data-size-proccessed="false">
+								<div class="content-image">
+									&lt;% if(children.user.image) { %&gt;
+									<img data-src="&lt;%= children.user.image %&gt;" alt="&lt;%= children.user.username %&gt;">
+									&lt;% } else { %&gt;
+									<span class="&lt;%= children.user.color %&gt;">&lt;%= children.user.firstLetter %&gt;</span>
+									&lt;% } %&gt;
+								</div>
+								<div class="content-text">
+									&lt;% if(children.parent.id != comment.id) { %&gt;
+									<a href="#" data-id="&lt;%= children.parent.id %&gt;" class="response-to"><i class="fa fa-reply" aria-hidden="true"></i> en respuesta a &lt;%= children.parent.username %&gt;</a>
+									&lt;% } %&gt;							
+									<span class="name">&lt;%= children.user.username %&gt;</span>
+									<div class="tooltip tooltip-effect-1 published">
+										<span class="tooltip-item">&lt;%= children.published %&gt;</span>
+										<div class="tooltip-content clearfix">
+											&lt;%= children.dateTime %&gt;
+										</div>
+									</div>	
+									<div class="text">&lt;%= children.text %&gt;</div>			
+									<div class="actions">
+										<div class="vote-container">
+											<div class="vote">
+												<div class="tooltip tooltip-effect-1">
+													&lt;% if (children.actions.selected &amp;&amp; children.actions.selected != '') { %&gt;
+													<span class="tooltip-item active">
+																										&lt;% if (children.actions.selected == 'love') { %&gt;
+													<img src="/commons/svg/emojis/love.svg"><span>Me encanta</span>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.selected == 'laugh') { %&gt;
+													<img src="/commons/svg/emojis/laugh.svg"><span>Me parto</span>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.selected == 'dizzy') { %&gt;
+													<img src="/commons/svg/emojis/dizzy.svg"><span>Flipo</span>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.selected == 'cry') { %&gt;
+													<img src="/commons/svg/emojis/cry.svg"><span>Me entristece</span>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.selected == 'pout') { %&gt;
+													<img src="/commons/svg/emojis/pout.svg"><span>Me cabrea</span>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.selected == 'sleep') { %&gt;
+													<img src="/commons/svg/emojis/sleep.svg"><span>Qué aburrimiento</span>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.selected == 'mute') { %&gt;
+													<img src="/commons/svg/emojis/mute.svg"><span>Sin palabras</span>
+													&lt;% } %&gt;
+																										</span>
+													&lt;% } else { %&gt;
+													<span class="tooltip-item">¿cómo te quedas?</span>
+													&lt;% } %&gt;													
+													<div class="tooltip-content clearfix">
+														<ul>
+<li><a href="#" data-id="love" class="item love"><img src="/commons/svg/emojis/love.svg"><span>Me encanta</span></a></li>
+																														<li><a href="#" data-id="laugh" class="item laugh"><img src="/commons/svg/emojis/laugh.svg"><span>Me parto</span></a></li>
+																														<li><a href="#" data-id="dizzy" class="item dizzy"><img src="/commons/svg/emojis/dizzy.svg"><span>Flipo</span></a></li>
+																														<li><a href="#" data-id="cry" class="item cry"><img src="/commons/svg/emojis/cry.svg"><span>Me entristece</span></a></li>
+																														<li><a href="#" data-id="pout" class="item pout"><img src="/commons/svg/emojis/pout.svg"><span>Me cabrea</span></a></li>
+																														<li><a href="#" data-id="sleep" class="item sleep"><img src="/commons/svg/emojis/sleep.svg"><span>Qué aburrimiento</span></a></li>
+																														<li><a href="#" data-id="mute" class="item mute"><img src="/commons/svg/emojis/mute.svg"><span>Sin palabras</span></a></li>
+																													</ul>
+</div>
+												</div>		
+											</div>		
+
+											<div class="voting">
+												<ul>
+																										&lt;% if (children.actions.love &amp;&amp; children.actions.love &gt; 0) { %&gt;
+													<li class="item love">
+														<div class="tooltip tooltip-effect-1 count-info">
+<span class="tooltip-item"><img src="/commons/svg/emojis/love.svg"></span><div class="tooltip-content clearfix"><p>Me encanta: <span>&lt;%= children.actions.love %&gt;</span></p></div>
+</div>	
+													</li>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.laugh &amp;&amp; children.actions.laugh &gt; 0) { %&gt;
+													<li class="item laugh">
+														<div class="tooltip tooltip-effect-1 count-info">
+<span class="tooltip-item"><img src="/commons/svg/emojis/laugh.svg"></span><div class="tooltip-content clearfix"><p>Me parto: <span>&lt;%= children.actions.laugh %&gt;</span></p></div>
+</div>	
+													</li>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.dizzy &amp;&amp; children.actions.dizzy &gt; 0) { %&gt;
+													<li class="item dizzy">
+														<div class="tooltip tooltip-effect-1 count-info">
+<span class="tooltip-item"><img src="/commons/svg/emojis/dizzy.svg"></span><div class="tooltip-content clearfix"><p>Flipo: <span>&lt;%= children.actions.dizzy %&gt;</span></p></div>
+</div>	
+													</li>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.cry &amp;&amp; children.actions.cry &gt; 0) { %&gt;
+													<li class="item cry">
+														<div class="tooltip tooltip-effect-1 count-info">
+<span class="tooltip-item"><img src="/commons/svg/emojis/cry.svg"></span><div class="tooltip-content clearfix"><p>Me entristece: <span>&lt;%= children.actions.cry %&gt;</span></p></div>
+</div>	
+													</li>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.pout &amp;&amp; children.actions.pout &gt; 0) { %&gt;
+													<li class="item pout">
+														<div class="tooltip tooltip-effect-1 count-info">
+<span class="tooltip-item"><img src="/commons/svg/emojis/pout.svg"></span><div class="tooltip-content clearfix"><p>Me cabrea: <span>&lt;%= children.actions.pout %&gt;</span></p></div>
+</div>	
+													</li>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.sleep &amp;&amp; children.actions.sleep &gt; 0) { %&gt;
+													<li class="item sleep">
+														<div class="tooltip tooltip-effect-1 count-info">
+<span class="tooltip-item"><img src="/commons/svg/emojis/sleep.svg"></span><div class="tooltip-content clearfix"><p>Qué aburrimiento: <span>&lt;%= children.actions.sleep %&gt;</span></p></div>
+</div>	
+													</li>
+													&lt;% } %&gt;
+																										&lt;% if (children.actions.mute &amp;&amp; children.actions.mute &gt; 0) { %&gt;
+													<li class="item mute">
+														<div class="tooltip tooltip-effect-1 count-info">
+<span class="tooltip-item"><img src="/commons/svg/emojis/mute.svg"></span><div class="tooltip-content clearfix"><p>Sin palabras: <span>&lt;%= children.actions.mute %&gt;</span></p></div>
+</div>	
+													</li>
+													&lt;% } %&gt;
+																										&lt;% if(children.actions.count == 0){ %&gt;
+													<li class="item total hidden">
+													&lt;% } else { %&gt;
+													</li>
+<li class="item total">
+													&lt;% } %&gt;
+														<div class="tooltip tooltip-effect-1 count-info">
+															<span class="tooltip-item">&lt;%= children.actions.count %&gt;</span>
+															<div class="tooltip-content clearfix">
+																														&lt;% if (children.actions.love &amp;&amp; children.actions.love &gt; 0) { %&gt;
+																<p>Me encanta: <span>&lt;%= children.actions.love %&gt;</span></p>
+															&lt;% } %&gt;
+																														&lt;% if (children.actions.laugh &amp;&amp; children.actions.laugh &gt; 0) { %&gt;
+																<p>Me parto: <span>&lt;%= children.actions.laugh %&gt;</span></p>
+															&lt;% } %&gt;
+																														&lt;% if (children.actions.dizzy &amp;&amp; children.actions.dizzy &gt; 0) { %&gt;
+																<p>Flipo: <span>&lt;%= children.actions.dizzy %&gt;</span></p>
+															&lt;% } %&gt;
+																														&lt;% if (children.actions.cry &amp;&amp; children.actions.cry &gt; 0) { %&gt;
+																<p>Me entristece: <span>&lt;%= children.actions.cry %&gt;</span></p>
+															&lt;% } %&gt;
+																														&lt;% if (children.actions.pout &amp;&amp; children.actions.pout &gt; 0) { %&gt;
+																<p>Me cabrea: <span>&lt;%= children.actions.pout %&gt;</span></p>
+															&lt;% } %&gt;
+																														&lt;% if (children.actions.sleep &amp;&amp; children.actions.sleep &gt; 0) { %&gt;
+																<p>Qué aburrimiento: <span>&lt;%= children.actions.sleep %&gt;</span></p>
+															&lt;% } %&gt;
+																														&lt;% if (children.actions.mute &amp;&amp; children.actions.mute &gt; 0) { %&gt;
+																<p>Sin palabras: <span>&lt;%= children.actions.mute %&gt;</span></p>
+															&lt;% } %&gt;
+																														</div>
+														</div>	
+													</li>									
+												</ul>
+</div>															
+										</div>			
+										<div class="response-content">				
+											<a href="#" class="response disabled">Responder</a>
+										</div>
+									</div>
+								</div>
+							</li>		
+							&lt;% }); %&gt;
+						</ul>
+						&lt;% } %&gt;
+						&lt;% if(canWriteComments) { %&gt;
+							<form class="response-form hidden disabled">
+								<div class="content">
+									<textarea name="comment" class="comment-box" placeholder="" required></textarea><input type="submit" class="send disabled" value="Enviar"><a class="discard disabled" href="#">Descartar</a>
+									<input class="parent" name="parent" type="hidden" value=""><p class="rules">
+																				<a href="https://www.publico.es/pages/normas-comentarios-comunidad-publico.html" target="_blank">Recuerda las normas de la comunidad.</a>
+																			</p>
+								</div>
+							</form>
+						&lt;% } %&gt;
+					</li>
+					&lt;% }); %&gt;
+				&lt;% } else { %&gt;
+					<li class="no-rows">No hay comentarios para esta noticia.</li>
+				&lt;% } %&gt;
+				</ul>
+<a href="#" class="load-more btn hidden">Mostrar más comentarios</a>
+			</div>
+		</div>
+                                            </div>
+
+                    
+                </div>
+                                <div class="column right-side">
+                                
+                                                                <div class="sidebar">
+
+    <div class="combined-modules ads" id="m234-233-235">            <div class="ads r1 robapaginas" id="m238-237-239"><div id="Right1" class="js-ads-fixed"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("Right1"); });</script></div></div>
+</div>
+<div class="html" id="m245-1-246">
+<div class="pbmodule-ranking"> <div class="preloader"> <i class="fa fa-spin fa-circle-o-notch"></i> </div> </div>
+</div>
+<div class="html" id="m250-2-251"><div class="tjt-widget">
+	<div class="header">
+		<a href="http://www.periodismotransparente.es/?utm_source=publico&amp;utm_medium=desktop&amp;utm_campaign=landing&amp;utm_content=sidebarNews" class="logo-header" target="_blank"><img src="/commons/img/tjt/mapa_transparencia.svg" alt=""></a>
+		<a href="http://www.periodismotransparente.es/?utm_source=publico&amp;utm_medium=desktop&amp;utm_campaign=landing&amp;utm_content=sidebarNews" class="header-text" target="_blank">¿Qué es y por qué <br>es importante?</a>
+	</div>
+	<div class="content">
+		<a href="http://www.periodismotransparente.es/?utm_source=publico&amp;utm_medium=desktop&amp;utm_campaign=landing&amp;utm_content=sidebarNews" target="_blank">
+			<p class="pretitle">A partir de ahora</p>
+			<p class="claim"><img src="" data-img="/commons/img/logo-white.png" alt="Público" class="publico-logo"><img src="/commons/img/logo-blue.png" alt="Público" class="publico-logo hidden"> se escribe con</p>
+			<p class="tjt-iso-logo"><img src="/commons/img/tjt/isotipo-white.svg" alt=""><img src="/commons/img/tjt/isotipo-color.svg" class="hidden" alt=""></p>
+			<p class="text">Te presentamos nuestro mapa de transparencia. Creado para lectores exigentes como tú</p>
+		</a>
+	</div>
+</div></div>
+<div class="combined-modules ads" id="m255-3-256">            <div class="ads r2 robapaginas" id="m259-258-260"><div id="Right2"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("Right2"); });</script></div></div>
+</div>
+<aside class="seleccion-publico" id="m266-4-267"><h1>Selección Publico</h1>            <ul class="seleccion-container" id="m270-269-271">
+<li class="page-item" id="m274-273-275" data-collection="m270-269-271">                <div class="image page-image-container"><a id="m278-277-279" class="ModuloSeleccionPublico page-image page-link" href="/politica/ana-botella-equipo-condenados-pagar-25-millones-euros-venta-pisos-publicos-fondos-buitre.html" style="background: none;"><img alt="Ana Botella, exalcaldesa de Madrid y  encargada de la venta de viviendas sociales a los fondos buitre/EFE" src="" data-img="/files/article_related_sidebar/uploads/2016/09/05/57cdac81cc657.jpg"></a></div>                <div class="page-title-container"><a id="m284-1-285" class="ModuloSeleccionPublico page-title page-link fixed-width" href="/politica/ana-botella-equipo-condenados-pagar-25-millones-euros-venta-pisos-publicos-fondos-buitre.html">La exalcaldesa Ana Botella y siete cargos de su equipo, condenados a pagar 25 millones por la venta de pisos públicos a fondos buitre</a></div>                <div class="page-author"><p class="page-author-container"><span id="m289-2-290" class="ModuloSeleccionPublico page-author">PÚBLICO</span></p></div>            </li>
+<li class="page-item" id="m296-1-297" data-collection="m270-269-271">                <div class="image page-image-container"><a id="m300-299-301" class="ModuloSeleccionPublico page-image page-link" href="/politica/estrategia-socialistas-sanchez-buscara-ocupar-espacio-centro-deriva-derecha-pp-ciudadanos.html" style="background: none;"><img alt="El presidente del Gobierno, Pedro Sánchez, y la vicepresidenta, Carmen Calvo, junto a varios ministros, posan en la foto de familia momentos antes de la reunión del Consejo de Ministros que se celebra hoy en la Llotja de Mar de Barcelona, contra el cual n" src="" data-img="/files/article_related_sidebar/uploads/2018/12/22/5c1e63e646654.jpg"></a></div>                <div class="page-title-container"><a id="m306-1-307" class="ModuloSeleccionPublico page-title page-link fixed-width" href="/politica/estrategia-socialistas-sanchez-buscara-ocupar-espacio-centro-deriva-derecha-pp-ciudadanos.html">Sánchez buscará captar el espacio de centro tras la deriva a la derecha de PP y Ciudadanos</a></div>                <div class="page-author"><p class="page-author-container"><span id="m311-2-312" class="ModuloSeleccionPublico page-author">manuel sánchez</span></p></div>            </li>
+<li class="page-item" id="m318-2-319" data-collection="m270-269-271">                <div class="image page-image-container"><a id="m322-321-323" class="ModuloSeleccionPublico page-image page-link" href="/culturas/estreno-despues-jose-luis-cuerda-me-parece-espana-peor-peor.html" style="background: none;"><img alt="José Luis Cuerda con los actores de 'Tiempo después' en el rodaje. / EONE SPAIN" src="" data-img="/files/article_related_sidebar/uploads/2018/12/27/5c24fcb09ede0.jpg"></a></div>                <div class="page-title-container"><a id="m328-1-329" class="ModuloSeleccionPublico page-title page-link fixed-width" href="/culturas/estreno-despues-jose-luis-cuerda-me-parece-espana-peor-peor.html">José Luis Cuerda: "Me parece que en España todo va a ir a peor, a mucho peor"</a></div>                <div class="page-author"><p class="page-author-container"><span id="m333-2-334" class="ModuloSeleccionPublico page-author">BEGOÑA PIÑA</span></p></div>            </li>
+<li class="page-item" id="m340-3-341" data-collection="m270-269-271">                <div class="image page-image-container"><a id="m344-343-345" class="ModuloSeleccionPublico page-image page-link hovered" href="/sociedad/talka-proyecto-feminista-alcalde-vitoria-no-quiere-mencionar.html" style="background: none;"><img alt="Las mujeres que han okupado el Palacio Álava-Velasco, de Vitoria." src="" data-img="/files/article_related_sidebar//files/crop/uploads/2018/12/27/5c24fd9447136.r_1545986427095.0-769-1066-1331.jpg"></a></div>                <div class="page-title-container"><a id="m350-1-351" class="ModuloSeleccionPublico page-title page-link fixed-width" href="/sociedad/talka-proyecto-feminista-alcalde-vitoria-no-quiere-mencionar.html">Talka, el proyecto feminista que el alcalde de Vitoria no quiere mencionar</a></div>                <div class="page-author"><p class="page-author-container"><span id="m355-2-356" class="ModuloSeleccionPublico page-author">DANILO ALBIN</span></p></div>            </li>
+<li class="page-item" id="m362-4-363" data-collection="m270-269-271">                <div class="image page-image-container"><a id="m366-365-367" class="ModuloSeleccionPublico page-image page-link" href="/politica/gobierno-alega-motivos-seguridad-y-riesgo-amenazas-terroristas-prohibir-franco-almudena.html" style="background: none;"><img alt="La tumba de Francisco Franco en la Basílica del Valle de los Caídos | AFP" src="" data-img="/files/article_related_sidebar/uploads/2018/12/17/5c17610d162c2.jpg"></a></div>                <div class="page-title-container"><a id="m372-1-373" class="ModuloSeleccionPublico page-title page-link fixed-width" href="/politica/gobierno-alega-motivos-seguridad-y-riesgo-amenazas-terroristas-prohibir-franco-almudena.html">El Gobierno alega motivos de seguridad y riesgo de amenazas terroristas para prohibir que Franco vaya a La Almudena</a></div>                <div class="page-author"><p class="page-author-container"><span id="m377-2-378" class="ModuloSeleccionPublico page-author">PÚBLICO</span></p></div>            </li>
+</ul></aside><div class="html" id="m386-5-387"><!-- <style>
+.newsletter.module {
+    background-color: #eee;
+    padding: 10px 20px 20px;
+    margin: 0;
+}
+.newsletter.module h5 {
+    font-weight: 700;
+    font-size: 14px;
+}
+.newsletter.module input {
+    width: 215px;
+}
+</style>
+<a href="http://especiales.publico.es/servicios/"><img src="http://ficheros.publico.es/resources/cintillos/newsletter-noticia.jpg" alt="" /></a>
+<div class="newsletter module">
+  <h5>Suscr&iacute;bete al bolet&iacute;n</h5>
+  <form id="newsletter-register" class="form" method="" action="">
+      <span class="icon"><i class="fa fa-envelope-o"></i></span>
+      <input id="email" name="email" class="textbox" type="text" value="" placeholder="Introduce tu e-mail...">
+      <p class="checkbox politica-datos">Acepto la pol&iacute;tica de <a href="http://www.publico.es/pages/politica-proteccion-datos.html" target="_blank">protecci&oacute;n de datos.</a></p>
+      <p class="checkbox accept-notifications">Acepto recibir comunicaciones comerciales por medios telem&aacute;ticos.</p>
+      <button>Enviar</button>
+      <p class="msg-response"></p>
+  </form>
+</div> --></div>
+<div class="combined-modules ads" id="m391-6-392">            <div class="ads r3 robapaginas" id="m395-394-396"><div id="Right3"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("Right3"); });</script></div></div>
+</div>
+<div class="html" id="m402-7-403"><div class="pbmodule-publico-tv" style="margin-bottom: 40px;">
+	  		<div class="preloader">
+		      <i class="fa fa-spin fa-circle-o-notch"></i>
+		    </div>
+	  	</div></div>
+<div class="html" id="m407-8-408"><div id="lig_publico_side" class="clearfix"></div></div>
+<div class="html" id="m412-9-413">
+<div class="kalooga_15259"></div> </div>
+<div class="combined-modules ads" id="m417-10-418">            <div class="ads r4 robapaginas" id="m421-420-422"><div id="Right4"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("Right4"); });</script></div></div>
+</div>
+<div class="html" id="m428-11-429">
+<!-- FANBOX Facebook --> 
+<div style="height: 260px">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fdiario.publico&amp;width&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=146141435484653" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:258px; margin-top: 10px;" allowtransparency="true"></iframe>
+</div>
+</div>
+<div class="combined-modules ads" id="m433-12-434">            <div class="ads r5 robapaginas" id="m437-436-438"><div id="Right5"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("Right5"); });</script></div></div>
+</div>
+<div class="html" id="m444-13-445"><div class="pbmodule-memoria-publica"> <div class="preloader"> <i class="fa fa-spin fa-circle-o-notch"></i> </div> </div></div>
+</div>
+</div>
+                            
+        </div></main>
+
+    
+
+    
+        
+		
+    </div>
+    <div class="publicidad bottom">
+    <div class="content">
+        <div class="megabanner bottom">
+            <div id="Bottom">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() { googletag.display('Bottom'); });
+                </script>
+            </div>	
+        </div>
+    </div>
+</div>
+    
+	
+					
+					
+				    <span data-trans='{"rating_success": "Rating success", "rating_multiple": "Rating multiple", "poll_voted": "Encuesta 8" }'></span>
+				
+		    
+<div class="ads-sky right">
+    <div id="x41" class="">
+        <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('x41'); });
+        </script>
+    </div>
+</div>
+		
+
+	    </div>
+    </div>
+    
+    <div class="pe-region-container">
+        <div class="pe-region"></div>
+    </div>
+</div>
+
+    
+            <footer class="pbfooter-main"><div class="menu-bottom"><div class="container"><div class="col"><nav><h1>Secciones</h1><div><ul><li><a href="https://www.publico.es/politica">Política</a></li><li><a href="https://www.publico.es/sociedad">Sociedad</a></li><li><a href="https://blogs.publico.es/">Opinión</a></li><li><a href="https://www.publico.es/internacional">Internacional</a></li><li><a href="https://www.publico.es/espana">España</a></li><li><a href="https://www.publico.es/economia">Economía</a></li></ul><ul><li><a href="https://www.publico.es/publico-tv/">Público TV</a></li><li><a href="https://www.publico.es/videos/">Vídeos</a></li><li><a href="https://www.publico.es/ciencias">Ciencias</a></li><li><a href="https://www.publico.es/culturas">Culturas</a></li><li><a href="https://www.publico.es/deportes">Deportes</a></li><li><a href="https://www.publico.es/fotogalerias">Fotogalerías</a></li></ul></div></nav></div><div class="col"><nav><h1>Destacados</h1><div><ul><li><a itemprop="publishingPrinciples" href="https://blogs.publico.es/publico/2018/10/02/las-10-banderas-de-publico">Las diez banderas de Público</a></li><li><a href="https://www.publico.es/publico-tv/publico-al-dia">Público al día</a></li><li><a href="https://www.publico.es/publico-tv/en-la-frontera">En la frontera</a></li><li><a href="https://www.publico.es/tremending">Tremending</a></li><li><a href="https://www.publico.es/publico-tv/deforme-semanal">Deforme semanal</a></li><li><a href="https://www.espacio-publico.com/">Espacio Público</a></li></ul><ul><li><a href="https://www.publico.es/sociedad/derechos-humanos">Derechos humanos</a></li><li><a href="https://www.publico.es/tag/violencia-machista">Violencia machista</a></li></ul></div></nav></div><div class="col"><nav><h1>Diario Público</h1><div><ul><li><a href="https://www.publico.es/pages/quienes.html">¿Quienes somos?</a></li><li><a href="https://www.publico.es/pages/contacto.html">Contacto</a></li><li><a href="https://www.publico.es/pages/publicidad.html">Publicidad</a></li><li><a href="https://www.publico.es/aviso-legal">Aviso legal</a></li><li><a href="https://www.publico.es/politica-cookies">Política de &#039;cookies&#039;</a></li><li><a href="https://www.publico.es/politica-proteccion-datos">Política de Privacidad</a></li><li><a href="https://m.publico.es/">Versión móvil</a></li></ul></div></nav></div></div></div><div class="copy"><h1><a href="https://www.publico.es">Público</a></h1><p>DISPLAY CONNECTORS, SL.</p><div class="social-wrapper"><ul><li><a href="https://www.facebook.com/diario.publico" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/publico_es" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://plus.google.com/+P%C3%BAblico/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li><li><a href="https://www.youtube.com/channel/UCVimQoXNCZuEnZRVAbuYMiw" target="_blank"><i class="fa fa-youtube"></i></a></li><li><a href="https://telegram.me/publico_es" target="_blank"><i class="fa fa-paper-plane"></i></a></li></ul></div></div></footer><!-- Facebook Pixel Code -->
+<script typ="didomi/javascript" data-vendor="c:vendor-facebook">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '381980832247521');
+  fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->
+        
+
+        <!-- MV -->
+<script src="//www.empirikanet.com/83951dcbdb9d96d2e43b8f20c3663943.js" type="text/javascript"></script>
+
+<!-- Vilynx -->
+<script type="text/javascript">
+if (location.pathname == '/') {
+    var extVilynx = document.createElement("script");
+    extVilynx.setAttribute("type", "text/javascript");
+    extVilynx.setAttribute("src","//static.vilynx.com/plugins/pub-vilynx.js");
+    extVilynx.setAttribute("externalid", "true");
+    extVilynx.setAttribute("autoadjust", "true");
+    extVilynx.setAttribute("redirect", "true");
+    extVilynx.setAttribute("redirecttext", "Entrando a la noticia en...");
+    extVilynx.setAttribute("userid", "b4e8e20d3049332b76c301e0d0aaa059");
+    document.body.appendChild(extVilynx);
+}
+</script>
+            <!-- Kalooga script code for Publico.es -->
+        <script async type="text/javascript" src="//publishing.kaloo.ga/acct/4052.js"></script>    
+        <!-- Teads -->
+        <script>
+        (function (d, p) {
+          var js, s = d.getElementsByTagName('script')[0];
+          js = d.createElement('script'); js.async = true; js.defer = true;
+          js.src = '//a.teads.tv/page/'+p+'/tag';
+          s.parentNode.insertBefore(js, s);
+        })(window.document, 62534);
+        </script>
+        <!-- Ligatus -->
+	<script type="text/javascript" src="//a.ligatus.com/?ids=88085&t=js"></script>
+
+
+          
+
+    <script type="text/javascript">
+  function adsReady()
+    {
+       var googletag = window.googletag || { cmd: [] }; // if DFP is not already defined
+
+       if (! adsJsPublico.isCookiePolicyEnabled()) {
+            adsJsPublico.setAnonymousAds();
+        }
+
+
+        googletag.cmd.push
+        (function () {
+            adsJsPublico.refresh();
+        });
+    }
+
+    
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(function (Didomi) {
+        if (document.readyState === "complete" || document.readyState === "loaded" || document.readyState === "interactive") {
+            adsReady();
+        } else {
+            document.addEventListener("DOMContentLoaded", function(event) {
+                adsReady();
+            });
+        }
+    });
+</script>
+    		<!-- 1to1 -->
+	<script type="didomi/javascript" data-vendor="c:vendor-bbva">
+	(function() {
+		var dht = document.createElement('script');
+		dht.type = 'text/javascript';
+		dht.async = true;
+		dht.src = ('https:'==document.location.protocol?'https://':'http://')+'1to1.bbva.com/1to1/dht.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(dht, s);
+	})();
+	</script>
+
+    
+    </body>
+</html>
+
+

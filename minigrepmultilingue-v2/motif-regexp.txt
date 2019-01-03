@@ -1,0 +1,2 @@
+MOTIF=socia|socii|gomo|соціал
+

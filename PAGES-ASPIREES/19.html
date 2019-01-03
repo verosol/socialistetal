@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYCVlVaDhAIVllWAwYO"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+<meta property="og:site_name" content="Le Temps" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="twitter:image" content="https://assets.letemps.ch/sites/default/files/styles/share/public/media/2017/10/25/file6x9p0qtiaxvrkcwujj9.jpg.png?itok=08loII89" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@letemps" />
+<meta name="twitter:title" content="Réfugiés, sans-papiers, étrangers: accueillir et octroyer des droits" />
+<meta name="twitter:description" content="OPINION. L’inclusion citoyenne de tous les habitants de notre pays implique que des progrès soient réalisés en matière de droit de vote et d’éligibilité des étrangers, plaide Emmanuel Deonna, chercheur en sciences sociales" />
+<script>dataLayer = [{'articleID': '1072927','articleType': 'np8_news','primaryCategory': 'Opinions','tags': 'migrations','length': '3001-6000','year': '2017','article_publication_date': '2017-10-25T17:54:58'}];</script>
+<style>.async-hide { opacity: 0 !important}</style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-5VWLQBR':true});</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-4651172-21', 'auto');ga('require', 'GTM-5VWLQBR');</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TQ2B8Q');</script>
+<meta name="google-site-verification" content="z0tBKnrS4WrJ-Qq_7-W8j40X5-3Lnvlb7lf1a8FnfTE" />
+<meta name="p:domain_verify" content="d0baf6f701271f1d36972e356dcfb112" />
+<meta property="fb:pages" content="319393291423771" />
+<meta property="fb:app_id" content="100160886777903" />
+<meta name="theme-color" content="#930025" />
+<meta name="article:published_time" content="2017-10-25T17:54:58" />
+<meta name="article:modified_time" content="2017-10-25T17:54:59" />
+<meta name="article:section" content="Opinions" />
+<meta name="article:tag" content="Migrations" />
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"https:\/\/www.letemps.ch\/node\/1072927","publisher":{"@type":"Organization","name":"Le Temps","logo":{"@type":"ImageObject","url":"https:\/\/assets.letemps.ch\/themes\/custom\/letemps\/logo-amp.png","width":324,"height":60}},"articleSection":"Opinions","keywords":["Migrations"],"headline":"R\u00e9fugi\u00e9s, sans-papiers, \u00e9trangers: accueillir et octroyer des droits","dateCreated":"2017-10-25T15:30:38+02:00","datePublished":"2017-10-25T19:54:58+02:00","dateModified":"2017-10-25T19:54:58+02:00","description":"OPINION. L\u2019inclusion citoyenne\u00a0de tous les habitants de notre pays implique que des progr\u00e8s soient r\u00e9alis\u00e9s en mati\u00e8re de droit de vote et d\u2019\u00e9ligibilit\u00e9 des \u00e9trangers, plaide\u00a0Emmanuel Deonna, chercheur en sciences sociales","author":{"@type":"Person","name":"Emmanuel Deonna, chercheur en sciences sociales"},"image":{"@type":"ImageObject","url":"https:\/\/assets.letemps.ch\/sites\/default\/files\/styles\/share\/public\/media\/2017\/10\/25\/file6x9p0qtiaxvrkcwujj9.jpg.png?itok=08loII89","height":433,"width":1200}}</script>
+<meta name="description" content="OPINION." />
+<meta property="og:title" content="Réfugiés, sans-papiers, étrangers: accueillir et octroyer des droits" />
+<meta property="og:image" content="https://assets.letemps.ch/sites/default/files/styles/share/public/media/2017/10/25/file6x9p0qtiaxvrkcwujj9.jpg.png?itok=08loII89" />
+<meta property="og:url" content="https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits" />
+<meta property="og:description" content="OPINION. L’inclusion citoyenne de tous les habitants de notre pays implique que des progrès soient réalisés en matière de droit de vote et d’éligibilité des étrangers, plaide Emmanuel Deonna, chercheur en sciences sociales" />
+<meta property="og:type" content="article" />
+<link rel="shortcut icon" href="https://assets.letemps.ch/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="image_src" href="https://assets.letemps.ch/sites/default/files/styles/share/public/media/2017/10/25/file6x9p0qtiaxvrkcwujj9.jpg.png?itok=08loII89" />
+<link rel="dns-prefetch" href="//assets.letemps.ch" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//letemps.wemfbox.ch" />
+<link rel="dns-prefetch" href="//temp-ssl.wemfbox.ch" />
+<link rel="dns-prefetch" href="//aka-cdn.adtech.de" />
+<link rel="dns-prefetch" href="//ping.chartbeat.net" />
+<link rel="search" href="//letemps.ch/modules/custom/lt_custom/assets/opensearchdescription.xml" type="application/opensearchdescription+xml" title="LeTemps.ch" />
+<link rel="canonical" href="/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits" />
+<link rel="shortlink" href="/node/1072927" />
+<link rel="revision" href="/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="//assets.letemps.ch/themes/custom/letemps/favicons/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="//assets.letemps.ch/themes/custom/letemps/favicons/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="//assets.letemps.ch/themes/custom/letemps/favicons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="//assets.letemps.ch/themes/custom/letemps/favicons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="//assets.letemps.ch/themes/custom/letemps/favicons/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="//assets.letemps.ch/themes/custom/letemps/favicons/favicon-128.png" sizes="128x128" />
+    <meta name="application-name" content="Le Temps"/>
+    <meta name="msapplication-TileColor" content="#930025" />
+    <meta name="msapplication-TileImage" content="//assets.letemps.ch/themes/custom/letemps/favicons/mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="//assets.letemps.ch/themes/custom/letemps/favicons/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="//assets.letemps.ch/themes/custom/letemps/favicons/mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="//assets.letemps.ch/themes/custom/letemps/favicons/mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="//assets.letemps.ch/themes/custom/letemps/favicons/mstile-310x310.png" />
+    <title>Réfugiés, sans-papiers, étrangers: accueillir et octroyer des droits - Le Temps</title>
+    <link rel="stylesheet" href="https://assets.letemps.ch/sites/default/files/css/css_G9CvptcuErCWnkvJPBQGZC-BQAPqxkyWgn8i72F1iDM.css?pgp13t" media="all" />
+<link rel="stylesheet" href="https://assets.letemps.ch/sites/default/files/css/css_A6qLHjiZEtgaT0CYprfI8A3kbZn_LWhTeQ8JRY7KgQU.css?pgp13t" media="all" />
+<link rel="stylesheet" href="https://assets.letemps.ch/sites/default/files/css/css_dt6w_Ggj_9GVRZhvn-lwWHZDBTmQbBlJrwCW3Nc2PsY.css?pgp13t" media="print" />
+<link rel="stylesheet" href="https://assets.letemps.ch/sites/default/files/css/css_d9OJ6sYoVxbDjlT_1CtEeheJQpgjn_vPaQkHv9KmHAw.css?pgp13t" media="all" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1072927","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"core\/html5shiv,core\/jquery.form,core\/picturefill,factory_mailchimp\/newsletter,letemps\/article,letemps\/pymjs,letemps\/video,lt_adtech\/lt_adtech,lt_adtech\/lt_adtech.admeira.loader,lt_adtech\/lt_adtech.admeira.signature,lt_custom\/related_news,lt_custom\/video,lt_gtm\/paywall,lt_paywall\/lt_paywall,np8_adtech\/lt_adtech_783913,np8_adtech\/np8_adtech,np8_embed\/np8_embed,np8_user\/login-destination,system\/base,views\/views.module","theme":"letemps","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/opinions\/refugies-sanspapiers-etrangers-accueillir-octroyer-droits?ajax_form=1":true,"\/search":true},"np8_embed":{"twitter":{"dialog_add":"Embed Twitter","dialog_edit":"Edit Embedded Twitter"},"facebook":{"app_id":2147483647,"langcode":"de_DE","dialog_add":"Embed Facebook","dialog_edit":"Edit Embedded Facebook","loading":"Loading Facebook Post..."}},"lt_adtech":{"params":"title=refugies-sans-papiers-etrangers-accueillir-et-octroyer-des-droits;pagetype=detail;articleid=1072927;"},"np8_adtech":{"site_config":{"params":{"loc":"100"},"network":"780.2","siteid":783913,"urlTargeting":{"doTargeting":true},"kv":{"title":"refugies-sans-papiers-etrangers-accueillir-et-octroyer-des-droits","pagetype":"detail","articleid":"1072927","dossier":"migrations"},"server":"adserver.adtech.de","protocol":"https","enableMultiAd":true,"serverUrl":"https:\/\/adserver.adtech.de\/?advideo\/3.0\/780.2\/6575502\/0\/\/cc=2;vidAS=pre_roll;vidBR=900;vidRT=VAST;vidRTV=3.0;kvprotocol=https;kvdomain=www.letemps.ch;kvxyz=123;kvurl=images:video;kvscrbrt=1937;kvurl1=images;kvurl2=video;cors=yes;acao=https:\/\/imasdk.googleapis.com","skipTime":"7"},"positions":{"adtech-5bc6f7d3096a1":{"placement":5825661,"kv":{"url1":"opinions","url2":"refugies-sanspapiers-etrangers-accueillir-octroyer-droits","ressort":"opinions"},"adContainerId":"adtech-5bc6f7d3096a1"},"adtech-5bc6f7d309444":{"placement":5819843,"kv":{"url1":"opinions","url2":"refugies-sanspapiers-etrangers-accueillir-octroyer-droits","ressort":"opinions"},"adContainerId":"adtech-5bc6f7d309444"},"adtech-5bc6f7d3094fb":{"placement":5819835,"kv":{"url1":"opinions","url2":"refugies-sanspapiers-etrangers-accueillir-octroyer-droits","ressort":"opinions"},"adContainerId":"adtech-5bc6f7d3094fb"},"adtech-5bc6f7d332ac5":{"placement":6276066,"kv":{"url1":"opinions","url2":"refugies-sanspapiers-etrangers-accueillir-octroyer-droits","ressort":"opinions"},"adContainerId":"adtech-5bc6f7d332ac5"},"adtech-5bc6f7d333258":{"placement":5819838,"kv":{"url1":"opinions","url2":"refugies-sanspapiers-etrangers-accueillir-octroyer-droits","ressort":"opinions"},"adContainerId":"adtech-5bc6f7d333258"},"adtech-5bc6f7d33383c":{"placement":5819844,"kv":{"url1":"opinions","url2":"refugies-sanspapiers-etrangers-accueillir-octroyer-droits","ressort":"opinions"},"adContainerId":"adtech-5bc6f7d33383c"}}},"lt_paywall":{"settings":{"limit":10,"lt_timeframe":25,"lt_cookie_lifetime":45,"hitPaywallCallback":"lt_gtm_paywall.hitPaywall"}},"ajax":{"edit-alternate-submit":{"callback":[{},"validateSendAjax"],"event":"click","progress":{"type":"throbber","message":null},"url":"\/opinions\/refugies-sanspapiers-etrangers-accueillir-octroyer-droits?ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"alternate_submit"}}},"user":{"uid":0,"permissionsHash":"0222709590b60cd901ead89904081b3eef0548ed58e4905d35a46ceb467a486f"}}</script>
+
+<!--[if lte IE 8]>
+<script src="https://assets.letemps.ch/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="https://assets.letemps.ch/sites/default/files/js/js_lqlsEu5m95RbbC2XnBbWt3cIArtcU2kpsir7MEbRgTM.js"></script>
+<script src="https://da.admeira.ch/DAC.js" defer></script>
+<script src="https://aka-cdn.adtech.de/dac/780.2/w1170166.js" defer></script>
+<script src="https://aka-cdn.adtech.de/dac/780.2/1170166/p783913.js" defer></script>
+<script src="https://da.admeira.ch/adm_signaturscript.js" defer></script>
+
+  </head>
+  <body>
+    <a href="#main-content" class="visually-hidden focusable">Aller au contenu principal</a>
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQ2B8Q&nojs=true" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>utag_data = {"customer_type":"anonymous","page_type":"np8_news","article_id":"1072927","article_name":"R\u00e9fugi\u00e9s, sans-papiers, \u00e9trangers: accueillir et octroyer des droits","article_publish_date":"2017-10-25T17:54:58","page_section":"Opinions","article_author":"Emmanuel Deonna, chercheur en sciences sociales"};</script><script type="text/javascript">
+           var wemf_url = (('https:' == document.location.protocol) ? 'https://temp-ssl.wemfbox.ch/cgi-bin/ivw/CP/' : 'http://letemps.wemfbox.ch/cgi-bin/ivw/CP/' );
+            var wemf_path = "section/opinions";
+        // Minified version of isMobile https://github.com/kaimallea/isMobile.
+        !function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/IEMobile/i,h=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,i=/BlackBerry/i,j=/BB10/i,k=/Opera Mini/i,l=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,m=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),n=function(a,b){return a.test(b)},o=function(a){var o=a||navigator.userAgent;return this.apple={phone:n(b,o),ipod:n(c,o),tablet:n(d,o),device:n(b,o)||n(c,o)||n(d,o)},this.android={phone:n(e,o),tablet:!n(e,o)&&n(f,o),device:n(e,o)||n(f,o)},this.windows={phone:n(g,o),tablet:n(h,o),device:n(g,o)||n(h,o)},this.other={blackberry:n(i,o),blackberry10:n(j,o),opera:n(k,o),firefox:n(l,o),device:n(i,o)||n(j,o)||n(k,o)||n(l,o)},this.seven_inch=n(m,o),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window?this:void 0},p=function(){var a=new o;return a.Class=o,a};"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=o:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=p():"function"==typeof define&&define.amd?define("isMobile",[],a.isMobile=p()):a.isMobile=p()}(this);
+        if (isMobile.phone) {
+          wemf_path = "mobilesite/" + wemf_path;
+        }
+        var NETMX = wemf_url + wemf_path;
+        document.write("<img class=\"wemf\" src=\""+NETMX+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"&x="+screen.width+"x"+screen.height+"\" width=\"1\" height=\"1\" alt=\"\" />");</script><noscript><img src="https://temp-ssl.wemfbox.ch/cgi-bin/ivw/CP/section/opinions" width="1" height="1" alt="" /></noscript><script type="text/javascript">
+        (function(a,b,c,d){
+        a='//tags.tiqcdn.com/utag/axelspringer/rasch-romandie-letemps/prod/utag.js';
+        b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+        })();
+    </script>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <!-- SZMFRABO VERSION="1.1" -->
+<script>
+var szmvars="letemps//CP//";
+if (isMobile.phone) {
+  var szmopt={mobile:true};
+}
+</script>
+<script src="https://temp-ssl.wemfbox.ch/2004/01/survey.js"></script>
+<!-- /SZMFRABO -->
+
+<header class="header" id="top">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-offset-1 col-lg-10">
+          <div>
+    <div id="block-ltburgermenu" class="visible-xs block block-lt-custom">
+  
+    
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar-collapse" aria-expanded="false"><span class="close-menu">Fermer</span><span class="open-menu">Menu</span> <span class="icon-bars"><span class="icon-bar top-bar"></span><span class="icon-bar middle-bar"></span><span class="icon-bar bottom-bar"></span></span></button>
+  </div>
+<div id="block-letemps-branding" class="block block-system">
+  
+    
+        <div class="header-logo text-center">
+      <a class="logo hidden-xs hidden-sm" href="/" rel="home" title="Le Temps"><img class="img-responsive" src="https://assets.letemps.ch/themes/custom/letemps/logo.svg" alt="Le Temps" /></a>
+      <a class="logo-t" href="/" rel="home" title="Le Temps"><img class="img-responsive" src="https://assets.letemps.ch/themes/custom/letemps/assets/svg/logo-t.svg" alt="Le Temps" /></a>
+
+      <a class="logo-mobile visible-xs-block visible-sm-block" href="/" rel="home" title="Le Temps"><img class="img-responsive" src="https://assets.letemps.ch/themes/custom/letemps/assets/svg/logo.svg" alt="Le Temps" /></a>
+      
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-useraccountmenu-menu" id="block-useraccountmenu" class="visible-xs">
+            
+  <h2 class="visually-hidden" id="block-useraccountmenu-menu">User account menu</h2>
+  
+
+        
+              <ul class="menu nav">
+                          <li class="dropdown">
+                      <a href="/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navbar-item"><i class="fa fa-user" aria-hidden="true"></i></span></a>
+                          <ul class="dropdown-menu">
+                          <li>
+                                    <a href="/user/login" class="">Se connecter</a>
+                              </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+
+  </nav>
+<div class="header-top">
+  
+  
+        
+        <ul class="list-inline">
+              <li class="hidden-xs">
+                    <a href="/abos" class="hidden-xs">Abonnement</a>
+                </li>
+              <li class="dropdown">
+                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navbar-item">Services</span> <i class="ltpsicon ltpsicon-chevron-down"></i></a>
+                  <ul class="dropdown-menu">
+              <li>
+                    <a href="/pdf" class="">ePaper/PDF</a>
+                </li>
+              <li>
+                    <a href="https://boutique.letemps.ch/?utm_source=editorial" class="">Gestion abonnement</a>
+                </li>
+              <li>
+                    <a href="http://www.letemps.ch/evenements" class="">Événements</a>
+                </li>
+              <li>
+                    <a href="/privileges" class="">Privilèges abonnés</a>
+                </li>
+              <li>
+                    <a href="/abos" class="">Abonnement</a>
+                </li>
+              <li>
+                    <a href="/newsletters" class="">Newsletters</a>
+                </li>
+              <li>
+                    <a href="/annonces" class="">Annonces</a>
+                </li>
+              <li>
+                    <a href="http://www.letempsarchives.ch/" class="">Archives</a>
+                </li>
+              <li>
+                    <a href="http://www.letemps.ch/faq" class="">FAQ</a>
+                </li>
+              <li>
+                    <a href="/contact" class="">Contact</a>
+                </li>
+      </ul>
+  
+                </li>
+              <li class="menu-link-login">
+                    <a href="/user/login?destination=/suisse/six-chiffres-connaitre-musulmans-suisse" class="menu-link-login">Se connecter</a>
+                </li>
+      </ul>
+  
+
+
+  </div>
+<div class="clearfix"></div>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+    <div>
+    <div class="navbar-container">
+  <nav class="navbar navbar-default" id="main-navbar">
+    <div class="navbar-sticky">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-offset-1 col-lg-10">
+            <div class="navbar-header visible-xs">
+              <ul class="list-inline">
+                <li class="visible-affix">
+                  <a href="/" class="logo-mobile">
+                    <img width="85" height="12" src="https://assets.letemps.ch/themes/custom/letemps/assets/svg/logo.svg" alt="Le Temps - Site média Suisse" class="img-responsive" />
+                  </a>
+                  <a href="/" class="logo-t">
+                    <img src="https://assets.letemps.ch/themes/custom/letemps/assets/svg/logo-t.svg" alt="Le Temps - Site média Suisse" class="img-responsive logo-t--mobile"/>
+                  </a>
+                </li>
+                <li class="hidden-affix"><a href="/en-continu" style="text-transform:lowercase">17 oct. 2018</a></li>
+                <li>
+                  <!-- <ul class="list-inline">
+                    <li><a href="/">Login</a></li>
+                    <li><a href="/">Services</a></li>
+                  </ul> -->
+                </li>
+              </ul>
+            </div>
+
+            <div class="collapse navbar-collapse" id="main-navbar-collapse">
+              <div class="nav-container">
+                <div class="js-priority-wrapper-letemps nav-inner">
+                                                        
+              <ul class="menu nav navbar-nav visible-links">
+                          <li class="dropdown">
+                      <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navbar-item">Rubriques</span> <i class="ltpsicon ltpsicon-chevron-down"></i></a>
+                          <ul class="dropdown-menu">
+                          <li>
+                                    <a href="/monde" class="">Monde</a>
+                              </li>
+                      <li>
+                                    <a href="/suisse" class="">Suisse</a>
+                              </li>
+                      <li>
+                                    <a href="/economie" class="">Économie</a>
+                              </li>
+                      <li>
+                                    <a href="/opinions" class="">Opinions</a>
+                              </li>
+                      <li>
+                                    <a href="/culture" class="">Culture</a>
+                              </li>
+                      <li>
+                                    <a href="/sciences" class="">Sciences</a>
+                              </li>
+                      <li>
+                                    <a href="/sport" class="">Sport</a>
+                              </li>
+                      <li>
+                                    <a href="/societe" class="">Société</a>
+                              </li>
+                      <li>
+                                    <a href="/lifestyle" class="">Lifestyle</a>
+                              </li>
+          </ul>
+  
+                  </li>
+                      <li>
+                                    <a href="/en-continu" class=""><span class="navbar-item">En continu</span></a>
+                              </li>
+                      <li>
+                                    <a href="/blogs" class=""><span class="navbar-item">Blogs</span></a>
+                              </li>
+                      <li>
+                                    <a href="/images/video" class=""><span class="navbar-item">Vidéos</span></a>
+                              </li>
+                      <li class="dropdown">
+                      <a href="/images/photographies" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navbar-item">Multimédia</span> <i class="ltpsicon ltpsicon-chevron-down"></i></a>
+                          <ul class="dropdown-menu">
+                          <li>
+                                    <a href="/images/photographies" class="">Photographies</a>
+                              </li>
+                      <li>
+                                    <a href="/dossiers" class="">Dossiers</a>
+                              </li>
+                      <li>
+                                    <a href="/images/interactif" class="">Interactif</a>
+                              </li>
+                      <li>
+                                    <a href="/images/chappatte" class="">Chappatte</a>
+                              </li>
+                      <li>
+                                    <a href="/podcast" class="">Podcast</a>
+                              </li>
+          </ul>
+  
+                  </li>
+                      <li>
+                                    <a href="/t" class="tmagazine-menu-item"><span class="navbar-item">T Magazine</span></a>
+                              </li>
+          </ul>
+  
+
+
+                                    <ul class="nav navbar-nav navbar-priority">
+                    <li class="dropdown">
+                      <a href="#" class="more hidden dropdown-toggle text-uppercase" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plus <i class="ltpsicon ltpsicon-chevron-down"></i></a>
+                      <ul class="hidden-links dropdown-menu"></ul>
+                    </li>
+                  </ul>
+                </div>
+                                <ul class="nav navbar-nav navbar-search navbar-right">
+                  <li>
+                    <a href="/search">RECHERCHER <span class="fa fa-search sr-hidden"></span></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</div>
+<div class="np8-search-block navbar-search collapse" data-drupal-selector="np8-search-block" id="block-letemps-searchform">
+  
+    
+      <form action="/search" method="GET" id="np8-search-block" accept-charset="UTF-8">
+  <div class="form-group js-form-item form-item js-form-type-textfield form-item-keywords js-form-item-keywords form-no-label">
+      <label for="edit-keywords" class="visually-hidden js-form-required form-required">Mots-clés</label>
+        <input title="Enter your search keywords." data-drupal-selector="edit-keywords" type="text" id="edit-keywords" name="keywords" value="" size="15" maxlength="128" placeholder="Mots-clés" class="form-text required form-control" required="required" aria-required="true" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="search" value="Rechercher" class="button js-form-submit form-submit btn-primary btn" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+    <div class="region region-top-right">
+    <div id="block-adtechblock-2" class="block block-np8-adtech">
+  
+    
+          <div id="adtechAdm-5819844" class="ad-container">
+            <div id="5819844" class="adtech adtech__02desktopskyscraper adtech__5819844 modAd"></div>
+        <script>
+                    current_breakpoint = window.getComputedStyle(document.querySelector('body'), '::before').getPropertyValue('content').replace(/\"/g, '');
+          breakpoints = ["letemps.large"];
+
+          if (breakpoints.includes(current_breakpoint)) {
+
+                      document.getElementById('adtechAdm-5819844').style.display = 'inherit';
+
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(5819844);
+            }
+            else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(5819844);
+              });
+            }
+                      }
+                  </script>
+      </div>
+
+    </div>
+
+  </div>
+
+    <div>
+    <div id="block-letemps-breadcrumbs" class="region-breadcrumb block block-system">
+  
+    
+      <div class="container">
+  <div class="row">
+    <div class="col-lg-offset-1 col-lg-10">
+      <nav role="navigation" aria-labelledby="system-breadcrumb">
+        <span class="visually-hidden">Fil d'Ariane</span>
+        <ol class="breadcrumb">
+        <li class="visible-xs-inline"><a href="https://www.letemps.ch/"><i class="small ltpsicon ltpsicon-home"></i></a></li>
+                  <li class="hidden-xs" >
+                          <a href="/">Accueil</a>
+                      </li>
+                  <li >
+                          <a href="/opinions">Opinions</a>
+                      </li>
+                  <li  class="active">
+                          Réfugiés, sans-papiers, étrangers: accueillir et octroyer des droits
+                      </li>
+                </ol>
+      </nav>
+    </div>
+  </div>
+</div>
+
+  </div>
+<div id="block-adtechblock" class="wideboard-adtech block block-np8-adtech">
+  
+    
+          <div id="adtechAdm-5819838" class="ad-container">
+            <div id="5819838" class="adtech adtech__01desktopwideboard adtech__5819838 modAd"></div>
+        <script>
+                      document.getElementById('adtechAdm-5819838').style.display = 'inherit';
+
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(5819838);
+            }
+            else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(5819838);
+              });
+            }
+                  </script>
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+<main>
+  <a id="main-content" tabindex="-1"></a>
+  
+  
+  
+    <div>
+    
+<div id="block-letemps-content" class="block block-system">
+  
+    
+      
+
+<div class="alert alert-info alert-dismissible alert-paywall">
+    <div class="container text-center">
+        <span class="paywall-graph">
+        Encore
+            <span class="pie-number">
+                <span class="num_left"></span>
+                 <span class="donut" data-peity='{ "innerRadius": 10, "radius": 5 }'>1/5</span>
+            </span> articles gratuits à lire
+        </span>
+        <span class="subscribe"><!-- .hidden-xs •&nbsp; --><a href="https://boutique.letemps.ch/abonnements?utm_source=website&utm_medium=bottom-banner&utm_campaign=paywall&utm_content=1072927
+">S'abonner</a> pour en lire plus</span>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+    </div>
+</div>
+
+<article data-paywall-nid="1072927" class="paywall_article">
+
+    
+    <figure class="picture picture-cover ad-skyscraper-pusher">
+            <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="https://assets.letemps.ch/sites/default/files/styles/np8_full/public/media/2017/10/25/file6x9p0qtiaxvrkcwujj9.jpg?itok=Z4M7oX_T 1x" media="all and (min-width: 992px)" type="image/jpeg"/>
+              <source srcset="https://assets.letemps.ch/sites/default/files/styles/767x422/public/media/2017/10/25/file6x9p0qtiaxvrkcwujj9.jpg?itok=hVrVyvv_ 1x" media="(min-width: 0px)" type="image/jpeg"/>
+            <!--[if IE 9]></video><![endif]-->
+              <img class="picture" src="https://assets.letemps.ch/sites/default/files/styles/lt_article_full/public/media/2017/10/25/file6x9p0qtiaxvrkcwujj9.jpg?itok=6aigMIOB" alt="" />
+
+  </picture>
+
+
+  <button type="button" class="picture-caption-icon" title="Plus d'information sur l'image">
+    <i class="fa fa-info"></i><span class="sr-only">Plus d'information sur l'image</span>
+  </button>
+  <figcaption>Des demandeurs d’asile dans le canton d’Obwald, en 2016.
+          <br><span class="picture-copyright">© ALEXANDRA WEY/KEYSTONE</span>
+      </figcaption>
+
+    </figure>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 col-md-2">
+                <section class="article-info hidden-xs text-sans-serif">
+                    <p class="reading-time">
+    <i class="ltpsicon ltpsicon-watch"></i><span>4 minutes</span>
+    de lecture
+</p>
+
+<p class="tags">
+                        <a href="/theme/migrations"><i class="fa fa-tag"></i>
+                <b>Migrations</b></a>
+            </p>
+
+<p>
+            Emmanuel Deonna, chercheur en sciences sociales<br>
+    
+            Publié mercredi 25 octobre 2017 à 19:54,
+        modifié mercredi 25 octobre 2017 à 19:54.
+    </p>
+                </section>
+            </div>
+            <div class="col-sm-9 col-md-6">
+                <div class="article-content article-content-inset gallery main-content" data-pswp-uid="1">
+
+                    <h2 class="label label-primary" style="margin-bottom:0">Opinion</h2>
+                    <h1><span>Réfugiés, sans-papiers, étrangers: accueillir et octroyer des droits</span>
+</h1>                                         <p class="lead">OPINION. L’inclusion citoyenne de tous les habitants de notre pays implique que des progrès soient réalisés en matière de droit de vote et d’éligibilité des étrangers, plaide Emmanuel Deonna, chercheur en sciences sociales</p>
+                    
+                    <section class="article-info visible-xs-block text-sans-serif">
+                        <p class="reading-time">
+    <i class="ltpsicon ltpsicon-watch"></i><span>4 minutes</span>
+    de lecture
+</p>
+
+<p class="tags">
+                        <a href="/theme/migrations"><i class="fa fa-tag"></i>
+                <b>Migrations</b></a>
+            </p>
+
+<p>
+            Emmanuel Deonna, chercheur en sciences sociales<br>
+    
+            Publié mercredi 25 octobre 2017 à 19:54,
+        modifié mercredi 25 octobre 2017 à 19:54.
+    </p>
+                    </section>
+
+                    <div class="article_body">
+                        <div class="hidden-xs">
+                          <div class="share">
+    <p class="text-uppercase">Partage</p>
+    <ul class="list-unstyled">
+        <li class="fb">
+            <a href="https://www.facebook.com/sharer.php?u=https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dfacebook%26utm_medium%3Dshare%26utm_campaign%3Darticle&display=popup&ref=plugin&src=share_button"
+               class="share-facebook" data-href="https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dfacebook%26utm_medium%3Dshare%26utm_campaign%3Darticle" data-send="false" data-action="share" data-layout="button" rel="nofollow" target="_blank">
+               <!-- <span class="sr-only">Partager sur Facebook</span> --><span><i class="fa fa-facebook"></i><span> Partager</span></span>
+            </a>
+        </li>
+        <li class="tw">
+            <a href="https://twitter.com/intent/tweet?text=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits%0D%0Ahttps://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dtwitter%26utm_medium%3Dshare%26utm_campaign%3Darticle%20via%20%40letemps" class="share-twitter" data-text="R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits" data-count="none" rel="nofollow" target="_blank">
+                <!-- <span class="sr-only">Partager sur Twitter</span> <--><span><i class="fa fa-twitter"></i><span> Tweeter</span></span>
+            </a>
+        </li>
+        <li class="li">
+            <a href="https://www.linkedin.com/shareArticle?url=https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dlinkedin%26utm_medium%3Dshare%26utm_campaign%3Darticle&mini=true&title=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits&summary=OPINION.%20L%E2%80%99inclusion%20citoyenne%C2%A0de%20tous%20les%20habitants%20de%20notre%20pays%20implique%20que%20des%20progr%C3%A8s%20soient%20r%C3%A9alis%C3%A9s%20en%20mati%C3%A8re%20de%20droit%20de%20vote%20et%20d%E2%80%99%C3%A9ligibilit%C3%A9%20des%20%C3%A9trangers%2C%20plaide%C2%A0Emmanuel%20Deonna%2C%20chercheur%20en%20sciences%20sociales&source=Le%20Temps" class="share-linkedin" rel="nofollow" target="_blank">
+               <!--  <span class="sr-only">Partager sur Linkedin</span> <--><span><i class="fa fa-linkedin"></i><span> Partager</span></span>
+            </a>
+        </li>
+        <li class="wa visible-xs-inline">
+            <a href="whatsapp://send?text=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits%20https%3A%2F%2Fwww.letemps.ch%2Fopinions%2Frefugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dwhatsapp%26utm_medium%3Dshare%26utm_campaign%3Darticle" class="share-whatsapp" rel="nofollow" target="_blank"><span><i class="fa fa-whatsapp"></i></span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="share-email" href="mailto:?subject=LeTemps.ch : R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits&body=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits%0D%0A%0D%0AOPINION.%20L%E2%80%99inclusion%20citoyenne%C2%A0de%20tous%20les%20habitants%20de%20notre%20pays%20implique%20que%20des%20progr%C3%A8s%20soient%20r%C3%A9alis%C3%A9s%20en%20mati%C3%A8re%20de%20droit%20de%20vote%20et%20d%E2%80%99%C3%A9ligibilit%C3%A9%20des%20%C3%A9trangers%2C%20plaide%C2%A0Emmanuel%20Deonna%2C%20chercheur%20en%20sciences%20sociales%0D%0A%0D%0Ahttps://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dmail%26utm_medium%3Dshare%26utm_campaign%3Darticle"><span><i class="fa fa-envelope"></i></span></a>
+        </li>
+    </ul>
+</div>
+                        </div>
+
+                        
+                                                <div class="nl-subscription-container nl-subscription-inarticle">
+                                                  </div>
+                        
+                        <div class="body_content">
+                        
+            <div><p>Les organisations de défense des droits humains s’apprêtent à remettre le 20 novembre prochain au Conseil fédéral un appel contre l’application aveugle des Accords de Dublin ayant recueilli près de 30 000 signatures. Une marche pour la dignité humaine sillonne en ce moment, et jusqu’à la fin du mois de novembre, l’ensemble de la Suisse pour appeler à une autre politique d’asile. Dans ce contexte, des voix se font également entendre pour réclamer l’octroi des droits politiques aux étrangers dépourvus de passeport à la croix blanche.</p><p>Un quart de la population suisse est actuellement privée, pour ainsi dire, de participation démocratique. Les étranger-ère-s qui résident en Suisse et sont dépourvu-e-s de passeport à croix blanche disposent en effet du droit de vote au niveau cantonal et communal dans seulement deux cantons – Jura et Neuchâtel. Au niveau cantonal, quatre cantons – Jura, Neuchâtel, Fribourg et Vaud – octroient aux étranger-ère-s les droits de vote complets et, à Genève, ceux-ci peuvent voter et élire dans les communes, mais, malheureusement, ne peuvent pas y être élu-e-s. Trois cantons de Suisse alémanique, Appenzell Rhodes-Extérieures, Bâle-Ville et les Grisons, permettent à ce jour à leurs communes d’introduire le droit de vote des étrangers.</p><h3>Disparités cantonales</h3><p>Dans tous les cantons et toutes les communes de Suisse, des voix s’élèvent pour revendiquer l’acquisition des droits politiques pour toutes et tous, y compris pour les étrangers résidant sur le territoire suisse. Le critère de durée de séjour pour une telle obtention devrait être uniforme et fixé par le parlement fédéral.</p><p>La naturalisation constitue certes un processus important pour acquérir des droits politiques complets, le droit à la liberté d’établissement et la liberté de déplacement. A cause d’un durcissement des conditions de la naturalisation ordinaire, dans certains cantons comme Genève, les autorités encouragent actuellement les candidats à accélérer leurs demandes de naturalisation. La naturalisation en Suisse est un processus complexe, marqué par des disparités cantonales. Des dysfonctionnements à l’échelle de certains cantons et de certaines communes sont régulièrement mis en évidence. Globalement, malheureusement, la tendance n’est, semble-t-il, ni à la facilitation, ni à la rationalisation du processus de naturalisation.</p><p><strong>Lire aussi:</strong> <a href="/suisse/2017/10/19/demandes-dasile-ont-diminue-dun-tiers-rapport-2016">Les demandes d'asile ont diminué d'un tiers par rapport à 2016</a></p><h3>Inclusion citoyenne</h3><p>Cependant, la question de la naturalisation ne peut pas être séparée de la question de la participation des étrangers à la collectivité. L’inclusion citoyenne de toutes les habitantes et tous les habitants de notre pays implique que des progrès soient réalisés en matière de droit de vote et d’éligibilité des étrangers. Toute la population résidente devrait posséder les moyens légaux suffisants pour participer à la vie sociale. Plusieurs enquêtes, dont une récente étude d’Avenir Suisse, l’indiquent: l’octroi du droit de vote aux étrangers au niveau communal et cantonal pourrait constituer aussi une réponse à la crise de la politique de milice et à l’absence de relève pour le personnel politique.</p><p>Par ailleurs, plusieurs cantons mettent en place des mesures pour garantir non seulement une meilleure inclusion sociale et culturelle des résidents étrangers, mais aussi pour tenter de protéger les populations migrantes les plus vulnérables. Ainsi à Genève, dans le cadre de l’Opération Papyrus, les autorités ont défini des critères plus précis pour présenter une demande de régularisation sur la base de la Loi fédérale sur les étrangers. L’Opération Papyrus permet au canton de Genève de lutter contre la sous-enchère salariale et le travail au noir.</p><p><strong>Lire également:</strong> <a href="/suisse/2017/08/29/suisse-faire-mieux-refugies-mineurs">La Suisse doit faire mieux pour les réfugiés mineurs</a></p><p>Genève remplit ainsi en même temps son devoir de protection envers les personnes en situation irrégulière, qui sont particulièrement exposées aux abus de toutes sortes. Dans le canton de Vaud, plusieurs parlementaires ont manifesté leur intérêt pour l’opération Papyrus. A Bâle, une motion en faveur d’une opération similaire à Papyrus a déjà été votée par le Grand Conseil. Pour l’instant, ces mesures progressistes n’intéressent malheureusement pas le canton de Zurich. C’est pourtant au bord de la Limmat que l’on trouverait plus d’un tiers des personnes sans statut légal («sans-papiers») vivant en Suisse.</p><h3>Devoir de solidarité</h3><p>Notre devoir de solidarité envers les personnes sans statut légal qui travaillent en Suisse s’étend aux réfugiés qui cherchent l’asile dans notre pays. Nous assistons malheureusement à un phénomène de criminalisation de la solidarité. Dans le canton de Vaud, plusieurs élus politiques ayant hébergé des requérants d’asile ont subi les foudres de certains de leurs collègues et la pression des autorités. La députée socialiste tessinoise Lisa Bosia a récemment essuyé une condamnation de la justice pour le rôle d’assistance qu’elle a joué à la frontière tessinoise.</p><p>Il est de notre devoir de réagir face aux critiques injustifiées, aux tentatives de pression ou d’intimidation. Notre considération et notre solidarité doivent s’appliquer à toutes les personnes de bonne volonté qui résident dans notre pays, qu’elles soient Suisses, naturalisées, en voie de naturalisation, au bénéfice d’un permis de séjour de longue ou de courte durée, sans statut légal ou requérantes d’asile.</p></div>
+      
+                        </div>
+
+                        
+                        
+                                                    <div class="related-news">
+                              <div class="spacer spacer-xs"></div>
+                              <h2>Continuez votre lecture</h2>
+                              <div class="article-cards article-media">
+                                                                          
+    
+      
+        <div class="views-view-grid vertical cols-2 clearfix">
+            <div class="col-sm-6">
+                  <div><h4 class="article-headliner">
+    <span class="article-categories">
+
+      <span class="label label-primary">
+            Opinion
+      </span><br>
+     </span>
+    <a href="/opinions/migration-prendre-serieux" class="link link-shade"><span>La migration, à prendre au sérieux</span>
+</a>
+    <small><a class="link link-muted square-char" href="/opinions/migration-prendre-serieux">
+              <time datetime="2018-10-14T16:18:28Z">14 octobre 2018</time>
+
+          </a></small>
+</h4>
+</div>
+                  <div><h4 class="article-headliner">
+    <span class="article-categories">
+
+      <span class="label label-primary">
+            Méditerranée
+      </span><br>
+     </span>
+    <a href="/monde/italie-migrants-arretes-chaine-tenu-barre" class="link link-shade"><span>En Italie, les migrants sont arrêtés à la chaîne pour avoir tenu la barre</span>
+</a>
+    <small><a class="link link-muted square-char" href="/monde/italie-migrants-arretes-chaine-tenu-barre">
+              <time datetime="2018-10-11T17:22:08Z">11 octobre 2018</time>
+
+          </a></small>
+</h4>
+</div>
+                  <div><h4 class="article-headliner">
+    <span class="article-categories">
+
+      <span class="label label-primary">
+            Allemagne
+      </span><br>
+     </span>
+    <a href="/culture/lafd-boite-outils-rhetorique-dhitler" class="link link-shade"><span>L’AfD et la boîte à outils rhétorique d’Hitler</span>
+</a>
+    <small><a class="link link-muted square-char" href="/culture/lafd-boite-outils-rhetorique-dhitler">
+              <time datetime="2018-10-10T20:00:03Z">10 octobre 2018</time>
+
+          </a></small>
+</h4>
+</div>
+              </div>
+          <div class="col-sm-6">
+                  <div><h4 class="article-headliner">
+    <span class="article-categories">
+
+      <span class="label label-primary">
+            Migrants
+      </span><br>
+     </span>
+    <a href="/suisse/laquarius-suisse-couts-seraient-eleves" class="link link-shade"><span>«L’Aquarius en Suisse? Les coûts seraient trop élevés»</span>
+</a>
+    <small><a class="link link-muted square-char" href="/suisse/laquarius-suisse-couts-seraient-eleves">
+              <time datetime="2018-10-09T21:03:22Z">09 octobre 2018</time>
+
+          </a></small>
+</h4>
+</div>
+                  <div><h4 class="article-headliner">
+    <span class="article-categories">
+
+      <span class="label label-primary">
+            Humanitaire
+      </span><br>
+     </span>
+    <a href="/suisse/25-000-signatures-demander-quun-pavillon-suisse-soit-donne-laquarius" class="link link-shade"><span>25 000 signatures pour demander qu’un pavillon suisse soit donné à l’Aquarius</span>
+</a>
+    <small><a class="link link-muted square-char" href="/suisse/25-000-signatures-demander-quun-pavillon-suisse-soit-donne-laquarius">
+              <time datetime="2018-10-09T10:42:00Z">09 octobre 2018</time>
+
+          </a></small>
+</h4>
+</div>
+                  <div><h4 class="article-headliner">
+    <span class="article-categories">
+
+      <span class="label label-primary">
+            Méditerranée
+      </span><br>
+     </span>
+    <a href="/monde/gauche-italienne-envoie-un-bateau-sauver-migrants-libye" class="link link-shade"><span>La gauche italienne envoie un bateau pour sauver des migrants en Libye</span>
+</a>
+    <small><a class="link link-muted square-char" href="/monde/gauche-italienne-envoie-un-bateau-sauver-migrants-libye">
+              <time datetime="2018-10-04T16:46:34Z">04 octobre 2018</time>
+
+          </a></small>
+</h4>
+</div>
+              </div>
+      </div>
+
+  
+          
+                                                                </div>
+                            </div>
+                        
+                        <div class="share">
+    <p class="text-uppercase">Partage</p>
+    <ul class="list-unstyled">
+        <li class="fb">
+            <a href="https://www.facebook.com/sharer.php?u=https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dfacebook%26utm_medium%3Dshare%26utm_campaign%3Darticle&display=popup&ref=plugin&src=share_button"
+               class="share-facebook" data-href="https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dfacebook%26utm_medium%3Dshare%26utm_campaign%3Darticle" data-send="false" data-action="share" data-layout="button" rel="nofollow" target="_blank">
+               <!-- <span class="sr-only">Partager sur Facebook</span> --><span><i class="fa fa-facebook"></i><span> Partager</span></span>
+            </a>
+        </li>
+        <li class="tw">
+            <a href="https://twitter.com/intent/tweet?text=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits%0D%0Ahttps://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dtwitter%26utm_medium%3Dshare%26utm_campaign%3Darticle%20via%20%40letemps" class="share-twitter" data-text="R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits" data-count="none" rel="nofollow" target="_blank">
+                <!-- <span class="sr-only">Partager sur Twitter</span> <--><span><i class="fa fa-twitter"></i><span> Tweeter</span></span>
+            </a>
+        </li>
+        <li class="li">
+            <a href="https://www.linkedin.com/shareArticle?url=https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dlinkedin%26utm_medium%3Dshare%26utm_campaign%3Darticle&mini=true&title=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits&summary=OPINION.%20L%E2%80%99inclusion%20citoyenne%C2%A0de%20tous%20les%20habitants%20de%20notre%20pays%20implique%20que%20des%20progr%C3%A8s%20soient%20r%C3%A9alis%C3%A9s%20en%20mati%C3%A8re%20de%20droit%20de%20vote%20et%20d%E2%80%99%C3%A9ligibilit%C3%A9%20des%20%C3%A9trangers%2C%20plaide%C2%A0Emmanuel%20Deonna%2C%20chercheur%20en%20sciences%20sociales&source=Le%20Temps" class="share-linkedin" rel="nofollow" target="_blank">
+               <!--  <span class="sr-only">Partager sur Linkedin</span> <--><span><i class="fa fa-linkedin"></i><span> Partager</span></span>
+            </a>
+        </li>
+        <li class="wa visible-xs-inline">
+            <a href="whatsapp://send?text=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits%20https%3A%2F%2Fwww.letemps.ch%2Fopinions%2Frefugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dwhatsapp%26utm_medium%3Dshare%26utm_campaign%3Darticle" class="share-whatsapp" rel="nofollow" target="_blank"><span><i class="fa fa-whatsapp"></i></span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="share-email" href="mailto:?subject=LeTemps.ch : R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits&body=R%C3%A9fugi%C3%A9s%2C%20sans-papiers%2C%20%C3%A9trangers%3A%20accueillir%20et%20octroyer%20des%20droits%0D%0A%0D%0AOPINION.%20L%E2%80%99inclusion%20citoyenne%C2%A0de%20tous%20les%20habitants%20de%20notre%20pays%20implique%20que%20des%20progr%C3%A8s%20soient%20r%C3%A9alis%C3%A9s%20en%20mati%C3%A8re%20de%20droit%20de%20vote%20et%20d%E2%80%99%C3%A9ligibilit%C3%A9%20des%20%C3%A9trangers%2C%20plaide%C2%A0Emmanuel%20Deonna%2C%20chercheur%20en%20sciences%20sociales%0D%0A%0D%0Ahttps://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits%3Futm_source%3Dmail%26utm_medium%3Dshare%26utm_campaign%3Darticle"><span><i class="fa fa-envelope"></i></span></a>
+        </li>
+    </ul>
+</div>
+                    </div>
+
+                    
+                    <div class="text-centered">
+                          <div id="adtechAdm-5819835" class="ad-container">
+          <div class="ad">
+        <small>Publicité</small>
+            <div id="5819835" class="adtech adtech__05desktopmonsterboard adtech__5819835 modAd"></div>
+        <script>
+                    current_breakpoint = window.getComputedStyle(document.querySelector('body'), '::before').getPropertyValue('content').replace(/\"/g, '');
+          breakpoints = ["letemps.large"];
+
+          if (breakpoints.includes(current_breakpoint)) {
+
+                      document.getElementById('adtechAdm-5819835').style.display = 'inherit';
+
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(5819835);
+            }
+            else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(5819835);
+              });
+            }
+                      }
+                  </script>
+          </div>
+      </div>
+
+                    </div>
+                </div>
+
+                <div class="spacer spacer-sm"></div>
+
+                                
+            </div>
+            <div class="col-md-4 text-right">
+                <div class="spacer spacer-md"></div>
+                                <div class="text-centered">
+                      <div id="adtechAdm-5819843" class="ad-container">
+          <div class="ad">
+        <small>Publicité</small>
+            <div id="5819843" class="adtech adtech__03desktophalfpageadatf adtech__5819843 modAd"></div>
+        <script>
+                      document.getElementById('adtechAdm-5819843').style.display = 'inherit';
+
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(5819843);
+            }
+            else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(5819843);
+              });
+            }
+                  </script>
+          </div>
+      </div>
+
+                </div>
+                <div class="text-centered">  <div id="adtechAdm-5825661" class="ad-container">
+            <div id="5825661" class="adtech adtech__12desktoptextteaser adtech__5825661 modAd"></div>
+        <script>
+                      document.getElementById('adtechAdm-5825661').style.display = 'inherit';
+
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(5825661);
+            }
+            else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(5825661);
+              });
+            }
+                  </script>
+      </div>
+</div>
+            </div>
+        </div>
+    </div>
+</article>
+
+<div class="paywall-article">
+<div class="bg-gray-lighter">
+    <div class="spacer spacer-md"></div>
+    <div class="container">
+
+        <div class="row anon_num_articles reg_num_articles" style="display:none">
+            <div class="col-sm-offset-1 col-sm-10 text-center">
+                <p class="text-medium text-nevada">Vous avez atteint le nombre maximum d'articles disponibles gratuitement<sup>*</sup>.</p>
+                <p class="h3 text-thin login"><a href="https://boutique.letemps.ch/abonnements?utm_source=website&utm_medium=link&utm_campaign=paywall&utm_content=1072927">Abonnez-vous</a> ou si vous êtes déjà abonné <a href="/user/login?destination=/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits">connectez-vous</a></p>
+                <div class="spacer spacer-sm"></div>
+                <p><a class="btn btn-primary btn-lg" href="https://boutique.letemps.ch/abonnements?utm_source=website&utm_medium=button&utm_campaign=paywall&utm_content=1072927">S'abonner</a>
+                <div class="spacer spacer-sm"></div>
+            </div>
+                        <div class="col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
+                <small><sup>*</sup>Vous bénéficiez de 10 articles gratuits chaque mois.</small>
+                <div class="spacer"></div>
+            </div>
+        </div>
+
+        
+
+<!-- start offers -->
+    <div class="subscribe" style="display:none">
+        <!--
+        <div class="row">
+            <div class="col-lg-offset-1 col-lg-10">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <a href="#" class="product-card">
+                            <h3 class="h4">Abonnement<br>Digital</h3>
+                            <img class="img-responsive" src="/themes/custom/letemps/assets/svg/abo-digital.svg" onerror="this.onerror=null; this.src='/themes/custom/letemps/assets/img/abo-digital.png'" alt="abo-digital" />
+                            <div class="product-content">
+                                <p>Accès digital intégral<br><span class="text-primary text-uppercase small">Sans engagement</span></p>
+                                <span class="text-primary text-lg">Dès 9.-/mois</span></p>
+                            </div>
+                            <button class="btn btn-primary btn-lg">S'abonner</button>
+                            <p class="text-muted"></p>
+                        </a>            <ul class="list-group">
+                            <li class="list-group-item">Supports numériques</li>
+                            <li class="list-group-item">Consultation illimitée</li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="#" class="product-card">
+                            <h3 class="h4">Abonnement<br>Digital & Week-end</h3>
+                            <img class="img-responsive" src="/themes/custom/letemps/assets/svg/abo-1jour.svg" onerror="this.onerror=null; this.src='/themes/custom/letemps/assets/img/abo-1jour.png'" alt="abo-1jour" />
+                            <div class="product-content">
+                                <p>Accès digital intégral<br>& le journal du samedi</p>
+                                <span class="text-primary text-lg">Dès 39.-/mois</span></p>
+                            </div>
+                            <button class="btn btn-primary btn-lg">S'abonner</button>
+                            <p class="text-muted"></p>
+                        </a>            <ul class="list-group">
+                            <li class="list-group-item">Supports numériques</li>
+                            <li class="list-group-item">Consultation illimitée</li>
+                            <li class="list-group-item">Versions PDF</li>
+                            <li class="list-group-item"><strong>Édition papier du samedi avec les suppléments</strong></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <a href="#" class="product-card">
+                            <h3 class="h4">Abonnement<br>Premium</h3>
+                            <img class="img-responsive" src="/themes/custom/letemps/assets/svg/abo-7jours.svg" onerror="this.onerror=null; this.src='/themes/custom/letemps/assets/img/abo-7jours.png'" alt="abo-7jours" />
+                            <div class="product-content">
+                                <p>Accès digital intégral &<br>le journal toute la semaine</p>
+                                <span class="text-primary text-lg">Dès 44.-/mois</span></p>
+                            </div>
+                            <button class="btn btn-primary btn-lg">S'abonner</button>
+                            <p class="text-muted"></p>
+                        </a>            <ul class="list-group">
+                            <li class="list-group-item">Supports numériques</li>
+                            <li class="list-group-item">Consultation illimitée</li>
+                            <li class="list-group-item">Versions PDF</li>
+                            <li class="list-group-item"><strong>Édition papier toute la semaine avec les suppléments</strong></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="spacer"></div>
+        <div class="row">
+            <div class="col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8">
+                <p class="text-center">Chaque offre propose le choix de paiement mensuel ou par année avec un rabais de 15%.</p>
+                <div class="spacer spacer-sm"></div>
+            </div>
+        </div>
+        -->
+    </div>
+<!-- end offers -->
+    </div>
+</div>
+<div class="spacer"></div>
+</div>
+
+
+
+<div class="lazy-load-related" data-section-id="34">
+  <div class="loader">
+   <div class="circle1"></div>
+   <div class="circle2"></div>
+   <div class="circle3"></div>
+  </div>
+</div>
+
+<div id="gallery" class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="pswp__loading-indicator"><div class="pswp__loading-indicator__line"></div></div> -->
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip">
+                    <!-- <a href="#" class="pswp__share--facebook"></a>
+                    <a href="#" class="pswp__share--twitter"></a>
+                    <a href="#" class="pswp__share--pinterest"></a>
+                    <a href="#" download class="pswp__share--download"></a> -->
+                </div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="share-by-mail-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Partager un article</h4>
+            </div>
+            <div class="modal-body">
+                <form class="share-by-mail-form" data-drupal-selector="share-by-mail-form" action="/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits" method="post" id="share-by-mail-form" accept-charset="UTF-8">
+  <span class="share-from-valid-message"></span><div class="form-group js-form-item form-item js-form-type-email form-item-share-from js-form-item-share-from form-no-label">
+        <input placeholder="Votre adresse email" class="share-from form-email form-control" data-drupal-selector="edit-share-from" type="email" id="edit-share-from" name="share_from" value="" size="60" maxlength="254" />
+
+        </div>
+<span class="share-to-valid-message"></span><div class="form-group js-form-item form-item js-form-type-textarea form-item-share-to js-form-item-share-to form-no-label">
+        <div>
+  <textarea placeholder="Adresse email de votre(vos) ami(s). Une adresse par ligne." class="share-to form-textarea" rows="3" data-drupal-selector="edit-share-to" id="edit-share-to" name="share_to" cols="60"></textarea>
+</div>
+
+        </div>
+<div class="form-group js-form-item form-item js-form-type-textarea form-item-message-body js-form-item-message-body form-no-label">
+        <div>
+  <textarea rows="10" data-drupal-selector="edit-message-body" id="edit-message-body" name="message_body" cols="60" class="form-textarea">Bonjour,
+Un ami vous recommande un article sur LeTemps.ch:
+
+Réfugiés, sans-papiers, étrangers: accueillir et octroyer des droits
+https://www.letemps.ch/opinions/refugies-sanspapiers-etrangers-accueillir-octroyer-droits?utm_source=mail&amp;utm_medium=share&amp;utm_campaign=article
+
+Cordialement,
+Le Temps</textarea>
+</div>
+
+        </div>
+<div class="form-group js-form-item form-item js-form-type-checkbox form-item-email js-form-item-email form-no-label">
+        <input class="winnie form-checkbox" data-drupal-selector="edit-email" type="checkbox" id="edit-email" name="email" value="1" />
+
+        </div>
+<input data-drupal-selector="edit-message-subject" type="hidden" name="message_subject" value="Un ami vous recommande un article sur LeTemps.ch" />
+<span class="send-share-message"></span><div class="btn btn-primary form-submit">Envoyer <div class="form-group js-form-item form-item js-form-type-checkbox form-item-alternate-submit js-form-item-alternate-submit form-no-label">
+        <input data-drupal-selector="edit-alternate-submit" type="checkbox" id="edit-alternate-submit" name="alternate_submit" value="1" checked="checked" class="form-checkbox" />
+
+        </div>
+<span class="ajax-progress ajax-progress-throbber"><span class="throbber">&nbsp;</span>&nbsp;</span></div><input autocomplete="off" data-drupal-selector="form-bwz5hjyuv-3eo9mvlv9lvuhrxprooqisi8ek4zes4fy" type="hidden" name="form_build_id" value="form-BWz5hJYuv-3eo9mVlv9lVUHrxProoQISI8EK4zeS4FY" />
+<input data-drupal-selector="edit-share-by-mail-form" type="hidden" name="form_id" value="share_by_mail_form" />
+
+</form>
+
+            </div>
+            <!--div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Send message</button>
+            </div-->
+        </div>
+    </div>
+</div>
+  </div>
+<div id="block-adtechblock-3" class="block block-np8-adtech">
+  
+    
+          <div id="adtechAdm-6276066" class="ad-container">
+            <div id="6276066" class="adtech adtech__13inreadteadsartikel adtech__6276066 modAd"></div>
+        <script>
+                      document.getElementById('adtechAdm-6276066').style.display = 'inherit';
+
+            if (window.persAdInitAd) {
+              persAdInitAd.loadAd(6276066);
+            }
+            else {
+              document.addEventListener("admLoadAdReady", function () {
+                window.persAdInitAd.loadAd(6276066);
+              });
+            }
+                  </script>
+      </div>
+
+    </div>
+
+  </div>
+
+</main>
+    <div>
+    <div id="block-letemps-socialmedialinks" class="block block-block-content">
+  
+    
+      
+            <div><div class="bg-gray-lighter">
+<div class="container">
+<div class="row text-center">
+<div class="col-md-10 col-md-offset-1">
+<div class="spacer spacer-sm"> </div>
+
+<h4 class="section-title text-center">Suivez toute l'actualité du Temps sur les réseaux sociaux</h4>
+
+<ul class="list-inline social-networks"><li><a class="facebook" href="https://www.facebook.com/letemps.ch" target="_blank">Facebook</a></li>
+	<li><a class="twitter" href="https://twitter.com/letemps" target="_blank">Twitter</a></li>
+	<li><a class="instagram" href="https://www.instagram.com/letemps.ch/" target="_blank">Instagram</a></li>
+	<li><a class="linkedin" href="https://www.linkedin.com/company/le-temps/" target="_blank">LinkedIn</a></li>
+</ul><div class="spacer spacer-sm"> </div>
+</div>
+</div>
+</div>
+<!-- /container -->
+</div></div>
+      
+  </div>
+
+  </div>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-5 col-md-4 col-md-offset-1">
+  <div class="media">
+    <div class="media-left">
+      <i class="media-object ltpsicon ltpsicon-newspaper"></i>
+    </div>
+    <div class="media-body">
+      <a href="/newsletters" style="text-decoration:none">
+        <h4 class="media-heading h5">Vos newsletters</h4>
+        <p>Inscrivez-vous et recevez les newsletters de votre choix. <b>Voir la liste</b>.</p>
+      </a>
+    </div>
+
+  </div>
+</div>
+<div class="col-sm-7 col-md-6">
+  <div class="spacer spacer-xxs"></div>
+  <div class="nl-subscription-container-footer"></div>
+  <div class="spacer spacer-xxs"></div>
+</div>
+    </div>
+  </div>
+      <div class="footer-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 col-lg-offset-1 footer-credits">
+            <img class="logo" src="https://assets.letemps.ch/themes/custom/letemps/assets/svg/logo-negative.svg" alt="" />
+            <img class="logo-t" src="https://assets.letemps.ch/themes/custom/letemps/assets/svg/logo-t-negative.svg" alt="" />
+              
+        <ul class="list-inline">
+              <li class="hidden-xs">
+                    <a href="/a-propos" class="hidden-xs">À propos</a>
+                </li>
+              <li>
+                    <a href="https://www.letemps.ch/abos" class="">Abonnements</a>
+                </li>
+              <li>
+                    <a href="http://www.admeira.ch/fr/brands/digital/letemps-ch" class="">Publicité</a>
+                </li>
+              <li>
+                    <a href="/abonnes/services" class="">Services</a>
+                </li>
+              <li>
+                    <a href="/contact/annuaire" class="">Impressum</a>
+                </li>
+              <li>
+                    <a href="/protection-donnees" class="">Protection des données</a>
+                </li>
+      </ul>
+  
+
+
+
+            <a class="btn btn-default btn-top pull-right" href="#top"><i class="fa fa-chevron-up"></i></a>
+          </div>
+        </div>
+
+        <div class="row text-center">&nbsp;</div>
+
+        <div class="spacer spacer-sm"></div>
+
+      </div>
+    </div>
+  </footer>
+
+  </div>
+
+    
+    <script src="https://assets.letemps.ch/sites/default/files/js/js_p2uIu2FtJyo4fxbvTzUOou_TNlZl_niDWwSq8mJqDmA.js"></script>
+<script src="https://players.brightcove.net/5104226614001/BJqobDOb6_default/index.min.js"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="https://assets.letemps.ch/sites/default/files/js/js_Lsyp0HiMqh88WV8_r7ree4yh97WcNA5CnhYaPMEKXmU.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0d3c09e20d","applicationID":"8284479","transactionName":"ZlZTY0pZCxBVBRJQC18cckJLTAoOGwMITQ1FSh9ZV1wATVcHCFYKWFBQWw==","queueTime":0,"applicationTime":424,"atts":"ShFQFQJDGB4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
