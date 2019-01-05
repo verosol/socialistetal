@@ -57,7 +57,7 @@ for fichier in $(ls $1)
 						#-------------------------------------------------------------------
 						# 1. contexte
 						egrep -i "$3" ./DUMP-TEXT/$compteurtableau-$compteur.txt > ./CONTEXTES/$compteurtableau-$compteur.txt;
-						# 2. Fq motif
+						# 2. Fq motif #pour le macOS on utilise juste les chemins car c'est déjà compilé: ./minigrepmultilingue-v2/minigrepmultilingue-macosx "UTF-8" ./DUMP-TEXT/$compteurtableau-$compteur.txt ./minigrepmultilingue-v2/motif-regexp.txt
 						nbmotif=$(egrep -coi "$3" ./DUMP-TEXT/$compteurtableau-$compteur.txt);
 						# 3. contexte html
 						perl5.28.1.exe ./PROGRAMMES/minigrep/minigrepmultilingue.pl "UTF-8" ./DUMP-TEXT/$compteurtableau-$compteur.txt ./PROGRAMMES/motif_choisi.txt
